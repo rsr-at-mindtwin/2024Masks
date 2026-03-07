@@ -636,7 +636,7 @@ They are hoping the sea air will help Sarafina and the Father recover from their
 
 Sunday, 18th April 1925 - Shanghai
 
-On March 27, 1926, our intrepid band of — Monty, Gus, Lia, Sarafina, and Father Rory — shook the dust of Port Said off their boots and boarded a steamer for a twenty-one-day record-breaking voyage to Shanghai. The three-week journey was less about luxury and more about licking wounds; Father Rory, Lia, and Sarafina spent their time failing constitution rolls while trying to recover from major injuries sustained in their previous mishaps. When not bleeding, they pored over various "light reading" materials, including the Enochtic manuscripts and Liber Ivonis, attempting to learn spells that the Keeper graciously reminded them were essentially "buffer overruns" in the universe's implementation. Gus managed to "quickly" learn something called Satan’s Eye, which he immediately deemed worse than useless.
+On March 27, 1925, our intrepid band of — Monty, Gus, Lia, Sarafina, and Father Rory — shook the dust of Port Said off their boots and boarded a steamer for a twenty-one-day record-breaking voyage to Shanghai. The three-week journey was less about luxury and more about licking wounds; Father Rory, Lia, and Sarafina spent their time failing constitution rolls while trying to recover from major injuries sustained in their previous mishaps. When not bleeding, they pored over various "light reading" materials, including the Enochtic manuscripts and Liber Ivonis, attempting to learn spells that the Keeper graciously reminded them were essentially "buffer overruns" in the universe's implementation. Gus managed to "quickly" learn something called Satan’s Eye, which he immediately deemed worse than useless.
 
 The group arrived in Shanghai in mid-April 1926, greeted by the early morning smog and the delightful experience of customs agents immediately confiscating their guns and ammunition. After being handed a paper receipt and a "Welcome to China," they navigated the bustling, soot-covered chaos of the Bund.
 
@@ -861,7 +861,7 @@ Late evening on the night of the 20th of April 1925.
 
 Having agreed to escort the shaken scholar Mu Hsien to his home, they set off through the humid, fog-drenched streets of March in Shanghai. Lit by lantern, humid, dark. They send Li Wen-Cheng home - or he begs to leave, a little of both. They are followed by the feral girl, Mu’s fierce young guardian, who refused to leave his side out of concern, at least until the find a cab and head out.
 
-They get to a cab and head out, arriving 40-ish minutes later. Mu pays. They get out into the foggy lantern lit scene and the cab takes off. Mu approaches his house slowly - they somehow make out two apparent guards hiding in the shadows at the corners of the house wall, young men. They head to the gate - they manage to hear some activity inside, like someone ranting (in English) and someone brushing against foliage.  Electric lights are on in one of the inner buildings but because of the wall it's unclear what's going on. Mu pauses a bit at the gate and notes that the lock seems to have been tampered with. 
+They get to a cab and head out, arriving 40-ish minutes later. Mu pays. They get out into the foggy lantern lit scene and the cab takes off. Mu approaches his house slowly - they somehow make out two apparent guards hiding in the shadows at the corners of the house wall, young men. They head to the gate - they manage to hear some activity inside, like someone pacing and talking to themselves (in English) and someone brushing against foliage.  Electric lights are on in one of the inner buildings but because of the wall it's unclear what's going on. Mu pauses a bit at the gate and notes that the lock seems to have been tampered with. 
 
 Inside they find an assassin of the bloated woman wearing the robes and the front-padding of the cult. The father dispatches him and then a large number of cultists and Carl Stanford arrive outside. Things go bad, there is much threatening. Everyone flees inside and Mu does something with the inner lock.  Suddenly, a big caucasian man steps out wielding a shotgun threatens them. They rapidly realize this is Jack Brady, and Jack Brady rapidly realizes they may not be enemies since they are with Mr. Mu, and talk their way into the study, which they barricade with the desk. Jack sends Serafina down the hall to fetch some guns, which she heads out to do.
 
@@ -901,8 +901,67 @@ They talk about the Eye of Light and Darkness.
 
 Brady states he cannot attack the island until the next new moon because he wants to do it at the night of a ritual - Mu concurs that no cult member will be standing guard as they will all be involved. He also wants Mu to translate part of the remaining necessary parts of the seven books. Before the assault, Brady plans to rescue his friend and take care of a "debt" he needs to take care of in Australia before the final confrontation.  The friend is confirmed to be Choi Mei-ling, the girl who was helping to hide him at the flower house.
 
-NOW: Very late on the evening of 20th of April 1925. 
-LOCATION: Still at Mr. Mu's house
+Very late on the evening of 20th of April 1925. Still at Mr. Mu's house
+
+Still in the company of Mu Hsien and Jack Brady, the 41-year old bodyguard of Roger Carlyle and the only remaining sane survivor of the Carlyle Expedition. When questioned about his relationship with the missing young woman and "friend" he wants to rescue, Jack clarifies she is absolutely not his daughter.
+
+Jack expresses deep agitation regarding how his enemies continue to find him, noting he is on his "fifth residence in three weeks". He admits he doesn't know how he is being tracked, though he agrees with Father Rory that if they can track him, they will see him coming. The investigators speculate that a personal item might be used to target him via magic, similar to the "main barrier" or the "mirror" they previously encountered. Jack mentions he had no issues until arriving in Shanghai and believes the cultists may have learned something in the pyramid that allows them to see him. The Father mentions they are aware of other ways that people may be watched. Jack notes that it isn't instantaneous - there's delay before they find him each time.
+
+Jack fetches a hand-scribbled map of Ho Fang’s compound. Key details shared include that there are between six and eight full-time living-in servants, he kind of has some of the details as to which rooms are which for those (Father Rory surmises that his inside source must be a servant). The windows are not barred, but the house is guarded at least on the outside at all times, and in China there will not be guards inside.  Jack suggests the Northern wall, a 14-foot barrier with vines, as the most vulnerable entry point because the guards don't expect anyone to go over it. Ho Fang's young daughter (seven or eight years old) is probably there. He doesn't think Carl Stanford is there during the day as he's had people try and track him; he leaves every morning and they don't see him come back.
+
+Jack also mentions a secretary at Ho Fang’s warehouse on Kaoyang Street named Soon, whom he describes as a "real looker". He suspects she knows her boss's business is shady. There is a brief discussion of checking in at the warehouse to see if Ho Fang is there, as he apparently - despite being a wealthy, powerful gangster - actually puts in significant time at the office.
+
+The investigators brief Jack on the horrors they have witnessed, including the summoning of Byakkee and the events underground in Cairo. Jack’s reaction is one of weary disbelief: "You've got to be shitting me... I'm so goddamn tired of magic and spells and cults and necklaces and glowing horse shit. I don't want anything to do with this." 
+
+Well, too bad, says the father. 
+
+Jack is determined to deal with Sir Aubrey Penhew, stating, "It needs to be done. Or this is never going to end." He mentions Grey Dragon Island, noting that rogue waves wipe out any boats that get close. He plans to attack the island during a New Moon ritual - the next being April 23rd, two days from now, being too soon, so instead on May 8th — believing the cultists will be too distracted by the ceremony to stand guard. Mu concurs. No cultist will allow themselves to be excluded from ritual so the island is probably going to be unguarded for those hours. Jack is OK with this - he's not ready to go, New China isn't ready to go, and he's worried he may not be coming back, and if so, nobody will rescue his friend. He also has something to take care of in Australia that he's not talking about yet.
+
+Jack tells them he and Mr. Mu are coming with them. It's not safe for them here anymore and Mu Hsien needs time to translate at least the important bits - the Eye of Light and Darkness ritual and spell. The group decides that while they can spend the night here - Jack notes that there seems to be delays between the attacks, and also that he knows from his time with the Carlyle expedition that they seem to need to recharge after doing anything "magical." And then they will leave Mr. Mu's house and relocate. There is much discussion about where. Jack's not a fan of the Astor as he will stick out. After a lot of back and forth where everyone in the group acknowledges the Astor is under surveillance of some kind, Mu Hsien suggests Chang Ning's place.  Some complaint about it being a firetrap but still. Serafina takes first watch, and the remaining night is uneventful. Mu also says that in the morning he will seek out Madame Lin and offer her the books (returned) if she pledges not to share them with others. This is not a great plan.
+
+In the morning, there are three prongs of activity. First, Jack is going to head to one of the New China buildings to order up some cannon fodder both to come to take care of the bodies at Mu's place but also to have seven or eight guards at Chang Ning's.  Monty and Serafina decide to go with him.  Second, the Father and Gus are going to briefly return to the Astor House Hotel to retrieve artifacts, and third Mr. Mu and Lia are going to oversee the first parts of the cleanup and Mu Hsien packing. Then they will head to Chang Ning's. It will be a surprise says Mu Hsien.
+
+The father and Gus head to the hotel. No one seems to follow them. The (confused at their arrival without departure) front desk has a message for them as well as a mention that another person, who left no calling card or message, had come mentioning artifacts. 
+
+The message is a single page in elegant hand, unsigned, undated and unaddressed in a simple envelope. It reads: 
+
+	The stars are cruel, but they are honest. They suggest that your thread is winding thin in this humid air. 
+
+	I find this city increasingly crowded. Small men with large ambitions. It no longer suits me. Before the week wanes, I intend to excise a certain canker from the docks who fancies himself a master of ceremonies, yet understands nothing. Once his silence is bought, I shall follow the sun to the high, red earth, familiar and not, where the air is thin enough to breathe.
+
+	If you still possess that curious, misplaced courage and seek the scent of jasmine and old copper before I depart, perhaps we will meet. Do not be late. This world is forgetting you already and the new world arrives soon enough.
+
+They conclude this is Nitocris again.  They fetch their stuff and head to Chang Ning's.
+
+Jack takes Serafina and Monty to a New China (Firm Action) safe house. He introduces them to a fanatic named Chu Min, the high-strung leader of this paramilitary anti-communist group. Outside, Serafina spots a familiar "not-drunk" Japanese man, Captain Isoge, that she spotted previously at the Stumbling Tiger bar. He is obviously spying on the warehouse, though with enough professionalism that the New China kids haven't noticed. The first thing Chu Min does is dress down the loitering guards outside for whatever reasons he has. They straighten up a bit. They mention the man watching them, and Chu Min, beyond high strung, things to storm over and teach the "communist" a lesson. They talk him out of it.
+
+They go inside and there is much arguing between Chu Min and Brady but eventually Chu Min relents. Around them are printing presses, silkscreen beds, and what appear to be nationalist wannabes languidly reading literature or simply smoking. They decide to head out.
+
+Isoge is still there, and Serafina notes it.  Jack is a man of the direct approach and immediately strides over to Isoge. Isoge reaches inside his jacket, but Jack is fast: before his hand makes it, Jack has his wrist. Monty disarms him of a .45 caliber 1911 mauser, with noise suppressor, and Serafina finds a knife and papers in Japanese. Isoge reveals he is an undercover agent for the Imperial Navy investigating a weapon being built on Grey Dragon Island with machinery shipped from England. They are talking back and forth, coming to terms that they may have aligned interests, when things turn violent. Unnoticed, Chu Min runs out of the warehouse and straight for them, pulling a handgun and shooting Isoge in the head. Jack, disgusted by the "mess," punches Chu Min squarely in the face, sending him sprawling. At this point it is time to go - a little first aid on Isoge does nothing, Jack notes he is done for and that they need to leave. Now. So he does. The others catch up.
+
+They regroup at Chang Ning’s to hide their artifacts (just under some random Chang Ning stuff, of which there is plenty). Jack is frustrated and spun up by the encounter at New China, and proposes - let's go, right now, we'll do this. They remind him that he suggested checking the warehouse, but he's looking for action and says, basically, it'll be fine, let's go. And so they decide to agree to launch a daytime raid on Ho Fang’s mansion. Jack and Father Rory head to the front gate to provide a noisy distraction, while the rest of the team prepares to scale the Northern wall.
+
+The mansion looms like a fortress of dark tile and ill-gotten gains.
+
+"Alright, Father," Brady says, "You wanted a distraction so the others can slip over the north wall?"
+
+The father agrees that's the plan.
+
+"Ok, you’re about to get a god-damned parade.  I’m a simple man, Padre," Brady says. Before Rory can ask what that means, Brady roats: "HO FANG! YOU BLOATED SACK OF LEPER SHIT! OPEN THE GATE!"
+
+He then takes out his gun with amazing speed and starts shooting. He shoots at the gate, the walls, etc. 
+
+"I KNOW SHE'S IN THERE! BRING OUT CHOI MEI-LING! BRING HER OUT NOW OR I’M GOING TO TURN THIS PAGODA INTO A GOD-DAMNED FUNERAL PYRE!"
+
+The father is stunned. Brady levels the gun and begins methodically putting lead into the gatehouse windows, and the rest. There's no real targets, he's just shooting: bang bang bang.
+
+"GIVE ME THE GIRL, YOU SLANT-EYED SORCERER!" Brady screams. He reloads and is back to shooting with practiced, terrifying speed. 
+
+"COME AND GET THE AMERICAN, YOU BASTARDS!" he yells, "I’VE BEEN WAITING FIVE YEARS FOR THIS PARTY!"
+
+At the other side of the compound, the group at the Northern wall hears the gunshots and the yelling, and it's time.
+
+WHEN: High Noon on the 21st of April 1925. WHERE: Ho Fang's mansion - the Father and Jack Brady up front creating a "distraction" and everyone else back behind the mansion's 14' northern wall.
 
 1926
 
@@ -1042,6 +1101,8 @@ PEOPLE (incomplete):
 	Moonlight on Water (alias) - flower girl, accompanied Quivering Jade, selected by Gus
 	Carl Stanford - apparently a rare book buyer who engages in threats, someone of great concern for unknown reasons
 	Jules Savoyard - captain of the DARK MISTRESS per the British Consulate
+	Sun Ch’unhua - Ho Fang's (Jack: petite young, real looker) secretary
+	Chu Min - Leader of New China and specifically Firm Action
 
 Sessions:
 
@@ -1103,4 +1164,4 @@ Sessions:
 	2026-01-16 Flower house with Quivering Jade and others
 	2026-01-30 Following on the footsteps of Jack Brady then dinner with Mu Hsien
 	2026-02-27 Shit goes down at the house of Mr. Mu (and Jack Brady arrives)
-
+	2026-03-06 The Father and Jack Brady create a distraction
