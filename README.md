@@ -10,75 +10,127 @@ MARCH 1921
 JANUARY 1925
 
 15th - Everyone arrived in New York one cold winter day. They arrived, except the father, just as Jackson met his end (Thursday)
+
 16th - Interviewing Dr. Moredecai Lemming and other adventures (Friday)
+
 17th - A trip to Emerson Imports, Visited with Jackson's publisher and got some letters (Saturday)
+
 18th - Funeral, a casual walk among friends at the JuJu house (and house fire at night) (they were closed but open) (Sunday)
+
 19th - Reading of the will at Carlton Ramsey's (Monday)
+
 20th - Millie Adams, Friends of Hilton at Teddy's Bar (Tuesday)
+
 21st - Visited Hilton Adams at Old Sparky at SingSing (Wednesday), Shopping at Sears. Stakeout of the Juju House
+
 22nd - Broke into the Juju house and murdered Silas (Thursday)
+
 23rd - Teddy has been on the phone all morning, visit to NYU [ mostly artifacts asks ] (Friday)
+
 24th - A new moon, Met Erica, Headed to Harlem, seeming interrupted a ritual, burned the Juju house (and neighborhood) to the ground (Sat)
+
 25th - Headed to Arkham to meet with Professor Cowles (Sun)
+
 26th - Returned to New York, Departed for England by ship (Mon)
 
 FEBRUARY 1925
 
 2nd - Serafina sees that sonofabitch Larkin on the boat - he stinks and looks pretty bad, flees (Mon)
+
 3rd - A top to bottom search of the ship and capturing Larkin; the Father finishes him off - his last words are meant to terrorize the father with the brutal truth: the end of the world is less than a year away (Tues)
+
 6th - Arrived in London, customs, Hotels, ... Met Mickey from the Scoop (Friday)
+
 7th - Met with Inspectory Barrington then headed over to Penhew at 1:15pm (Gavigan is heading out of town); finished day at then blue pyramid club then broke into penhew and found the secret lair and "loot" (a busy day!) (Sat)
+
 8th - Looting Penhew basement; took double cabs to lose a tail and made sure not to take the cab directly from penhew; holed up to do some reading (Sunday)
+
 9th - Empire spices visit; Zahra Shafik and Edjo running their totally legit shop, Zahra is inscrutible (even if Barrington hinted that he suspected she was hiding something, multiple double-roll psych failures - she's clean!); late night gun buying from egyptian criminals (Monday)
+
 10th - Teddy tete a tete Zhara; she asked him to investigate Gavigan, maybe they'll go to the British Empire Exhibition on Saturday (if he can obtain tickets); visit to Gavigan flat (failed to lockpick) (Tuesday); chaos with the egyptian thugs; 3pm - Darby - Darby closes at 5 sharp, met Frank the friendly foreman and noted the boarding house. 5:30 - The Bell & Lantern; 7:30 - Old Bell Hotel - sent telegrams (Tuesday) 
+
 11th - Laughing Horse Inn, Rory visits the Vicar; late afternoon on the 11th. Visit with Elias Veater (vet and his owl friend Miss Thistle); ran into the butler at the inn (teddy) overheard that the kids were at each other's throats; overnighted. 
+
 12th - hiking Mam Tor and a brief view/discussion of the Blue John caverns (and the mine); Serafina noticed some kind of prints with long talons. A visit to the castle - Lord Vane and son - they practically role their eyes at werewolves. Stole "History of the Vanes 1545-1690"; Got a letter of permission to investigate. A tete a tete with young Lawrence Vane, 23, disclosing almsot everything (except the mass murders) and a plan to visit her by stealth (on the 13th just after noon).  Laughing horse - was this guy a friend of yours? Visit to the vicar (everyone). He will accompany them to the meeting with Lawrence. Visited Lydia Parkin's father, John, who was hypnotized.
+
 13th Friday noon - met with Lawrence; father and lia have molotov holy water, etc. secreted into the castle, into the basement, into the dungeon, and found the place where they keep Eloise when she's gone wrong. Gus found passage to the mausoleum from her cell - presumably the escape path. Planned exorcism at the church in the evening. Lawrence to meet at 10pm+ at the church; Eloise cleared by some strange deeper magic, facilitated by perfect insight, beyond the exorcism.  Teddy and the father learned something important about the nature of what magic really is, but they're not sure what that is. Vane is in their debt and has offered them a favor. Serafina provided the contact information for Carlton Ramsey. Drinks with Bill. Lord Vane will cover it. Bill (Laughing Horse) happy. 
+
 14th Saturday - returned to Derby; telegrams received. Kensington is dead, Erica Carlyle denies meaningful relationship to the Vane family. 500 pounds retrieved from Derbyshire Trust and Mercantile. Bert had come by asking about Serafina and Walter is pissed and sees right through her lies. (development phase). It's noon in Derby.  A call to Zahra reveals she is annoyed that the party is in bed with Edward Gagivan, so they send her a friendly telegram. A visit to Henson Manufacturing almost becomes a fatal event; "Friends" sent by .. someone.. join the group at Henson Manufacturing at night. A collection of strange machine parts (some incomprehensibly ancient and embedded in rock and some new) and plans are found in a giant vault; just enough were loaded into the car to escape.  Body count: 3 (+1 casualty sent to the hospital by the interlopers). Escapees: 1. 
+
 15th Sunday - Call to hungover Mickey who is excited - told him to talk to the Simon Pegg inn keeper in Derby and proprietor of the Laughing Horse, gave him very masked details - American Werewolf Hunters in London^wDerby, loosely anonymized, protecting the Vanes, but.. did mention the whole burning a warehouse on the outskirts of Derby. Said they were killed by holy water. Visit to Walter "Wally" Thistleton, proprietor of Consulting Mechanical Engineering and .. watch repair on Gray's Inn Road. He's a mess. Left the blueprints with Wally, he didn't want one of the devices. Visit to Empire Spices, Zahra was in a rage; "small misunderstanding" - she meant Misr House, not his flat. For some reason, mailing the photos (of the blueprints) to Zahra. Headed to Essex and Misr House.  
+
 16th Monday - Hiked up to the NAZE TOWER at dawn. Staked out the place. Teddy, on watch, sees two men of who have dark hair arrive in another one of the fairly nice expensive-ish cars. They get out, they stop and kind of lean on their cars, talking for a little while. One of them goes up to the front door, a man comes out of the house, joins the two men who arrived in the car, they open the rear door to the car, and they take someone out who has a black sack over their head. And then the man who came out from the man who went up to the door and the man who came out from the door escort that person into the house, the door closes, and one of the two men who arrived in the car is still standing, waiting by the car. Headed back to London.
+
 17th Tuesday - Prep day for birdwatchers (recon trip) - revealing dust is in snuff box; father rory orders a cane sword (ready on the 24th). ATTEMPTED KIDNAPPING! Pink guy down by knives, Fleeing egyptian is hit by car, his buddy blocked by the father runs into the stopped car, etc. father and teddy downtown, the rest call Mickey.  Extracted by Abdul and Edjo, taken to Zahra, somewhat voluntarily. Fathere sees what can best be described as _at least_ a scrying mirror. Dinner with Zahra. Teddy really is all in on Misr house. It's a great idea! Zahra suggests funneling them in on the 23rd as prisoners. She suggested the party get rid of the scented money (by burning), but not at her place. She's super trustworthy, so we decided to rob her while she was out of the room: petty theft from Zahra's locked desk - found a robe, skullcap, scepters, vials, ankh and scroll, and took the vials+. "What I can do is the night a few hours before before the trucks arrive, next week, I will make sure one of my drivers is in charge and put you in the pickup location, bagged. I will ensure that whatever small packages you need can be can be carried on and hidden on the truck. I will make sure that if you are bound the bindings are fake... " and so on.  On to dinner and smalltalk about growing up in Egypt, theoretical discussions of organized crime, ..  Serafina asked whether there would be others - that she cannot say. The plan is for Friday the 23rd, which is the next time she knows about.  Some discussion about looping back to Wally in the interim and/or Jasmine Pink and/or other items.  The dinner party is wrapping up, and late. She offered them a safe house (via Abdul). Foggy night and all that implies - zahra henchman got sloppy and started to be strangled. Edjo drove them to safe house, they dismissed him, hid their artifacts at Liverpool St Station and headed to Abduls. Exploration of Abdul's flat. I mean, it's a nice place, glorious, but has a few gory aspects. There are a lot of drugs. Teeth. A locked box with photographs.. and a journal. Two people in photo, faces smudged. Square of skin with inverted eye of horus tattoo. Woman's ring finger. 
+
 18th Wednesday - breakfast delivered; got the scroll translated; translated the scrolls, translated the scroll "borrowed" from Zahra's desk - it's basically a guide to using some mirror for scrying. Lia happened to recognize the torn elder sign glyphs on the wrapper and some of the symbols meaning wind, translations; moved lockers for stuff. We're going to need a better solution, lockers do get robbed.
+
 19th Thursday - part 1/3 - breakfast delivered again; ring ring! It's Zahra, she has tickets and wants Teddy to go to the exhibition. No ulterior motives except Teddy is now doubly all in on Zahra's plan and wants to off Gavigan. Much debate about what to do - whether Serafina is right that Zahra is evil? Maybe pick up the stuff. The 23rd is coming up quick. Teddy had some scary hallucinations at the Exhibition but hasn't come home yet to talk it out. The rest went to Wally's - broken glass, Malcolm Triggs standing around hopefully waiting for Wally ... or proof Wally isn't coming back. Irene takes care of the family and also makes meat pies. 1920s 4 tube kit radio (receiver). He and Irene maintain a little room above a laundrette near Finsbury Park (their mother, now passed, lived there - no electricity). A call with Mickey - no (egyptian) deaths for a week; word is some kind of truce or ceasefire - Kensington was murdered. And the rest. Caught up with Teddy... and heading to meet Mickey. 
+
 19th Thursday - part 2/3 - A big dump on Mickey - almost everything. He's a little in shock. He's excited to take down Gavigan - it will be a great story, taking down that poncy fake.  They are going to get him to plant a story about the Werewolf hunters leaving London - France. He gets Barrington, he gets Gavigan, wtf Wally?  Moved most of the masks and stuff to a safe deposit box from the station locker. Anonymous tip to the police (non-apartment phone, message for Barrington about the break in at Wally's and about criminal goings on at Misr House) about Wally's place being broken into.  And with that, they decided to make a late night visit to Miles Shipley, now famous artist of weird paintings. Miles Shipley’s run-down, poorly kept house in Chelsea. Curtains were drawn, lights were on, but it didn’t seem out of place for the somewhat bohemian neighborhood. Miles isn't home, but mom (Bertha Shipley) is!  A little charm gets her to ignore the late hour and let them inside. She makes tea, shows off two paintings, and then takes them upstairs to the attic.  
 Shipley seems like he might been painting under the influence or control of something else, but was probably at the nearby pib. His paintings were disturbing, some seemingly .. predicting things.  Teddy pretended to need to use the bathroom but wandered, found a syringe and some green fluid in Shipley's room, which he lifted, popped the lock to the basement and then later, Serafina checked out the basement (under orders from Bertha) - briefly - after being taken down for tea but didn't notice anything. But then there was a _second_ Serafina and all hell broke loose. Of the many paintings upstairs, only two got a gander, Teddy decided to light the one in the closet on fire - but he caught a glimpse that it was weirdly three dimensional, almost like you could step inside it. Serafina Two turned out to be mom turned out to be a nightmare lizard snake man who was rather immediately put down after encountering a wandering Gus on the stairwell. The father used his cane sword and Serafina knives and Gus guns. The house is up in flames. Lia had grabbed rolled up painting number one and photo'd the others (poor lighting though and smoke - photography by firelight) and the snake man. Some fled through the front, some through the back. They decided to go to the nearby pub where mom had said miles was .. and found him.  They cuffed him and took him back to Abdul's apartment and interrogated him.  Gus amazingly hypnotized him. He admitted the paintings were gateways, that his masterwork was hidden in his closet, and it terrified him.  He blamed “Arthur” (actually his mother actually a lizard monster) for teaching him how to create these paintings that could function as portals (Arthur was going to bring his people through). He said Arthur had injected him with a green fluid.  He seemed relieved it was all over, repeating “I’m free” several times, showing signs of a complete mental break. They learned from Shipley that girls who disappeared after going with him were actually in the basement—implying something gruesome (.. for the green fluid).
+
 19th Thursday - part 3/3 - late night at the apartment, Teddy went back to his room alone at night, pulled out the vial of the strange greenish drug he’d taken from Shipley’s, and deliberately injected himself with a full dose. He left a small note by the nightstand explaining what he was doing — not meant to be easily found, but in case something went wrong. The drug hit him immediately. He fell backward onto the bed, which seemed to stretch and swallow him. He descended into a surreal vision where time slowed to a crawl, breath hung frozen in the air, and he found himself in a vast stone hall witnessing cosmic horrors — shoggoths tearing apart great old ones, with tentacles approaching him, giving a terrifying sense of imminent death. Hours later, Teddy came out of it, badly shaken, somewhat unsure who he even was. He gained a bonus to his History skill from these revelations. He then destroyed the note he’d written and carefully hid the remaining drug and syringe back among his belongings. The father and Serahina took Miles and dropped him off at a church.
-20th February 1925 - morning - as usual, food - discussion of telling mickey, but miles is .. out in the wild. call from Zahra to remind them of the 23rd. Serafina and the father are suspicious. photos taken for development. The group headed to Limehouse to look into the Ivory Wind. There was an immediate altercation when some local pickpockets decided to "help" the outsiders out, resulting in some knives to the leg and an increasingly angry crowd.  The Lloyd’s Register of Shipping eventually revealed that the Ivory Wind has a Chinese registry and its homeport is Shanghai (to which it is bound). The ship’s route includes stops in Marseilles, Malta, Port Said, Aden, Bombay, Singapore, and Shanghai. The voyage could take from six weeks to
-three months, but no exit date is planned. There is much chaos as they examine the crates being loaded from the truck - which heads out to a nearby warehouse, presumably that of Puneet Chaudhary. The guys who work in the warehouse look quite dangerous. Eventually Gus applies to work on the ship, went and bought some tools, and the captain takes him on. He's put to work doing some simple repairs in the staterooms of the ship, but eventually the crew leaves and he has a chance to look into some crates where he found some unique vibrams and a horrifying black statue of the black pharoah as seen previously in Gavigan's flat. The men are heading to the nearby tavern The Three Mariners. It's a nice evening for Gus. They meet Maggie the barmaid as well has have some chats. The Father convinces Captain Torvak to open some crates - back winged creature, small horned devil figure, the conch shell, and finally the obsidian pharaoh.  Similar to what Gus found, but not quite. Torvak notices one of the crates has been opened. Gus discovers that the crew will be happy to leave this place - cold. Plus Egypt is nice. 
+
+20th February 1925 - morning - as usual, food - discussion of telling mickey, but miles is .. out in the wild. call from Zahra to remind them of the 23rd. Serafina and the father are suspicious. photos taken for development. The group headed to Limehouse to look into the Ivory Wind. There was an immediate altercation when some local pickpockets decided to "help" the outsiders out, resulting in some knives to the leg and an increasingly angry crowd.  The Lloyd’s Register of Shipping eventually revealed that the Ivory Wind has a Chinese registry and its homeport is Shanghai (to which it is bound). The ship’s route includes stops in Marseilles, Malta, Port Said, Aden, Bombay, Singapore, and Shanghai. The voyage could take from six weeks to three months, but no exit date is planned. There is much chaos as they examine the crates being loaded from the truck - which heads out to a nearby warehouse, presumably that of Puneet Chaudhary. The guys who work in the warehouse look quite dangerous. Eventually Gus applies to work on the ship, went and bought some tools, and the captain takes him on. He's put to work doing some simple repairs in the staterooms of the ship, but eventually the crew leaves and he has a chance to look into some crates where he found some unique vibrams and a horrifying black statue of the black pharoah as seen previously in Gavigan's flat. The men are heading to the nearby tavern The Three Mariners. It's a nice evening for Gus. They meet Maggie the barmaid as well has have some chats. The Father convinces Captain Torvak to open some crates - back winged creature, small horned devil figure, the conch shell, and finally the obsidian pharaoh.  Similar to what Gus found, but not quite. Torvak notices one of the crates has been opened. Gus discovers that the crew will be happy to leave this place - cold. Plus Egypt is nice. 
+
 21st February 1925 - breakfast delivered. started the day by sending a telegram to Carlton about the safe deposit box with all the stuff. they decide to look at the paintings.  Teddy is starting to look pretty bad. The painting photos are pretty bad, given the "photography by firelight" aspect, but they one they took painting is of an alchemist laboratory with vials putting forth foul-looking gases. Working at the table is a creature that is familiar-  a reptilian snake like humanoid who seems eagerly involved in the dissection of some creatureThe painting is quite eerie and bad for Teddy to be looking at it. They meet up with Zahra, get a chance to look at the truck, and are loaded in.  Glamour time - "You will look like prisoners. You will smell of fear and failure. You'll stink of it. And the guards won't even glance at you. They won't question it and neither will Gavigan."
+
 23rd February 1925 6pm - Zahra is there along with at least six of her henchmen plus Abdul. He looks sad about something.  They get shown the truck - there's an extra set of keys for the truck tucked under the floor mat on the driver's side. She asks each of you if the group can drive. Zahra walks them back and points to one of the men, one of the Egyptians, telling him to "show them"; he shows that in the the wheel well on the passengers side front wheel there  a hatch that opens. Inside is a black bag that he pulls out that has a number of handguns in it as well as a couple of daggers. He has Gus kind of feel inside the wheel well, and then kind of open the hatch to make sure that he knows how to do it. This is all for them if they get to the truck and need reinforcement. Zahra dismisses everyone except for Abdul, who walks around the truck. Then, suddenly, they don't even recognize each other. Looking at each other they see only people with like long, drawn, sad faces haven't slept in days. They're very thin. Some of them have bruises on their faces as if they'be been beaten. "Look at you. Now you look like prisoners. No one will question it." Abdul returns and is somewhat shocked, they get into the truck. Inside the truck, there are there are young men, both of whom have black bags over their heads. Your guess is that they they're also bound. And looking down, you guys realize that your hands look as though they're bound, even though they're not.  The truck starts and trundles down the road.
 
 23rd February 1925 10pm - no moon, pitch black - Misr House
 
 They arrive and are escorted to a makeshift cabin behind Misr House. In the distance is much chanting. 
 and murder. of the two male prisoners with them.
+
 Zahra's man on the inside smuggles in some elaborate daggers to them - there is complaining about the lack of guns
+
 they escape the cabin into the trees
+
 there's a lot of noise from torture and murder
+
 they watch as some herald snake-black-thing of the black pharaoh manifests and eats the body of the victims; there are two haunting horrors hovering incorporeal behind this, and something else, 
+
 Gagivan and Zahra show up
+
 Zahra senses them somehow and ordes them to kill Edward - which they _must do_
+
 They murder Gavigan - he is dangerous after all, as they are all (except the father) rendered blind! - but not really, as they manage to kill him anyway - obviously a second rater
+
 The father goes full Indian Reservation Fireworks Store Parking Lot and tosses dynamite into the bonfire, causing a massive explosion - the manifested horrors don't see this as wrong, to them it's a bigger sacrifice and they chow down
+
 Zahra offers them best of luck and escapes 
+
 They take off as well, after pondering suicide-by-direct-confrontation-of-summoned-herald
+
 ... But they stop to give the house a quick but thorough once-over. This is helped by a sequence of the best rolls the whole session wherein the secret passages are found instantly after someone asks about footprints in the dust
+
 They find a lot of stuff.  Importantly, down one of the secret passages they found a torture dungeon where four prisoners are located - Yelesha and three others (one of whom seemed pretty shifty); also sadly the wallet of the murdered cop
 There is a certain amount of Halloween Candy Pillowcase-ing
 
 24th February 1925 - EARLY, 6-am 
 
 They return back to London in a nice stolen car and the truck they rode in to Misr House
+
 There's a lot of discussion in the truck and car
+
 They free Yelesha in the care of her friend and hire/recruit Tommy (a young, dumb boxer who was a prisoner)
+
 Tommy was the second option
+
 They drop off the other two kind of randomly but everyone is OK with it
+
 Sleep time
+
 Then an EPIC in-person with Mickey, a sort of goodbye
+
 They tell him just about everything
+
 HE IS BEYOND PUMPED, he may stroke out from excitement, he's not even paying attention to the downsides of what they're telling him
+
 This is his moment! He is going to stick it to the aristocrats. His magnum opus in parts, coming soon! Philanthropist in Pagan Orgy SACRIFICE AND DYNAMITE AT COUNTRY ESTATE!
 Micky is losing his mind he's so pumped.  They make some financial arrangement, he can't think about that now.
+
 They decide not to poke the local Egyptian bear and that it is time for Egypt.
 
 CLOSED THREADS:
@@ -184,10 +236,7 @@ was too hot for Carlyle, and also implied that the impending seasonal flood of t
 
 Several photographs show Hypatia Masters with her camera (“Miss Masters Prepares for a Camera Safari in Kenya”), but they note that the  background of one of the photographs contains part of a calendar page for May. It appears that Wassif ran the photographs in July, even though they were actually taken during the first few days after the arrival of the expedition. This strikes them as odd, he is unsure - claiming not to remember using earlier photographs. Miss Masters also reportedly fell ill in June, and had not yet recovered when the group departed for Kenya.
 
-Wassif remembers that the Carlyle Expedition “was simply horrid” in keeping visitors away from its sites, including the press. He also recalls that the principals of the expedition had dinner several times with one Omar al-Shakti, a wealthy cotton plantation owner whom Wassif finds repellent and whose private reputation is unsavory. Wassif would not normally say so to strangers, but he admits that he thinks/knows al-Shakti to be connected to the Brotherhood of the Black Pharaoh, an organization he fears and one he feels brings
-great shame on Egypt.  While chatting, Wassif reveals that another Penhew Foundation expedition is currently in Egypt. The Clive
-party was excavating at Giza, where they recently unearthed the mummy of an unknown female from a secret chamber in Mycerinus’ pyramid; the smallest of the three.  Wassif remarks that several authorities have speculated that it is Queen Nitocris, a mysterious figure of the Sixth Dynasty. However, before tests could be carried out or the mummy unwrapped, the sarcophagus and its contents disappeared, much to the bewilderment of all concerned. Considerable efforts by the police have turned up no leads. The site was well guarded and only one entrance to the secret chamber existed. It really is a complete mystery as to what could have happened. Besides the loss of the mummy, Wassif has heard rumors that the expedition’s Dutch archaeologist was fired for incompetence, among other things. As far as the journalist
-knows, the man, Janwillem Van Heuvelen, couldn’t afford a return ticket to Europe and is still holed up somewhere.
+Wassif remembers that the Carlyle Expedition “was simply horrid” in keeping visitors away from its sites, including the press. He also recalls that the principals of the expedition had dinner several times with one Omar al-Shakti, a wealthy cotton plantation owner whom Wassif finds repellent and whose private reputation is unsavory. Wassif would not normally say so to strangers, but he admits that he thinks/knows al-Shakti to be connected to the Brotherhood of the Black Pharaoh, an organization he fears and one he feels brings great shame on Egypt.  While chatting, Wassif reveals that another Penhew Foundation expedition is currently in Egypt. The Clive party was excavating at Giza, where they recently unearthed the mummy of an unknown female from a secret chamber in Mycerinus’ pyramid; the smallest of the three.  Wassif remarks that several authorities have speculated that it is Queen Nitocris, a mysterious figure of the Sixth Dynasty. However, before tests could be carried out or the mummy unwrapped, the sarcophagus and its contents disappeared, much to the bewilderment of all concerned. Considerable efforts by the police have turned up no leads. The site was well guarded and only one entrance to the secret chamber existed. It really is a complete mystery as to what could have happened. Besides the loss of the mummy, Wassif has heard rumors that the expedition’s Dutch archaeologist was fired for incompetence, among other things. As far as the journalist knows, the man, Janwillem Van Heuvelen, couldn’t afford a return ticket to Europe and is still holed up somewhere.
 
 He says that in a sense, the feels like the Carlisle expedition came with good intentions, but then sometime in June, things really changed. And they simply lost interest and moved on. He thinks about this for a minute and he's like, it's now that it's been many years, but now that I think about it, it seems so obvious in hindsight.  Asked about Jackson, he remembers him - he would have been here in November, he thinks, and says that he knows that he visited the museum because he visited here twice once before he did the museum. 
 
@@ -1054,3 +1103,4 @@ Sessions:
 	2026-01-16 Flower house with Quivering Jade and others
 	2026-01-30 Following on the footsteps of Jack Brady then dinner with Mu Hsien
 	2026-02-27 Shit goes down at the house of Mr. Mu (and Jack Brady arrives)
+
