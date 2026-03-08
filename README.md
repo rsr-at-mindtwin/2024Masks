@@ -997,7 +997,7 @@ PEOPLE (incomplete):
 	Jack "Brass" Brady - bodyguard for Roger Carlyle. Always faithful to Carlyle since being saved by him from conviction for murder
 	Hypatia Masters - member of the Carlyle Expedition, ostensibly to make its photographic record
 	Dr. Robert Huston - once a fashionable Jungian analyst in New York, Huston joined the expedition through his association with Roger
-	Sir Aubrey Penhew - formerly the director of the Penhew Foundation in London, he joined the expedition
+	Sir Aubrey Penhew - formerly the director of the Penhew Foundation in London, he joined the expedition aka "The Pale Viper"
 	M'Weru - Bunay's real identity, mentioned in Huston's notes (Carlyle Papers America #16), a black woman from Kenya, extremely charismatic in some way
 
 	Peru:
@@ -1028,6 +1028,7 @@ PEOPLE (incomplete):
 	Rebecca Shosenburg - America, junior crime reporter for the New York Times looking into a possible miscarriage of justice involving Hilton Adams (friend)
 	Silas N'Kwane - New York, proprietor of the Ju-Ju house and apparent priest of the Bloody Tongue (dead, shot in the face)
 	Willa Sligh - America, Carlton Ramsey’s niece and secretary
+	Adrian Ferris - secretary of the Medical Affairs Board, which holds Dr. Huston’s patient records, including those of Roger Carlyle
 
 	England:
 
@@ -1045,6 +1046,7 @@ PEOPLE (incomplete):
 	Lord Arthur Vane - England, knight of the realm, and father to Lawrence and Eloise. His castle sits above Lesser Edale, in Derbyshire. Thankful to the group that they have freed his daughter, albeit at great cost.
 	Eloise Vane — England, daughter of Sir Arthur Vane, and unfortunate heiress to the Curse of the Vanes, cured by the party in a ceremony that left her free of the curse but her brother insane.
 	Lawrence Vane - England,  the male heir to the Vane title, and brother to the cursed Eloise Vane, and now rendered fully insane by exposure to the ceremony. 
+	Lars Torvak - drunken owner-captain of the Ivory Wind, a tramp freighter carrying cult items to and from the Far East (mostly to Ho Fang in Shanghai and Australia)
 
 	Egypt:
 
@@ -1084,9 +1086,10 @@ PEOPLE (incomplete):
 
 	Fergus “McChum” Chum - 40, bar owner, Scottish-Chinese owner of the Stumbling Tiger Bar, extreme friend/loyalist of Jack Brady
 	Li Wen-Cheng - 24, an impoverished museum worker now comprador
-	Isoge Taro — 34? Fake drunk Japanese captain, disguised as a factory foreman
+	Isoge Taro — 34? Fake drunk Japanese captain, disguised as a factory foreman, a captain in the Imperial Japanese Navy, investigating rumors connecting a super-weapon with the Chinese Communists (deceased, murdered in the street by Chu Min)
 	Anthony Chang - inexperienced editor of the Shanghai Courier, spotted at the consulate
-	Lin Yenyu (Madam Swallow) - 65, wealthy aesthete and powerful madam, information broker, and dedicated collector	Ho Fang - 57, wealthy merchant and probably gangster
+	Lin Yenyu (Madam Swallow) - 65, wealthy aesthete and powerful madam, information broker, and dedicated collector of rare books and other similar things
+	Ho Fang - 57, wealthy merchant and probably gangster
 	Mr. "Auntie" Mao - cross-dressing female assistant to the curator of the museum (and Mu Hsien’s replacement)
 	Mr. Chang Ning - 60s, an old scholar, home in a small house not far from and formerly a resident scholar at the Shanghai Museum
 	Feral House Girl - somewhere between 8 and 10 years old, the servant and guardian of Chang Ning; she rages about everyone except Mu Hsien who she seems to adore
@@ -1099,10 +1102,11 @@ PEOPLE (incomplete):
 	Quivering Jade (alias) - flower girl at 88 Lantern Street, friend of Choi Mei-ling and Magenta Joy
 	Magenta Joy (professional alias for Xiu-ying, name from hospital) - flower girl at 88 Lantern Street, witnessed attack by black, sleek apparition, now permanently insane
 	Moonlight on Water (alias) - flower girl, accompanied Quivering Jade, selected by Gus
-	Carl Stanford - apparently a rare book buyer who engages in threats, someone of great concern for unknown reasons
+	Carl Stanford - apparently a rare book buyer who engages in threats, someone of great concern for unknown reasons, clearly a very powerful sorceror who is a threat to even Brady, staying with Ho Fang
 	Jules Savoyard - captain of the DARK MISTRESS per the British Consulate
 	Sun Ch’unhua - Ho Fang's (Jack: petite young, real looker) secretary
-	Chu Min - Leader of New China and specifically Firm Action
+	Chu Min - leader of Firm Action, the most violent and best-armed wing of the New China patriotic league.
+
 
 Sessions:
 
