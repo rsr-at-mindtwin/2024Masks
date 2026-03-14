@@ -1021,23 +1021,26 @@ WHEN: 22nd of of April 1925. WHERE: Chang Ning's compound; Jack working out the 
 
 OPEN WAGERS:
 
-		Surviving China = Power wager
+	Surviving China = Power wager (Now is the time to remind me)
 
 OPEN THREADS:
 
-	Why was our friend Jackson obsessed with the Carlyle Expedition?
-	Who is the glamorous woman?
-	Ho Fang - He's dangerous, but what was he doing with Gavigan al-Shakti?
+	Why was our friend Jackson obsessed with the Carlyle Expedition? Roger Carlyle and the others appear to have made a bargain with the Black Pharoah to become gods by doing ... something.
+	Who is the (undying) glamorous woman who appears to be Zahra?
+	Ho Fang - He's dangerous, but what was he doing with Gavigan and al-Shakti and the Zahra-thing?
 	Gray Dragon Island sounds fun, or sounds deadly?
 	Madam Lin - what's her part in all of this?
 	Anthony Chang - what was he doing at the consulate?
-	What about that fire on Chin-Ling Road four weeks before the group arrived?
+	What about that fire on Chin-Ling Road four weeks before the group arrived? Brady being attacked.
 	What is the significance of what Mr. Lung knew?
 	What is "the mountain" or the crib that the mysterious letter references?
 	What exactly was Henson manufacturing making? Where did those parts go? What were the ancient parts?
 	What are the keys and points that Chang Ning divined?
-	Choi Mei-ling at 140 Lantern Street - was harboring "John" - has gone missing and Brady believes she's at Ho Fang's
 	Can we lure Madam Lin with some artifacts?
+
+CLOSED THREADS:
+
+	Choi Mei-ling - held prisoner, and tortured, at Ho Fang's mansion
 
 PEOPLE (incomplete):
 
