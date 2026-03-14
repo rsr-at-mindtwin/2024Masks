@@ -2,12 +2,12 @@
 
 Intro + M has inventory (separate document tab) here: https://docs.google.com/document/d/1botVxpJS69F9XTC8tQ2wliKa7KVTwMNtO3U6U8LJqHo/edit?tab=t.8vvsdbonh3x
 
-MARCH 1921
+## MARCH 1921
 
 	18th - Augustus Larkin has arranged to meet the prospective members of his expedition for dinner at 7 p.m.
 	(...)
 
-JANUARY 1925
+## JANUARY 1925
 
 15th - Everyone arrived in New York one cold winter day. They arrived, except the father, just as Jackson met his end (Thursday) at the hands of the Bloody Tongue
 
@@ -33,7 +33,7 @@ JANUARY 1925
 
 26th - Returned to New York, Departed for England by ship (Mon)
 
-FEBRUARY 1925
+## FEBRUARY 1925
 
 2nd - Serafina sees that sonofabitch Larkin on the boat - he stinks and looks pretty bad, flees (Mon)
 
@@ -141,6 +141,8 @@ CLOSED THREADS:
 	What's going on at Misr house? - absolute bloody horror, murder, torture, and summoning dark entities from other planes
 	What attacked in the fog? - well, the theory is Gavigan anyway, somehow, or Zahra with her mirror
 	Who was following us in lesser edale? and why? - presumably agents of Gavigan or Zahra
+
+## MARCH 1925 
 
 25th February 1925 - 10th March 1925 - A call with Mickey just before they leave. He is more sedate and notes that these things, they seem dangerous, like a hornet's nest being poked. He says that Zahra is already moving to consolidate her control of the Brotherhood. He is all in on the story but felt a moment of humanity and thought to warn you.  There is no word on Wally. They voyage itself is, for a change, an  uneventful second class journey. Everyone brushes up on something, the Father is studying the scrolls, others the books.  (I need to hunt down and mark time invested in which.)
 
@@ -633,6 +635,8 @@ The night ended with one final encounter: Omar’s white cat transformed into a 
 They are hoping the sea air will help Sarafina and the Father recover from their major wounds and allow them to track the artifacts mentioned in Omar's ledgers. And learn something.
 
 27th March 1926 start travel from port Said - 21 days travel
+
+## APRIL 1925 
 
 Sunday, 18th April 1925 - Shanghai
 
@@ -1153,7 +1157,7 @@ PEOPLE (incomplete):
 	Wu - the malicious cat-demon sent by an unknown sorceror to kill Mr. Lung
 	Mr. Chin Hsi-chou - Murder victim at the flower girl house at 88 Lantern Street
 	Auntie Gee - Madam of 88 Lantern Street, goon aficionado
-	Choi Mei-ling - flower girl formerly at 88 Lantern Street, now at (sold to) 140 Lantern Street, had american named "John" in her room that upset Auntie Gee
+	Choi Mei-ling - flower girl formerly at 88 Lantern Street, sold to 140 Lantern Street, vanished, had american named "John" in her room that upset Auntie Gee - found! in Ho Fang's mansion
 	Quivering Jade (alias) - flower girl at 88 Lantern Street, friend of Choi Mei-ling and Magenta Joy
 	Magenta Joy (professional alias for Xiu-ying, name from hospital) - flower girl at 88 Lantern Street, witnessed attack by black, sleek apparition, now permanently insane
 	Moonlight on Water (alias) - flower girl, accompanied Quivering Jade, selected by Gus
@@ -1162,6 +1166,154 @@ PEOPLE (incomplete):
 	Sun Ch’unhua - Ho Fang's (Jack: petite young, real looker) secretary
 	Chu Min - leader of Firm Action, the most violent and best-armed wing of the New China patriotic league.
 
+## ARTIFACTS
+
+### PERU
+
+The Golden Mirror (liberated from Larkin's hotel room)
+
+		At first, this appears to be a mask, approximately 6 inches (15 cm) square, made of gold. It depicts a stylized face, largely made up of blocky geometrical shapes raised from the surface, and is solid, with no eyeholes. It is similar in design to artifacts found at Tiwanaku. The back of the mask is unadorned and polished to a high sheen, allowing it  to be used as a mirror. Those examining the surface for more than a few seconds must find themselves experiencing visions.  
+
+The Ward of the Pyramid (not retained, still in Peru in the storeroom)
+
+		The recovered fragment of the ward formed by the golden inlay around the base of the pyramid at the Lake Titicaca site that was broken off by the conquistadors. 
+
+### AMERICA
+
+Mask of Hayama (not taken, lost in the fire at the Ju-Ju House, was in M'Dari's alcove)
+
+	A carved wooden African mask with four hideous faces perched atop a thick, corded neck with a basket-like reed, feather, and fabric collar that hides the wearer’s face.
+
+### ENGLAND
+
+Zahra's Mirror (not retained, in Zahra's apartment above Empire Spices)
+
+	Some kind of scrying device?
+
+Zahra's Two Scepters of the Bloody Tongue (liberated from Zahra's apartment above Empire Spices)
+
+	Two instance found: both Edward Gavigan and Zahra Shafik own a pair of these scepters. Each scepter is about a foot long; one ends in a crook, while the other ends in an inverted ankh. The shapes appear almost organic, as if the metal was grown rather than forged; the metal is unidentifiable. The nature of these is not understood.
+
+Headdress of Eyes - liberated from Misr House
+
+	A golden headdress in which hundreds of small eyes have been fashioned from gold. Each eye contains a precious gem of varied color. Not understood.
+
+### EGYPT
+
+The Adornments of Nitocris - only the gidle was ever possessed or examined, the others were encountered only in the Great Chamber of the Black Pharoah under the desert Queen Nitocris has three items of power essential for her resurrection and subsequent protection: her Crown, Girdle, and Necklace. 
+
+Crown of Nitocris - A jet-black circlet, topped with a cut gem that, to the untrained eye, looks like a large diamond. The crown is made
+from an alloy of mertals that appear to be iron and others, blackened with age; its gem is of unusual size and rarity.
+
+Girdle of Nitocris - Originally in the Mosque of Ibn Tulun - A narrow band of intricately-linked gold chain, with what appears to be a large, cabochon-cut ruby marking the clasp. The ruby is particularly unusual in that it displays an asterism, meaning that it has a six-pointed star on its surface The polished gem appears to shift unpredictably in color, but the star always remains.
+
+Necklace of Nitocris - A long, silver chain decorated with small emerald beads and a large, square emerald pendant carved with an image of the Black Sphinx. 
+
+Token of Bast’s Regard - a carved pendant of black granite in the form of an Egyptian cat, approximately 2 inches (5 cm) in height, hung from a sturdy thong of plaited leather. Given to Teddy by the priestess of the secret temple of Bast; lost.
+
+## TOMES and SCROLLS - MOST HAVE NOT BEEN READ, ALL COME WITH SANITY LOSS and LEARNING TIME:
+
+### PERU
+
+Final Confessions of Gaspar Figueroa -  Spanish, written by Gaspar Figueroa, 1543. Octavo, handwritten on vellum. (Museo de Arqueología y Antropología in the storeroom)
+
+	This rambling manuscript is written on vellum pages in faded ink. The handwriting is erratic and hard to read, filled with
+	crossings-out, corrections, and marginal notes. The content is similarly difficult to follow, having been written by a half-
+	crazed man dying from a fever. The text tells of an ancient	horror imprisoned in a pyramid in the Andean Highlands
+	and the secrets it has shared with those who came under	its thrall. The author, Gaspar Figueroa, remained free of its
+	control and his writings are filled with terror and loathing for the secrets he has learned.
+
+	Spells: Speak to the Father of Maggots
+
+### AMERICA - liberated from the Carlyle Mansion Library 
+
+The Pnakotic Manuscripts - English, author and translator unknown, 15th century. Quarto, embossed red leather binding of a later date than the contained manuscript.
+
+	Five bound manuscript versions (partial copies of a greater work, now lost) of this book are catalogued in Europe and America, at least one of which resides at Miskatonic University; another is rumored to be held by the New York Public Library. The precursor volume, the Pnakotica, was written in classical Greek, and contained stories of Hyperborea, Atlantis, and Jupiter. That book may trace its origins to the pre-human crinoids who seeded life on Earth. 
+
+	Spells: Contact Winged One, Contact Mind of the Observer
+
+Sélections de Livre D’Ivon - French commentary on Latin original by Gaspar du Nord, c.13th century. Octavo, handwritten manuscript, bound in decaying blue calfskin.
+
+	Supposedly copied by du Nord from an earlier Greek manuscript. Only 13 specimens, partial or complete, are now known to exist. Although the original manuscript on which du Nord based his work may have come to the Averoigne region directly from Atlantis, it has been conjectured that, purely by chance, it made its way to France via ancient Egypt.
+
+	Spells: Call the Blind Lord of Chaos, Contact Formless Spawn of Zhothaqquah, Create Barrier of Naach-Tith, Gate, Fog of Misdirection, Eibon’s Wheel of Mist
+
+Amongst the Stones - English, by Justin Geoffrey, 1918. Handwritten, containing poems later found in People of the Monolith (pub. 1926), bound in the skin of a hunting horror.
+
+	Although several of the verses contained within this slim volume are identical to those which appear in Geoffrey’s later published work, some are earlier versions which see heavy revision prior to their official publication by Erebus Press, Monmouth, Illinois. Others are unique to this manuscript. One of the unique poems is “The Trappings of a Queen,” which describes the dread ruler Nitocris’ regal paraphernalia in great detail.
+
+Life As A God - English, by MontgomeryCrompton, c.1810. Duodecimo, handwritten, bound in human skin.
+
+	The only copy of a diary by English artist Crompton, who came to Egypt in 1805 and became a minor priest of the Brotherhood of the Black Pharaoh. Crompton was insane by the time he wrote this diary, meaning that much of it is incoherent.  Narrates all manner of unspeakable acts committed for the Pharaoh of Darkness, as well as describing a hidden throne room.
+
+### AMERICA - M'Dari's Alcove in the Ju-Ju House
+
+Africa’s Dark Sects - English, by Nigel Blackwell, 1920. Sextodecimo, blue pasteboard covers with marbled endpapers and blue-stained page edges.
+
+	Written by explorer Nigel Blackwell during his travels across Africa, the book is an odd mix of travelogue and exposé of the ritual practices of a variety of African cults. Although the notes of his travels were obviously turned into a book, no publisher is listed on the title page, and Blackwell is impossible to track down. Some believe the book may have been written under a pseudonym, but there are no candidates as to the real author if that is the case. Only 13 copies are known to exist—the authorities managed to burn the rest. 
+
+	Spells: Create Ciimba
+
+### ENGLAND - liberated from the secret basement of the Penhew Foundation
+
+Équinoxe Divisé - French, by Ghyslain D’Aramitz, 1807. Octavo, soft calf leather binding, pages untrimmed.
+
+	The account of a French merchant, colonial administrator, and explorer telling of his experiences traveling around the world, with particular chapters devoted to cataloguing and comparing regional customs and beliefs in Northern Africa, Asia, and Europe. D’Aramitz relishes in describing what appear to be outlandish (possibly fictional) practices concerning farming and hunting; however, these are interspersed with dramatic and chilling folk customs that have the ring of authenticity. A number of apparent medieval rituals, stemming from the south of France, are shown to have dark and murderous origins. There are numerous mentions of god- like entities and avatars that could be associated with Nyarlathotep, such as “Witch Maker,” “Bloody Tongue,” and “Three-Eyed Shadow”. Of particular relevance is a description of a mark cut into the skin of enemies of the Bloody Tongue (the same as seen on Jackson Elias’ forehead). Additionally, a passage details an excursion to find the “Black Mountain where the Bloody Tongue dwells."  
+
+	Spells: Ruination of Evil, Call Satan’s Eye, Ritual To Tame Night Horror, Old Woman’s Blessing
+
+Book of Dzyan - English, author/translation unknown, reputedly of ancient origin. Quarto, bound in goatskin, woven papers, distinct smell of sulfur.
+
+	Alleged to be an account of the “wise and venerable words of those most exalted High Masters of Shamballah,” it describes generational transformations of consciousness beginning on a planet called Vellarros (Venus) and ending on Earth. Enlightened beings of flame are said to have “raised” humanity when the lands of Hyperborea and Atlantis were young. The book relates secret histories of what was and what shall be, with a significant portion of the work prophesying the rise and fall of different civilizations, including ones based in the North and South Americas. Black Pharaoh (“He who shall stride the Blue and White waters”) is referenced multiple times and this: "His tongue succored in blood”
+
+	Spells: Call Forth Childe of the Woode, Call Forth Wind Spirit (Summon Byakhee), Call Forth the Unseen Walker, Consult the Wisdom of the Void
+
+Liber Ivonis - Latin, translated by Caius Phillipus Faber, 9th century. Quarto, bound in calfskin with iron clasp, black-edged papers, musty smell. Many pages missing or spoiled.
+
+	A discussion and record of experimentation with elder geometries, the primal matter of existence, and natural philosophies, interspersed with commentaries and accounts alleged to come from a being named “Saccoche.” Some passages in an unknown language written down verbatim without translation. Purported to have been written by Eibon, who modestly describes himself as the greatest of all sorcerers, and includes accounts of his cosmic travels to other dimensions and planets.   Eibon records numerous conversations with a being he calls “Saccoche,” who appears to reveal various secrets to the wizard. In one such section, Saccoche states that he is also known as Pazz-Luzza or Pazzuzu by some. 
+
+	Spells: Contact Yok Zothoth, Contact Zhothaqquah, Create Barrier of Naach-Tith, Commandment of Air, Make Pale Blade, Voomiir Singuliis, Touch of Pain
+
+### ENGLAND - liberated from the hidden workroom in Misr House
+
+Song of the Djinn (Oghniat Min al Jinn) - Arabic, by Ghalib al-Sabbah, c. 797. Sextodecimo, bound in goatskin with bronze clasp, sulfurous smell.
+
+	Heretical work alleged to be the transcript of a series of discussions held by the author with a “djinn,” a being of “scorching fire,” which related all manner of esoteric and forbidden lore. While most of the knowledge contained appears to be fanciful, a few kernels of Mythos knowledge are hidden in the text.
+
+	Spells: Enchantment of the Living Flame 
+
+### EGYPT
+
+The Black Rites of Luveh-Keraphf - Egyptian hieroglyphs, by Luveh-Keraphf, c. Thirteenth Dynasty Egypt (1786-1633 BCE). Ten fragile papyrus scrolls, handwritten, stored in an old shoebox beneath Janwillem Van Heuvelen’s bed until returned to the secret temple of Bast (UNTRANSLATED/NOT RETAINED but examined)
+
+	Almost every inch of each scroll is covered with tiny, crabbed Egyptian hieroglyphs. The first scroll in the sequence identifies its author as Luveh-Keraphf, High Priest of the cat goddess, Bast. The first few scrolls then discuss the worship of Bast in great detail, including means for summoning Bast and her feline kindred. Later scrolls outline the worship of other Egyptian deities. Particular mention is made of “the Terrible Lord of the Riverbanks,” the crocodile-headed Sebek. His riverside temples are described, along with the rituals for sacrifices made in his name. Cautionary chapters, devoted to the darker members of the Egyptian pantheon, are also included. The Faceless God and the Black Pharaoh are discussed. Poor quality translation by Van Heuvelen. 
+
+	Spells: many, but lost
+
+### CHINA - liberated from Lin Yenyu's collection by Jack Brady:
+
+The Seven Cryptical Books of Hsan - Classical Chinese, written by Hsan the Greater, c. 2nd century. A single, large classical Chinese scroll organized into seven books, handwritten and kept in a fitted scroll case bearing the Elder Sign.
+
+	This particular copy of the Seven Cryptical Books is much more ancient and perfect than the usual copies. Disagreement still exists as to whether the book was written by Hsan the Greater, or was in fact brought from Leng at the time of the Yellow Emperor before being translated. Amongst other topics, the Books discuss's a malicious god's many incarnations and other topics not yet translated.
+
+	Deciphering this scroll’s idiosyncratic handwritten characters and understanding their portent is a lengthy task, even for a fine classical scholar like Mu Hsien. The passage concerning the Eye of Light and Darkness is in the fifth of the Cryptical Books. For information and procedures concerning it, see Carlyle Papers China #9 (once translated). Mu Hsien believes that the methods of creating and destroying the ward exist only in this copy.
+
+	Spells: Eye of Light and Darkness, Destroy Seal (and possibly others)
+
+### CHINA - liberated from the cabinet of Ho Fang:
+
+The Goddess of the Black Fan - Classical Chinese, by Liu Chanfang, date unknown. Single scroll, parchment, stored in a carved ivory scroll case with silver filigree decorations. (dedication from Carl Stanford to Ho Fang) (NOT READ/TRANSLATED)
+
+Livre d’Ivon - French, translated by Gaspard du Nord, c. 13th century. Quarto, handwritten manuscript, bound in royal blue shagreen (stingray leather). (NOT READ/TRANSLATED)
+
+The Necronomicon - Latin, translated by Olaus Wormius, 1228. Spanish black letter folio, 17th century, bound in exblood-colored leather and secured by ornate clasps set with a variety of semi-precious stones. (NOT READ/TRANSLATED)
+
+R’lyeh Text Commentaries - Original Classical Chinese, author unknown, c. 300 BCE, with commentaries in Classical Chinese, author unknown, date unknown. Original R’lyeh text comprises five scrolls, handwritten on fine parchment, plus five additional scrolls of handwritten commentaries, all stored in a matching set of silk scroll boxes.  (NOT READ/TRANSLATED)
+
+The Tale of Priest Kwan - Classical Chinese, author unknown, date unknown. Scroll, woodblock printed on mulberry, hemp, and rag paper, stored in a hollowed-out piece of bamboo adorned with faded yellow velvet. (dedication from Carl Stanford to Ho Fang) (NOT READ/TRANSLATED)
+
+True Magick - English, by Theophilus Wenn, 17th century. Octavo, recently rebound in fine red Chinese silks depicting various Mythos creatures and symbols. (NOT READ/TRANSLATED)
 
 Sessions:
 
