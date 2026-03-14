@@ -9,7 +9,7 @@ MARCH 1921
 
 JANUARY 1925
 
-15th - Everyone arrived in New York one cold winter day. They arrived, except the father, just as Jackson met his end (Thursday)
+15th - Everyone arrived in New York one cold winter day. They arrived, except the father, just as Jackson met his end (Thursday) at the hands of the Bloody Tongue
 
 16th - Interviewing Dr. Moredecai Lemming and other adventures (Friday)
 
@@ -961,7 +961,59 @@ The father is stunned. Brady levels the gun and begins methodically putting lead
 
 At the other side of the compound, the group at the Northern wall hears the gunshots and the yelling, and it's time.
 
-WHEN: High Noon on the 21st of April 1925. WHERE: Ho Fang's mansion - the Father and Jack Brady up front creating a "distraction" and everyone else back behind the mansion's 14' northern wall.
+High Noon on the 21st of April 1925. WHERE: Ho Fang's mansion - the Father and Jack Brady up front creating a "distraction" and everyone else back behind the mansion's 14' northern wall.
+
+Breathing hard as the chaos erupts, Brady turns to Father Rory. "Okay, Padre, I think they're distracted," he says, pointing out the converging guards. "There, there, and there. Whole goddamn welcoming committee. Well, it's time for me to be on the run again... It was nice to have a few seconds."
+
+Before sprinting off, he gives the Father his final instructions: "I'm going to lead these bastards on a chase. Once I shake them clear, I'll circle back and meet you guys at Chang Ning's. You should skidaddle. Link up with the others if you can, if not, get lost and get small. You ought to be all right as long as you're not too obvious." Firing wildly behind him, Brady shouts, "Come on then!" and vanishes down an alley, pulling the guards with him . Father Rory takes his advice and slips quietly into the chaos of the panicked crowd.
+
+Behind the 14-foot northern wall, Lia scales the stone first and sets up a rope for the others. Gus, Serafina, and Monty quickly follow, dropping into an immaculate inner courtyard filled with lotuses, a stocked pool, and spotless stone flagstones.
+
+Almost the moment they land, a sliding wooden door opens. A tall, thin woman steps into the courtyard, dressed entirely in black silk that wraps her tightly from her chin down to her slippers — an elegant dress that eerily mimics funerary wrappings. She wears a broad-brimmed black hat and a veil obscure her face. Gently touching the amulet attached to a braided gold necklace resting against her silks murmurs, "Oh look my love, your friends are here."
+
+Serafina and Gus instantly recognize the voice as Zahra Shafik, though it sounds rougher, scratchy, and undeniably "off." When confronted, the woman remains aloof and unbothered, gazing at the beautiful courtyard. "You all look terribly urgent," she says gracefully. "But I'm afraid Ho Fang is not home to receive guests. If you're rushing into to visit him, I'm afraid that you're looking in the wrong place."
+
+She turns to Monty. "It is such a lovely afternoon to see peace among these blossoms, though if you go looking for enlightenment out there, remember that the enlightened one can be so terribly stubborn." When Lia draws a weapon and demands answers, the woman dismisses her effortlessly: "I sent you, perhaps you didn't get my message. I have something to take care of here. Someone who needs to also be eliminated" and she says they should perhaps run along. When asked directly about Choi Mei-Ling, she replies coldly, "Such things don't matter to me. If you find your little flower girl, I would suggest not lingering beneath her troubles. Such mercies are known to descend quite quickly. You should perhaps run along." And so on.
+
+Unfazed by the break-in, the veiled woman strolls casually into the formal dining hall, marveling at the fabulous porcelain. There is something decidedly off about her, Monty follows her to the dining hall, but then decides to go raid the room she came out of.  Inside, resting on a stand, Monty spots the dark, blackened metal Crown of Nitocris. Monty takes up the artifact.
+
+Awakened from her reverie, the veiled woman moves with terrifying speed, out of the dining hall and into the room with Monty. Unnaturally long fingernails, seeping a black, oily substance, protrude from her gloves as she slashes at Monty's face.  She misses. Monty draws and shoots her in the chest - fluid seeps from the wound, darkening, but not seeping. She ignores it and slashes again. Gus rushes to just outside the room and fires his shotgun into her back. The blast shreds her black silk wrappings, revealing brown skin covered in horrific, extensive scars. Remarkably, she does not fall.
+
+Father Rory arrives and buries his sword halfway into her neck. She barely bleeds and completely ignores the lethal wound. Turning her attention back to Monty and slashes again, this time she rakes her claws across his face. Monty falls and in seconds turns entirely gray, shrivels, and crumbles to dust on the floor.
+
+Desperate, Gus and Father Rory shove the woman-thing into an adjoining room and slide the door shut, wrenching the sword free from her neck in the process. Nothing happens for a time, a feeling of something passes over the Father and Serafina, and then then a melodious voice is heard in Gus's consciousness: "Eat them." Compelled by an unnatural hunger, Gus lunges ravenously at Father Rory. Father Rory deftly dodges the mechanic and cracks Gus on the nose with the pommel of his sword to stun him.
+
+A moment later, the sliding door bursts open. The woman, her silks in tatters but bleeding barely at all, steps out and swings at Father Rory. The strike connects. Father Rory suffers Monty's fate, turning instantly to dust and leaving only his empty habit behind on the floor. Witnessing the slaughter, Serafina decides the mission is a lost cause, abandons the courtyard, and makes a break for the escape rope.
+
+While the bloodbath unfolds, Lia has been investigating a pavilion room housing a massive, bronze Buddha statue. Lia discovers the statue's head ratchets clockwise. Eventually, Gus comes out of it and joins her, with Serafina still outside on the wall ready to flee. She watches the unmoving Zahra-thing.  Gus helps turn the head two full rotations, causing a loud clack as the heavy statue allows itself to be slide forward on hidden tracks, revealing a secret passage behond.
+
+Pressing into the hidden area, Gus finds a potion-making room, a weapons cache containing four identical bluish vials labeled in Chinese, some guns, and another locked wooden door. Utilizing extreme strength, Gus forces the door open, revealing a 20-foot square shrine. The room is dominated by a terrifying, 1,000-pound bronze-but-not-bronze statue of a tentacled, humanoid female dressed in traditional Chinese clothing: the Bloated Woman and a large teak cabinet, but in the center of the room rests a seven-pane glass coffin. Inside lies Choi Mei-Ling, stripped, traumatized, and staring blankly ahead, her head turned away from the ceiling. At the head of the coffin is a compartment holding two starved rats. From a glance the injuries on her feet appear that the rats have been used to torture her by gnawing at her feet. Gus pries open the glass, pulls the catatonic woman out, and breaks into a hammered-gold teak cabinet nearby. He realizes as he does so that he got very lucky as there are needles containing what looks like the same fluid from the vials he found. 
+
+The ceiling has been clicking since Gus forced open the door.
+
+From the cabinet, he loots some papers (in Chinese) as well as books:
+
+	The Goddess of the Black Fan - Classical Chinese, by Liu Chanfang, date unknown. Single scroll, parchment, stored in a carved ivory scroll case with silver filigree decorations. (dedication from Carl Stanford to Ho Fang)
+
+	Livre d’Ivon - French, translated by Gaspard du Nord, c. 13th century. Quarto, handwritten manuscript, bound in royal blue shagreen (stingray leather).
+
+	The Necronomicon - Latin, translated by Olaus Wormius, 1228. Spanish black letter folio, 17th century, bound in exblood-colored leather and secured by ornate clasps set with a variety of semi-precious stones.
+
+	R’lyeh Text Commentaries - Original Classical Chinese, author unknown, c. 300 BCE, with commentaries in Classical Chinese, author unknown, date unknown. Original R’lyeh text comprises five scrolls, handwritten on fine parchment, plus five additional scrolls of handwritten commentaries, all stored in a matching set of silk scroll boxes. 
+
+	The Tale of Priest Kwan - Classical Chinese, author unknown, date unknown. Scroll, woodblock printed on mulberry, hemp, and rag paper, stored in a hollowed-out piece of bamboo adorned with faded yellow velvet. (dedication from Carl Stanford to Ho Fang)
+
+	True Magick - English, by Theophilus Wenn, 17th century. Octavo, recently rebound in fine red Chinese silks depicting various Mythos creatures and symbols.
+
+Lia makes the mistake of glancing up at the ceiling. She falls victim to a magical trap — luminescent Chinese characters of the Bloated Woman decorate the seeling and seem to shift and move as she watches them, her mind being dragged out of her apparently catatonic body into the ceiling and into into a chaotic void, where after a moment she begins to sense there are others there. Gus quickly drags her catatonic body out of the room, but this does nothing. However through force of will, Lia snaps back to reality before whatever or whoever was also occupying the ceiling could reach her.
+
+Avoiding looking at the ceiling, Gus wraps the naked Choi Mei-Ling in some spare clothing from a guest room, and the survivors manage to carry her over the wall and escape into the Shanghai streets. No bodies, only dust, are left behind, the silk-wrapped woman still unmoving when they left.
+
+The battered, grieving investigators return to Chang Ning's safe house, reuniting with Jack Brady. Brady is overjoyed to have Choi Mei-Ling back, but visibly broken both by her condition and by the news of Father Rory's death. Mu Hsien promises that within a few weeks, he can translate the spell for the sealing spell - Eye of Light and Darkness - in that time, and immediately sets to work translating the looted Chinese documents (not the books).
+
+Knowing Choi Mei-Ling is no longer safe in China and requires extensive care, and that no one here will take care of her as she's just a flower girl, Jack informs the group they are leaving. He plans to take her to safety with a contact in Australia who he trusts will take care of her until she gets better — if she gets better - and tells the investigators that he intends to hunt down a member of the Carlyle expedition who he believes is hiding there. With their numbers decimated, the remaining investigators agree to board the ship with him, preparing for the nearly month-long voyage to Melbourne.
+
+WHEN: 22nd of of April 1925. WHERE: Chang Ning's compound; Jack working out the travel to Melbourne.
 
 1926
 
@@ -1169,3 +1221,4 @@ Sessions:
 	2026-01-30 Following on the footsteps of Jack Brady then dinner with Mu Hsien
 	2026-02-27 Shit goes down at the house of Mr. Mu (and Jack Brady arrives)
 	2026-03-06 The Father and Jack Brady create a distraction
+	2026-03-13 Hard to Fight A God Death of Father Rory (and Monty)
