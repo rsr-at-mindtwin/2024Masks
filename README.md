@@ -1048,7 +1048,7 @@ CLOSED THREADS:
 
 PEOPLE (incomplete):
 
-	The Carlyle Expedition:
+The Carlyle Expedition:
 
 	Officially, all considered dead in Kenya having been murdered. Elias was not sure.
 
@@ -1059,7 +1059,7 @@ PEOPLE (incomplete):
 	Sir Aubrey Penhew - formerly the director of the Penhew Foundation in London, he joined the expedition aka "The Pale Viper"
 	M'Weru - Bunay's real identity, mentioned in Huston's notes (Carlyle Papers America #16), a black woman from Kenya, extremely charismatic in some way
 
-	Peru:
+Peru:
 
 	Jackson Elias - friend, murdered on the night of their reunion, in New York, by the Bloody Tongue, used alias "Jesse Hughes" in Peru
 	Augustus Larkin - leader of the expedition to the Peruvian highlands, vessel of an ancient evil, dead, on a boat, by the Father, sorceror, seeker to liberate the creature in pyramid in the Peruvian highlands
@@ -1069,7 +1069,7 @@ PEOPLE (incomplete):
 	Nayra - 76 year old wise woman and healer, revealed the small maggots that the pishtacos have in their guts
 	Gaspar Figueroa - 1543 Peru, letter described the conquistadors activities at the pyramid (and after)
 
-	America:
+America:
 
 	Arthur Emerson - The proprietor of Emerson Imports, Emerson is a native New Yorker who has worked hard to build up his business but perhaps turns a blind eye to shady shipments. He spoke with Elias briefly on his time back in New York prior to his death
 	Brunton, George — (America) subwarden of the Death House at Sing Sing prison, where Hilton Adams is awaiting execution.
@@ -1089,7 +1089,7 @@ PEOPLE (incomplete):
 	Willa Sligh - America, Carlton Ramsey’s niece and secretary
 	Adrian Ferris - secretary of the Medical Affairs Board, which holds Dr. Huston’s patient records, including those of Roger Carlyle
 
-	England:
+England:
 
 	Zahra Shafik - spice dealer and high priestess, rival to Gavigan now consolidating control of the Brotherhood of the Black Pharoah in London, ? dead in Cairo?
 	Edward Gavigan - high priest of the Brotherhood, main director of the Penhew Foundation, dead by stabbing with ritual-styled knives
@@ -1107,7 +1107,7 @@ PEOPLE (incomplete):
 	Lawrence Vane - England,  the male heir to the Vane title, and brother to the cursed Eloise Vane, and now rendered fully insane by exposure to the ceremony. 
 	Lars Torvak - drunken owner-captain of the Ivory Wind, a tramp freighter carrying cult items to and from the Far East (mostly to Ho Fang in Shanghai and Australia)
 
-	Egypt:
+Egypt:
 
 	Faraz Najar - victim of Omar al-Shakti, murdered in street by ??, dealer of antiquities
 	Warren Besart - French associate of Roger Carlyle - somewhere in Cairo, opium and hashish addict, driven completely insane by what he saw in the desert
@@ -1141,7 +1141,7 @@ PEOPLE (incomplete):
 	Hetep — Omar al-Shakti’s pretty white long-haired cat. Actually a vicious cat-demon. The creature appears to be an ordinary white Persian. Deceased by knife and gun in Omar's home after they were teleported away from the bloodbath in the tunnels.
 	Queen Nitocris - by legend, an evil queen of ancient dynastic Egypt and bride/paramour/rival of the Black Pharoah; resurrected (briefly) by Omar al Shakti in the rites in the great chamber, stabbed/assasinated by Zahra Shafik?
 
-	China:
+China:
 
 	Fergus “McChum” Chum - 40, bar owner, Scottish-Chinese owner of the Stumbling Tiger Bar, extreme friend/loyalist of Jack Brady
 	Li Wen-Cheng - 24, an impoverished museum worker now comprador
@@ -1172,31 +1172,31 @@ PEOPLE (incomplete):
 
 The Golden Mirror (liberated from Larkin's hotel room)
 
-		At first, this appears to be a mask, approximately 6 inches (15 cm) square, made of gold. It depicts a stylized face, largely made up of blocky geometrical shapes raised from the surface, and is solid, with no eyeholes. It is similar in design to artifacts found at Tiwanaku. The back of the mask is unadorned and polished to a high sheen, allowing it  to be used as a mirror. Those examining the surface for more than a few seconds must find themselves experiencing visions.  
+>At first, this appears to be a mask, approximately 6 inches (15 cm) square, made of gold. It depicts a stylized face, largely made up of blocky geometrical shapes raised from the surface, and is solid, with no eyeholes. It is similar in design to artifacts found at Tiwanaku. The back of the mask is unadorned and polished to a high sheen, allowing it  to be used as a mirror. Those examining the surface for more than a few seconds must find themselves experiencing visions.  
 
 The Ward of the Pyramid (not retained, still in Peru in the storeroom)
 
-		The recovered fragment of the ward formed by the golden inlay around the base of the pyramid at the Lake Titicaca site that was broken off by the conquistadors. 
+>The recovered fragment of the ward formed by the golden inlay around the base of the pyramid at the Lake Titicaca site that was broken off by the conquistadors. 
 
 ### AMERICA
 
 Mask of Hayama (not taken, lost in the fire at the Ju-Ju House, was in M'Dari's alcove)
 
-	A carved wooden African mask with four hideous faces perched atop a thick, corded neck with a basket-like reed, feather, and fabric collar that hides the wearer’s face.
+>A carved wooden African mask with four hideous faces perched atop a thick, corded neck with a basket-like reed, feather, and fabric collar that hides the wearer’s face.
 
 ### ENGLAND
 
 Zahra's Mirror (not retained, in Zahra's apartment above Empire Spices)
 
-	Some kind of scrying device?
+>Some kind of scrying device?
 
 Zahra's Two Scepters of the Bloody Tongue (liberated from Zahra's apartment above Empire Spices)
 
-	Two instance found: both Edward Gavigan and Zahra Shafik own a pair of these scepters. Each scepter is about a foot long; one ends in a crook, while the other ends in an inverted ankh. The shapes appear almost organic, as if the metal was grown rather than forged; the metal is unidentifiable. The nature of these is not understood.
+>Two instance found: both Edward Gavigan and Zahra Shafik own a pair of these scepters. Each scepter is about a foot long; one ends in a crook, while the other ends in an inverted ankh. The shapes appear almost organic, as if the metal was grown rather than forged; the metal is unidentifiable. The nature of these is not understood.
 
 Headdress of Eyes - liberated from Misr House
 
-	A golden headdress in which hundreds of small eyes have been fashioned from gold. Each eye contains a precious gem of varied color. Not understood.
+>A golden headdress in which hundreds of small eyes have been fashioned from gold. Each eye contains a precious gem of varied color. Not understood.
 
 ### EGYPT
 
@@ -1217,89 +1217,85 @@ Token of Bast’s Regard - a carved pendant of black granite in the form of an E
 
 Final Confessions of Gaspar Figueroa -  Spanish, written by Gaspar Figueroa, 1543. Octavo, handwritten on vellum. (Museo de Arqueología y Antropología in the storeroom)
 
-	This rambling manuscript is written on vellum pages in faded ink. The handwriting is erratic and hard to read, filled with
-	crossings-out, corrections, and marginal notes. The content is similarly difficult to follow, having been written by a half-
-	crazed man dying from a fever. The text tells of an ancient	horror imprisoned in a pyramid in the Andean Highlands
-	and the secrets it has shared with those who came under	its thrall. The author, Gaspar Figueroa, remained free of its
-	control and his writings are filled with terror and loathing for the secrets he has learned.
+>This rambling manuscript is written on vellum pages in faded ink. The handwriting is erratic and hard to read, filled with crossings-out, corrections, and marginal notes. The content is similarly difficult to follow, having been written by a half-crazed man dying from a fever. The text tells of an ancient	horror imprisoned in a pyramid in the Andean Highlands and the secrets it has shared with those who came under	its thrall. The author, Gaspar Figueroa, remained free of its control and his writings are filled with terror and loathing for the secrets he has learned.
 
-	Spells: Speak to the Father of Maggots
+>Spells: Speak to the Father of Maggots
 
 ### AMERICA - liberated from the Carlyle Mansion Library 
 
 The Pnakotic Manuscripts - English, author and translator unknown, 15th century. Quarto, embossed red leather binding of a later date than the contained manuscript.
 
-	Five bound manuscript versions (partial copies of a greater work, now lost) of this book are catalogued in Europe and America, at least one of which resides at Miskatonic University; another is rumored to be held by the New York Public Library. The precursor volume, the Pnakotica, was written in classical Greek, and contained stories of Hyperborea, Atlantis, and Jupiter. That book may trace its origins to the pre-human crinoids who seeded life on Earth. 
+>Five bound manuscript versions (partial copies of a greater work, now lost) of this book are catalogued in Europe and America, at least one of which resides at Miskatonic University; another is rumored to be held by the New York Public Library. The precursor volume, the Pnakotica, was written in classical Greek, and contained stories of Hyperborea, Atlantis, and Jupiter. That book may trace its origins to the pre-human crinoids who seeded life on Earth. 
 
-	Spells: Contact Winged One, Contact Mind of the Observer
+>Spells: Contact Winged One, Contact Mind of the Observer
 
 Sélections de Livre D’Ivon - French commentary on Latin original by Gaspar du Nord, c.13th century. Octavo, handwritten manuscript, bound in decaying blue calfskin.
 
-	Supposedly copied by du Nord from an earlier Greek manuscript. Only 13 specimens, partial or complete, are now known to exist. Although the original manuscript on which du Nord based his work may have come to the Averoigne region directly from Atlantis, it has been conjectured that, purely by chance, it made its way to France via ancient Egypt.
+>Supposedly copied by du Nord from an earlier Greek manuscript. Only 13 specimens, partial or complete, are now known to exist. Although the original manuscript on which du Nord based his work may have come to the Averoigne region directly from Atlantis, it has been conjectured that, purely by chance, it made its way to France via ancient Egypt.
 
-	Spells: Call the Blind Lord of Chaos, Contact Formless Spawn of Zhothaqquah, Create Barrier of Naach-Tith, Gate, Fog of Misdirection, Eibon’s Wheel of Mist
+>Spells: Call the Blind Lord of Chaos, Contact Formless Spawn of Zhothaqquah, Create Barrier of Naach-Tith, Gate, Fog of Misdirection, Eibon’s Wheel of Mist
 
 Amongst the Stones - English, by Justin Geoffrey, 1918. Handwritten, containing poems later found in People of the Monolith (pub. 1926), bound in the skin of a hunting horror.
 
-	Although several of the verses contained within this slim volume are identical to those which appear in Geoffrey’s later published work, some are earlier versions which see heavy revision prior to their official publication by Erebus Press, Monmouth, Illinois. Others are unique to this manuscript. One of the unique poems is “The Trappings of a Queen,” which describes the dread ruler Nitocris’ regal paraphernalia in great detail.
+>Although several of the verses contained within this slim volume are identical to those which appear in Geoffrey’s later published work, some are earlier versions which see heavy revision prior to their official publication by Erebus Press, Monmouth, Illinois. Others are unique to this manuscript. One of the unique poems is “The Trappings of a Queen,” which describes the dread ruler Nitocris’ regal paraphernalia in great detail.
 
 Life As A God - English, by MontgomeryCrompton, c.1810. Duodecimo, handwritten, bound in human skin.
 
-	The only copy of a diary by English artist Crompton, who came to Egypt in 1805 and became a minor priest of the Brotherhood of the Black Pharaoh. Crompton was insane by the time he wrote this diary, meaning that much of it is incoherent.  Narrates all manner of unspeakable acts committed for the Pharaoh of Darkness, as well as describing a hidden throne room.
+>The only copy of a diary by English artist Crompton, who came to Egypt in 1805 and became a minor priest of the Brotherhood of the Black Pharaoh. Crompton was insane by the time he wrote this diary, meaning that much of it is incoherent.  Narrates all manner of unspeakable acts committed for the Pharaoh of Darkness, as well as describing a hidden throne room.
 
 ### AMERICA - M'Dari's Alcove in the Ju-Ju House
 
 Africa’s Dark Sects - English, by Nigel Blackwell, 1920. Sextodecimo, blue pasteboard covers with marbled endpapers and blue-stained page edges.
 
-	Written by explorer Nigel Blackwell during his travels across Africa, the book is an odd mix of travelogue and exposé of the ritual practices of a variety of African cults. Although the notes of his travels were obviously turned into a book, no publisher is listed on the title page, and Blackwell is impossible to track down. Some believe the book may have been written under a pseudonym, but there are no candidates as to the real author if that is the case. Only 13 copies are known to exist—the authorities managed to burn the rest. 
+>Written by explorer Nigel Blackwell during his travels across Africa, the book is an odd mix of travelogue and exposé of the ritual practices of a variety of African cults. Although the notes of his travels were obviously turned into a book, no publisher is listed on the title page, and Blackwell is impossible to track down. Some believe the book may have been written under a pseudonym, but there are no candidates as to the real author if that is the case. Only 13 copies are known to exist—the authorities managed to burn the rest. 
 
-	Spells: Create Ciimba
+>Spells: Create Ciimba
 
 ### ENGLAND - liberated from the secret basement of the Penhew Foundation
 
 Équinoxe Divisé - French, by Ghyslain D’Aramitz, 1807. Octavo, soft calf leather binding, pages untrimmed.
 
-	The account of a French merchant, colonial administrator, and explorer telling of his experiences traveling around the world, with particular chapters devoted to cataloguing and comparing regional customs and beliefs in Northern Africa, Asia, and Europe. D’Aramitz relishes in describing what appear to be outlandish (possibly fictional) practices concerning farming and hunting; however, these are interspersed with dramatic and chilling folk customs that have the ring of authenticity. A number of apparent medieval rituals, stemming from the south of France, are shown to have dark and murderous origins. There are numerous mentions of god- like entities and avatars that could be associated with Nyarlathotep, such as “Witch Maker,” “Bloody Tongue,” and “Three-Eyed Shadow”. Of particular relevance is a description of a mark cut into the skin of enemies of the Bloody Tongue (the same as seen on Jackson Elias’ forehead). Additionally, a passage details an excursion to find the “Black Mountain where the Bloody Tongue dwells."  
+>The account of a French merchant, colonial administrator, and explorer telling of his experiences traveling around the world, with particular chapters devoted to cataloguing and comparing regional customs and beliefs in Northern Africa, Asia, and Europe. D’Aramitz relishes in describing what appear to be outlandish (possibly fictional) practices concerning farming and hunting; however, these are interspersed with dramatic and chilling folk customs that have the ring of authenticity. A number of apparent medieval rituals, stemming from the south of France, are shown to have dark and murderous origins. There are numerous mentions of god- like entities and avatars that could be associated with Nyarlathotep, such as “Witch Maker,” “Bloody Tongue,” and “Three-Eyed Shadow”. Of particular relevance is a description of a mark cut into the skin of enemies of the Bloody Tongue (the same as seen on Jackson Elias’ forehead). Additionally, a passage details an excursion to find the “Black Mountain where the Bloody Tongue dwells."  
 
-	Spells: Ruination of Evil, Call Satan’s Eye, Ritual To Tame Night Horror, Old Woman’s Blessing
+>Spells: Ruination of Evil, Call Satan’s Eye, Ritual To Tame Night Horror, Old Woman’s Blessing
 
 Book of Dzyan - English, author/translation unknown, reputedly of ancient origin. Quarto, bound in goatskin, woven papers, distinct smell of sulfur.
 
-	Alleged to be an account of the “wise and venerable words of those most exalted High Masters of Shamballah,” it describes generational transformations of consciousness beginning on a planet called Vellarros (Venus) and ending on Earth. Enlightened beings of flame are said to have “raised” humanity when the lands of Hyperborea and Atlantis were young. The book relates secret histories of what was and what shall be, with a significant portion of the work prophesying the rise and fall of different civilizations, including ones based in the North and South Americas. Black Pharaoh (“He who shall stride the Blue and White waters”) is referenced multiple times and this: "His tongue succored in blood”
+>Alleged to be an account of the “wise and venerable words of those most exalted High Masters of Shamballah,” it describes generational transformations of consciousness beginning on a planet called Vellarros (Venus) and ending on Earth. Enlightened beings of flame are said to have “raised” humanity when the lands of Hyperborea and Atlantis were young. The book relates secret histories of what was and what shall be, with a significant portion of the work prophesying the rise and fall of different civilizations, including ones based in the North and South Americas. Black Pharaoh (“He who shall stride the Blue and White waters”) is referenced multiple times and this: "His tongue succored in blood”
 
-	Spells: Call Forth Childe of the Woode, Call Forth Wind Spirit (Summon Byakhee), Call Forth the Unseen Walker, Consult the Wisdom of the Void
+>Spells: Call Forth Childe of the Woode, Call Forth Wind Spirit (Summon Byakhee), Call Forth the Unseen Walker, Consult the Wisdom of the Void
 
 Liber Ivonis - Latin, translated by Caius Phillipus Faber, 9th century. Quarto, bound in calfskin with iron clasp, black-edged papers, musty smell. Many pages missing or spoiled.
 
-	A discussion and record of experimentation with elder geometries, the primal matter of existence, and natural philosophies, interspersed with commentaries and accounts alleged to come from a being named “Saccoche.” Some passages in an unknown language written down verbatim without translation. Purported to have been written by Eibon, who modestly describes himself as the greatest of all sorcerers, and includes accounts of his cosmic travels to other dimensions and planets.   Eibon records numerous conversations with a being he calls “Saccoche,” who appears to reveal various secrets to the wizard. In one such section, Saccoche states that he is also known as Pazz-Luzza or Pazzuzu by some. 
+>A discussion and record of experimentation with elder geometries, the primal matter of existence, and natural philosophies, interspersed with commentaries and accounts alleged to come from a being named “Saccoche.” Some passages in an unknown language written down verbatim without translation. Purported to have been written by Eibon, who modestly describes himself as the greatest of all sorcerers, and includes accounts of his cosmic travels to other dimensions and planets.   Eibon records numerous conversations with a being he calls “Saccoche,” who appears to reveal various secrets to the wizard. In one such section, Saccoche states that he is also known as Pazz-Luzza or Pazzuzu by some. 
 
-	Spells: Contact Yok Zothoth, Contact Zhothaqquah, Create Barrier of Naach-Tith, Commandment of Air, Make Pale Blade, Voomiir Singuliis, Touch of Pain
+>Spells: Contact Yok Zothoth, Contact Zhothaqquah, Create Barrier of Naach-Tith, Commandment of Air, Make Pale Blade, Voomiir Singuliis, Touch of Pain
 
 ### ENGLAND - liberated from the hidden workroom in Misr House
 
 Song of the Djinn (Oghniat Min al Jinn) - Arabic, by Ghalib al-Sabbah, c. 797. Sextodecimo, bound in goatskin with bronze clasp, sulfurous smell.
 
-	Heretical work alleged to be the transcript of a series of discussions held by the author with a “djinn,” a being of “scorching fire,” which related all manner of esoteric and forbidden lore. While most of the knowledge contained appears to be fanciful, a few kernels of Mythos knowledge are hidden in the text.
+>Heretical work alleged to be the transcript of a series of discussions held by the author with a “djinn,” a being of “scorching fire,” which related all manner of esoteric and forbidden lore. While most of the knowledge contained appears to be fanciful, a few kernels of Mythos knowledge are hidden in the text.
 
-	Spells: Enchantment of the Living Flame 
+>Spells: Enchantment of the Living Flame 
 
 ### EGYPT
 
 The Black Rites of Luveh-Keraphf - Egyptian hieroglyphs, by Luveh-Keraphf, c. Thirteenth Dynasty Egypt (1786-1633 BCE). Ten fragile papyrus scrolls, handwritten, stored in an old shoebox beneath Janwillem Van Heuvelen’s bed until returned to the secret temple of Bast (UNTRANSLATED/NOT RETAINED but examined)
 
-	Almost every inch of each scroll is covered with tiny, crabbed Egyptian hieroglyphs. The first scroll in the sequence identifies its author as Luveh-Keraphf, High Priest of the cat goddess, Bast. The first few scrolls then discuss the worship of Bast in great detail, including means for summoning Bast and her feline kindred. Later scrolls outline the worship of other Egyptian deities. Particular mention is made of “the Terrible Lord of the Riverbanks,” the crocodile-headed Sebek. His riverside temples are described, along with the rituals for sacrifices made in his name. Cautionary chapters, devoted to the darker members of the Egyptian pantheon, are also included. The Faceless God and the Black Pharaoh are discussed. Poor quality translation by Van Heuvelen. 
+>Almost every inch of each scroll is covered with tiny, crabbed Egyptian hieroglyphs. The first scroll in the sequence identifies its author as Luveh-Keraphf, High Priest of the cat goddess, Bast. The first few scrolls then discuss the worship of Bast in great detail, including means for summoning Bast and her feline kindred. Later scrolls outline the worship of other Egyptian deities. Particular mention is made of “the Terrible Lord of the Riverbanks,” the crocodile-headed Sebek. His riverside temples are described, along with the rituals for sacrifices made in his name. Cautionary chapters, devoted to the darker members of the Egyptian pantheon, are also included. The Faceless God and the Black Pharaoh are discussed. Poor quality translation by Van Heuvelen. 
 
-	Spells: many, but lost
+>Spells: many, but lost
 
 ### CHINA - liberated from Lin Yenyu's collection by Jack Brady:
 
 The Seven Cryptical Books of Hsan - Classical Chinese, written by Hsan the Greater, c. 2nd century. A single, large classical Chinese scroll organized into seven books, handwritten and kept in a fitted scroll case bearing the Elder Sign.
 
-	This particular copy of the Seven Cryptical Books is much more ancient and perfect than the usual copies. Disagreement still exists as to whether the book was written by Hsan the Greater, or was in fact brought from Leng at the time of the Yellow Emperor before being translated. Amongst other topics, the Books discuss's a malicious god's many incarnations and other topics not yet translated.
+>This particular copy of the Seven Cryptical Books is much more ancient and perfect than the usual copies. Disagreement still exists as to whether the book was written by Hsan the Greater, or was in fact brought from Leng at the time of the Yellow Emperor before being translated. Amongst other topics, the Books discuss's a malicious god's many incarnations and other topics not yet translated.
 
-	Deciphering this scroll’s idiosyncratic handwritten characters and understanding their portent is a lengthy task, even for a fine classical scholar like Mu Hsien. The passage concerning the Eye of Light and Darkness is in the fifth of the Cryptical Books. For information and procedures concerning it, see Carlyle Papers China #9 (once translated). Mu Hsien believes that the methods of creating and destroying the ward exist only in this copy.
+>Deciphering this scroll’s idiosyncratic handwritten characters and understanding their portent is a lengthy task, even for a fine classical scholar like Mu Hsien. The passage concerning the Eye of Light and Darkness is in the fifth of the Cryptical Books. For information and procedures concerning it, see Carlyle Papers China #9 (once translated). Mu Hsien believes that the methods of creating and destroying the ward exist only in this copy.
 
-	Spells: Eye of Light and Darkness, Destroy Seal (and possibly others)
+>Spells: Eye of Light and Darkness, Destroy Seal (and possibly others)
 
 ### CHINA - liberated from the cabinet of Ho Fang:
 
