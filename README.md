@@ -1017,7 +1017,7 @@ The battered, grieving investigators return to Chang Ning's safe house, reunitin
 
 Knowing Choi Mei-Ling is no longer safe in China and requires extensive care, and that no one here will take care of her as she's just a flower girl, Jack informs the group they are leaving. He plans to take her to safety with a contact in Australia who he trusts will take care of her until she gets better — if she gets better - and tells the investigators that he intends to hunt down a member of the Carlyle expedition who he believes is hiding there. With their numbers decimated, the remaining investigators agree to board the ship with him, preparing for the nearly month-long voyage to Sydney.
 
-23rd of April 1925: Jack Brady has booked passage for himself, Choi Mei-Ling, Gus, Lia and Serafina on a ship run by the Australian Oriental Line from Shanghai to Sydney via Hong Kong and Brisbane.  The trip takes, typically, between 14 and 21 days.
+23rd of April 1925: Jack Brady has booked passage for himself, Choi Mei-Ling, Gus, Lia and Serafina on a ship run by the Australian Oriental Line from Shanghai to Sydney via Hong Kong and Brisbane.  The trip takes, typically, between 14 and 21 days. However, tough goings have the ship arriving on the 19th of May, 2025, due to a delay in Brisbane.
 
 1926
 
