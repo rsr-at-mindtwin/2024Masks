@@ -1499,9 +1499,10 @@ Australia:
 
 	Prof. David Dodge - 46 - assoc. professor of archaeology; friend of Anthony Cowles (and living in his house) and Jack Brady, just finishing his current term, and looking forward to some vacation time. Keen to discover what the group knows and what has brought them to Australia
 	Bonnie Dodge - 17 - daughter of David Dodge
-	Robert Mackenzie - ? - executor of MacWhirr estate; transferred some objects, a painting, papers and a diary to Cowles
+	Robert Mackenzie - ? - mining engineer and executor of MacWhirr estate; transferred some objects, a painting, papers and a diary to Cowles
 	Toddy Randolph - ? - owner-operator and resident of Randolph Shipping company
-	Billy Burraglong - ? 20s - worker at Randolph Shipping and apparently general fixer of Aboriginal issues when they drop up in Darwin
+	Billy Burraglong - ? 20s - worker at Randolph Shipping and apparently general fixer of Aboriginal issues when they crop up in Darwin
+	Arthur MacWhirr - 60s? - miner out of Port Hedland
 
 ## ARTIFACTS
 
