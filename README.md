@@ -1069,7 +1069,18 @@ The ceiling has been clicking since Gus forced open the door.
 
 From the cabinet, he loots some papers (in Chinese) as well as books:
 
-	The Goddess of the Black Fan - Classical Chinese, by Liu Chanfang, date unknown. Single scroll, parchment, stored in a carved ivory scroll case with silver filigree decorations. (dedication from Carl Stanford to Ho Fang)
+The Goddess of the Black Fan - Classical Chinese, by Liu Chanfang, date unknown. Single scroll, parchment, stored in a carved ivory scroll case with silver filigree decorations. (dedication from Carl Stanford to Ho Fang)
+
+>The poems contained on this scroll tell how the monk Liu meets a goddess who hides her face behind a black fan. The goddess seduces the author, telling Liu her true name and how to call her from behind the fan. He follows her bidding, and is struck with horror when he sees the Bloated Woman. Losing all reason, he writes a last poem in his own blood after gutting himself with a sickle.
+
+>This is the foundation for, and the most sacred
+tome of, the Order of the Bloated Woman.
+
+>Sanity Loss: 1D4
+>Cthulhu Mythos: +1/+4 percentiles
+>Study: 2 weeks
+>Spells: Come, Mistress of the Fan
+
 
 	Livre d’Ivon - French, translated by Gaspard du Nord, c. 13th century. Quarto, handwritten manuscript, bound in royal blue shagreen (stingray leather).
 
