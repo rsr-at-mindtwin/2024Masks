@@ -29,7 +29,25 @@ Intro + M has inventory (separate document tab) here: https://docs.google.com/do
 
 24th - A new moon, Met Erica, Headed to Harlem, seeming interrupted a ritual, burned the Juju house (and neighborhood) to the ground (Sat)
 
-25th - Headed to Arkham to meet with Professor Cowles (Sun)
+25th January 1925 
+
+Outside Silas N'Kwane's shop, the group finalized a drastic plan to deal with the horrors of the Ju-Ju House. Down in the basement, Mukunga M'Dari was actively leading a horrific ritual, sacrificing victims to a massive, multi-faced monstrosity known as a Chakota, all while the cultists chanted the name "Ny-ar-lat-ho-tep." Having already seen the creature — and with Lia having been temporarily enthralled by it — the group decided their best option was to burn the building down with the cultists trapped inside.
+
+While Gus, Father Rory, and Lia struggled to drag heavy pieces of a wooden crate across the courtyard to block the alley door, Teddy and Serafina donned red cultist bandanas as a disguise. They rushed the shop door, pretending to be confused, late-arriving cultists. Teddy pulled the door open and casually tossed a lit Molotov cocktail inside, instantly igniting the floor. Serafina followed suit, expertly throwing her Molotov squarely onto the trapdoor leading to the basement. Hearing the woof of the flames and the panicked shouts of the cultists inside, the group quickly retreated to the shop next door where they'd been hiding.
+
+The fire spread rapidly, engulfing the shop and spreading to adjacent tenements. Rushing down the alley, the group found Needham and Douglas waiting in their truck. Seeing the billowing smoke, Needham looked grim. He informed the group that they were getting out of New York immediately to escape the cult's wrath, telling them, "If I were you, I'd get out of town too." Serafina instructed the men to head to the law office of Carlton Ramsey, promising that funds would be waiting there for them to start new lives. The group piled into the back of the truck and sped off. Though they were briefly spotted by a pair of beat cops, they managed to make it back to their safe house unseen.
+
+Back at the safe house, the group debriefed. They discussed Jackson Elias's murder, with Teddy suggesting Elias simply learned too much about the Cult of the Bloody Tongue, and Serafina adding that his fame gave him the reach to expose them globally. Gus noted the connections to the Egyptian expedition. Father Rory shared his academic understanding of the Chakota, explaining that it was not a god itself, but rather a created entity used to concentrate souls and worship for a much darker force.
+
+The next morning, the papers were filled with reports of dozens dead in the Harlem tenement fire. Presuming M'Dari and the New York branch of the cult were neutralized, they visited Carlton Ramsey's office. Carlton provided them with $500 in travel funds and agreed to hold money for Needham, Douglas, and their friends. Deciding their next move was to investigate the Penhew Foundation, the group planned to sail for England, but first took a quick train ride to Miskatonic University in Arkham to consult Professor Anthony Cowles.
+
+Arriving at the Miskatonic campus, an overly eager student escorted them to the Grafton Diner, where Cowles was eating with his daughter, Eva. Teddy approached the booth and presented his business card. The bearded Australian looked up and welcomed them, saying, "This is my breakfast, but you're welcome to sit down."
+
+Though Cowles had never met Jackson Elias personally, he was familiar with his books. Intrigued by the investigators' questions, he invited them back to his office. There, Cowles examined photos of the group's artifacts but warned them of the prevalence of fakes in the field. He shifted the conversation to his own research on the Australian Cult of the Sand Bat, also known as the Father of All Bats. He showed them four damaged glass slides obtained from an Arthur MacWhirr via an executor named Robert Mackenzie, along with a modern Aboriginal painting depicting a dark, semi-material entity with a single three-lobed red eye.
+
+Cowles explained that the bat cult's symbol was considered a very serious taboo by the locals and confirmed that the cult was incredibly dangerous, historically practicing human sacrifice. He suspected the cult had recently been reborn. Before they parted ways, he suggested that if the investigators ever traveled to Australia, they should seek out his colleague, Professor David Dodge.
+
+Before leaving for England, the group contacted Rebecca Shosenburg. She replied via telegram, revealing that she had used a contact at the Medical Affairs Board to access Dr. Houston's files regarding Roger Carlyle. Though the files had been heavily purged, she managed to find one remaining document, transcribing and sending it to them. With their business in America concluded, the investigators prepared to board a ship for the long voyage to London.
 
 26th - Returned to New York, Departed for England by ship (Mon)
 
