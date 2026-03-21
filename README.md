@@ -23,11 +23,65 @@ Intro + M has inventory (separate document tab) here: https://docs.google.com/do
 
 21st - Visited Hilton Adams at Old Sparky at SingSing (Wednesday), Shopping at Sears. Stakeout of the Juju House
 
-22nd - Broke into the Juju house and murdered Silas (Thursday)
+22nd January 1925 (10-04-2024)
 
-23rd - Teddy has been on the phone all morning, visit to NYU [ mostly artifacts asks ] (Friday)
+### **The Ju-Ju House Raid and the Fate of Millie Adams**
 
-24th - A new moon, Met Erica, Headed to Harlem, seeming interrupted a ritual, burned the Juju house (and neighborhood) to the ground (Sat)
+With Art, Gus, and Teddy lying in wait inside the Ju-Ju House, and Father Rory, Serafina, and Lia watching from the abandoned pawn shop next door, the trap was set When Silas returned from his lunch and flipped the sign to "Closed," Teddy immediately ambushed him, striking the old man hard on the back of the head with the butt of his gun. Silas fell sprawling to the floor and let out a weak cry for help before Gus delivered a swift kick; Art quickly dragged the stunned shopkeeper into the back room and threw him onto the bed, while Gus shoved a cloth into his mouth to gag him. 
+
+Despite looking like a frail old man, Teddy realized with chilling certainty that Silas was extremely dangerous. Teddy put his gun to Silas's forehead, pulled the gag down, and demanded to know where Hilton Adams's wife, Millie, was. Silas simply smiled, his gummy mouth slick, and replied, "I would like to help you, but I am not certain who you are referring to." Furious, Teddy aimed for Silas's kneecap and pulled the trigger, but his weapon badly jammed; realizing his precarious situation, Silas motioned for his ledger and scribbled a desperate bargain: "73 years old. I want to see 74.". Around Silas's neck, Teddy found a leather strap holding an ornate key. Convinced the old man was stalling and utterly uncooperative, Teddy placed his .45 against Silas's head and fired. The deafening shot splattered Silas's brains across the mattress, ending the shopkeeper's life. Upon inspecting the corpse, the group discovered a massive, crudely made tattoo of the Cult of the Bloody Tongue covering his chest.
+
+Meanwhile, Gus examined Silas's ledger and noticed a distinct pattern of weekly payments made out to "WR 14". Piecing the clues together, Teddy and the group deduced that the initials likely stood for Captain Walter Robson of the 14th Precinct. Art was apoplectic, realizing that the local police were being paid off to ignore the disappearances in Harlem. 
+
+Outside, Serafina spotted Mukunga M'Dari speaking to a subordinate in the alleyway. When M'Dari eventually moved out of sight, Serafina, Father Rory, and Lia made a mad dash across the courtyard to regroup inside the Ju-Ju House. Lia, wrapped in a blanket to hide her appearance, scurried across looking like a crazed, one-eyed homeless woman. 
+
+### **The Basement Horrors**
+
+With the key secured, the investigators decided to open the heavy, trapdoor-covered stone portal leading into the basement. Gus peered into the dim, musty room, noting dressed stone walls, broken crates, and what appeared to be four misshapen statues standing in a southern alcove. As Gus stepped closer to investigate the crates, the "statues" began to silently move toward him. To his horror, they were undead monstrosities — black corpses with the Cult of the Bloody Tongue rune carved into their foreheads, their bellies sliced open with intestines dragging behind them on the floor. One of the zombies, Gus realized with a sickening jolt, was Millie Adams. Gus fled back up the stairs and the group slammed the heavy door shut, noticing that the zombies did not attempt to pursue or bang on the door.
+
+Upstairs, Serafina warned the group that Mukunga M'Dari was now standing directly in the center of the courtyard, staring intently at the shop. He seemed perfectly aware that the basement's guardians had been triggered. After a tense standoff, M'Dari turned on his heel and power-walked down the alley, clearly going to fetch reinforcements. Knowing their time was incredibly short, Art demanded they go back down to retrieve Millie, utterly refusing to leave her behind to be a monstrous guardian.
+
+Father Rory, Teddy, Art, and Serafina rushed back down the stairs. Father Rory immediately lit a torch to illuminate the terrifying room. Art, blinded by grief and adrenaline, barreled straight toward the zombie of Millie, attempting to tackle her and carry her out. He quickly discovered she possessed monstrous strength, and with a lightning-fast swing, the undead Millie struck Art in the shoulder, sending him sprawling and nearly inflicting a major wound. Father Rory engaged another of the creatures, bringing his sword down with exceptional force and cleanly severing the zombie's arm, which dropped uselessly to the floor. Serafina followed up by expertly throwing a knife into the wounded creature, causing it to crumble into a heap. 
+
+While the fight raged, Teddy used the distraction to quickly survey the alcove. He spotted several highly unusual items: a shimmering high priest's robe covered in flamingo and kingfisher feathers, a book titled *Africa's Dark Sects*, a burnished copper bowl etched with runes, a set of lion claws attached to sturdy gloves, a high-quality human-tongue mask, and oddly, a large marine chronometer.
+
+### **Appraisal at the Safehouse**
+
+After surviving the basement and fleeing Harlem before M'Dari's reinforcements could corner them, the investigators retreated to their safehouse to heal Gus and Art, and to appraise their stolen artifacts. 
+
+Gus examined the gloves and confirmed they were crafted from genuine lion claws, noting they were robust enough to be used as deadly weapons. The group also studied a four-foot-long scepter made of baobab wood. Gus identified the deeply worn markings carved into it as authentic Egyptian hieroglyphics, estimating the artifact to be incredibly ancient. 
+
+They also examined a dense, gray metal headband etched with strange, cuneiform-like characters that did not match any known earthly language. When Father Rory placed the headband on his skull, it warmed slightly to match his body temperature. Though it caused no visible changes, it instilled a bizarre, unidentifiable psychic sensation — a background feedback that made him feel as if something was fundamentally altered, yet strangely fitting. 
+
+23rd January 1925
+
+Their investigation led them to NYU, where they sought academic expertise regarding the strange symbols and notes Elias had accumulated. They spoke with a graduate student studying linguistics who offered some insight into their texts. She pointed them toward the esoteric author Elena Blavatsky and suggested they look into ancient "replacement ciphers" to decode some of the mysteries they had uncovered.
+
+Continuing their search for experts, the group discovered a flyer advertising a lecture by an Australian anthropologist, Professor Anthony Cowles, concerning a "cult of darkness". Unfortunately, they learned the talk had already occurred and Cowles had since returned to his fellowship at Miskatonic University in Arkham. Looking for more immediate, local information, the group made contact with Rebecca Shosenburg, a reporter who had been covering a string of gruesome, ritualistic murders in Harlem.
+
+Digging deeper into the Harlem connection, the group turned their attention to the Ju-Ju House, a dark and cluttered African curio shop run by an evasive old man named Silas N'Kwane. Through their investigation, they learned about Hilton Adams, a local man who had been framed and put on death row for the cult killings, largely due to the efforts of a deeply corrupt police captain named Robson. Seeking local allies who understood the neighborhood, the group managed to track down two of Hilton's friends, Needham and Douglas.
+
+Meeting with Needham and Douglas, the group laid out their shared interest in exposing the cult. The two men, eager to clear their friend's name and take revenge on the cultists who had murdered Hilton's wife, Millie, agreed to assist the group with a stakeout of the Ju-Ju House. Realizing they were dealing with a sprawling, highly dangerous conspiracy inextricably linked to the doomed Carlyle Expedition, the group decided they needed more leverage and information before making a direct assault. They concluded the session by arranging a meeting with Erica Carlyle at her Westchester estate, hoping to uncover more about her brother's madness
+
+24th January 1925 
+
+The group took a ninety-minute drive outside the city to Westchester, arriving at the sprawling, three-story estate of Erica Carlyle. Upon arrival, they were met by the gatekeeper, Joe Corey, and the Carlyle family lawyer, Bradley Gray, before being escorted into a large, beautiful private library.
+
+Erica Carlyle was younger than the group expected, dressed sharply in expensive clothes. The investigators broke the news that Jackson Elias had been murdered, explaining that he knew they would be killed by a specific cult and that the group was now hunting his killers. Erica revealed that there had already been several attempts by random cultists to break into her estate looking for something, though they refused to say what when captured. Teddy, trying to build trust, told her bluntly that the group "had nothing to lose".
+
+Opening up about her brother's descent into madness, Erica explained that Roger Carlyle had developed a dark fascination with the occult and a "Negro woman" named Nichaka Bunay. Roger believed she was a "Queen" who held deep secrets. Erica also detailed Dr. Robert Huston's involvement in the expedition and noted that Roger would frequently disappear for days into Harlem. Father Rory shared a copy of a commissioned portrait of the expedition members, and Teddy immediately noticed that someone had been edited out of the space between Roger and Dr. Huston. Erica confirmed this without hesitation: "Yeah, I had them take that bitch out of it."
+
+Erica then opened a hidden safe and revealed a collection of rare, dangerous books, including Africa's Dark Sects and Life as a God. She agreed to hand the books over to the investigators on one strict condition: they had to make it publicly known that the books were now in their collection, drawing the cult's deadly attention away from her. Serafina agreed, asking Erica if she wanted to be notified if they ever found the mysterious woman. Erica replied coldly, "I would like to know if Nichaka Bunay is burning in hell".
+
+Returning to the city, the group tracked down a speakeasy and spoke with a man named Clint about Nichaka. Clint remembered her as a good-looking young woman who had gone to Africa and always wore a fine gold chain with a crystal pendant, though he noted she was "long gone". Around this time, Father Rory was struck by a disturbing vision: a black tree floating on a gray sea filled with deadness.
+
+25th January 1925 - late
+
+Armed with this new knowledge, the investigators rendezvoused with Needham and Douglas, convincing the two men to accompany them to the Ju-Ju House in Harlem. Upon arriving, it became immediately clear that a massive ritual was underway. Needham and Douglas were sent to the alley to disable a large truck parked outside.
+
+Meanwhile, the investigators slipped into Silas N'Kwane's pawn shop and peered through a hole they had cut into the floorboards. Below, they witnessed a nightmare: dozens of cultists had stripped naked, piled their clothes, and were dancing with torches. Mukunga M'Dari, wearing a screaming, four-faced mask, led a call-and-response chant to "Nyarlathotep". Cultists dragged two prisoners from crates, scratched a dark symbol into their heads, and sacrificed them to a massive, sandworm-like horror covered in screaming human faces—a Chakota.
+
+The sheer unnatural terror of the beast radiated upward. While Gus and the others watched in horror, Lia's mind buckled under the strain; she was suddenly overwhelmed by a rapturous need to worship the creature, dropping to her knees and rocking back and forth in a silent, terrified prayer. The session ended with the group huddled in the dark shop above, realizing they had to act fast before the cultists finished their dark work.
 
 25th January 1925 
 
