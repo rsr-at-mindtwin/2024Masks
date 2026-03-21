@@ -1495,6 +1495,14 @@ China:
 	Sun Ch’unhua - Ho Fang's (Jack: petite young, real looker) secretary
 	Chu Min - leader of Firm Action, the most violent and best-armed wing of the New China patriotic league.
 
+Australia: 
+
+	Prof. David Dodge - 46 - assoc. professor of archaeology; friend of Anthony Cowles (and living in his house) and Jack Brady, just finishing his current term, and looking forward to some vacation time. Keen to discover what the group knows and what has brought them to Australia
+	Bonnie Dodge - 17 - daughter of David Dodge
+	Robert Mackenzie - ? - executor of MacWhirr estate; transferred some objects, a painting, papers and a diary to Cowles
+	Toddy Randolph - ? - owner-operator and resident of Randolph Shipping company
+	Billy Burraglong - ? 20s - worker at Randolph Shipping and apparently general fixer of Aboriginal issues when they drop up in Darwin
+
 ## ARTIFACTS
 
 ### PERU
