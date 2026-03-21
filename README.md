@@ -2,6 +2,28 @@
 
 Intro + M has inventory (separate document tab) here: https://docs.google.com/document/d/1botVxpJS69F9XTC8tQ2wliKa7KVTwMNtO3U6U8LJqHo/edit?tab=t.8vvsdbonh3x
 
+## Characters
+
+Previous
+
+Teddy Beaumont - a wealthy, charming socialite and collector of artifacts from New York, after the trauma of Peru where he met his friend Jackson Elias, New York, England and the addiction to the green fluid, and the loss of his potential relationship with Zahra Shafik, he took the Black Pharoah's offer to have his "heart's desire" - to be with Zahra - and vanished
+
+Monty Brackreid - a British intelligence officer in Cairo, he joined the group after the "death" of Teddy; he had been worried about his friend and tracked him and his companions to the desert on the night of the ritual in the Great Chamber. Meeting on the road, he joind the others in a raid on Omar al Shakti's mansion where he learned that many things were real directly in a battle with Hetep, the demon cat of al Shakti. To understand this and what happened to his friend, joined the others as they traveled to Shanghai. Killed by the women in silks (Zahra?) in Ho Fang's mansion in Shanghai when he was attacked after entering her guest room and touching her belongings.
+
+Father Rory O'Sullivan - Friend to Jackson Elias, an Anglican priest with an interest in the occult, to the point of summoning a Byakkee, he was killed by the woman in silks (Zahra?) in Ho Fang's mansion in Shanghai while trying to save Monty from the woman
+
+Current
+
+Gus Smorrich - a mechanic/all around kind of guy who they met in Peru and who has been tagging along since; somewhat middle aged
+
+Serafina Casartelli - a young woman (now in her late 20s) who comes form an italian circus family; her expertise is throwing knives, joined in Peru
+
+Lia Amalia Birmingham - a one eyed 40-something woman of suspicious background who joined up with the rest in Peru on Larkin's expedition
+
+Ossmus Fest aka The Great ORTBO - 38, male, born in Shanghai to british parents, he grew up in Shanghai and speaks Chinese, he is a stage magician and apparently a pickpocket
+
+Dr. Jack Moody - American male, 36ish, a medical doctor but also a complete quack, pushes "smoking is healthy"
+
 ## MARCH 1921
 
 March 18th, 1921 - BAR CORDANO
