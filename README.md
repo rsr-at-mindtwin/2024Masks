@@ -1015,9 +1015,9 @@ Avoiding looking at the ceiling, Gus wraps the naked Choi Mei-Ling in some spare
 
 The battered, grieving investigators return to Chang Ning's safe house, reuniting with Jack Brady. Brady is overjoyed to have Choi Mei-Ling back, but visibly broken both by her condition and by the news of Father Rory's death. Mu Hsien promises that within a few weeks, he can translate the spell for the sealing spell - Eye of Light and Darkness - in that time, and immediately sets to work translating the looted Chinese documents (not the books).
 
-Knowing Choi Mei-Ling is no longer safe in China and requires extensive care, and that no one here will take care of her as she's just a flower girl, Jack informs the group they are leaving. He plans to take her to safety with a contact in Australia who he trusts will take care of her until she gets better — if she gets better - and tells the investigators that he intends to hunt down a member of the Carlyle expedition who he believes is hiding there. With their numbers decimated, the remaining investigators agree to board the ship with him, preparing for the nearly month-long voyage to Melbourne.
+Knowing Choi Mei-Ling is no longer safe in China and requires extensive care, and that no one here will take care of her as she's just a flower girl, Jack informs the group they are leaving. He plans to take her to safety with a contact in Australia who he trusts will take care of her until she gets better — if she gets better - and tells the investigators that he intends to hunt down a member of the Carlyle expedition who he believes is hiding there. With their numbers decimated, the remaining investigators agree to board the ship with him, preparing for the nearly month-long voyage to Sydney.
 
-WHEN: 22nd of of April 1925. WHERE: Chang Ning's compound; Jack working out the travel to Melbourne.
+23rd of April 1925: Jack Brady has booked passage for himself, Choi Mei-Ling, Gus, Lia and Serafina on a ship run by the Australian Oriental Line from Shanghai to Sydney via Hong Kong and Brisbane.  The trip takes, typically, between 14 and 21 days.
 
 1926
 
