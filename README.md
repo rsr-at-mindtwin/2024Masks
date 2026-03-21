@@ -4,28 +4,240 @@ Intro + M has inventory (separate document tab) here: https://docs.google.com/do
 
 ## MARCH 1921
 
-	18th - Augustus Larkin has arranged to meet the prospective members of his expedition for dinner at 7 p.m.
-	(...)
+March 18th, 1921 - BAR CORDANO
+
+Augustus Larkin has arranged to meet the group - prospective members of his expedition - for dinner at 7 p.m. on March 18, at the Bar Cordano, a restaurant and bar in Lima District. This is the first time that Larkin has met any of them face-to-face. The restaurant is simply but tastefully furnished, with wood paneling and fixtures and a tiled floor. The food is good, with seafood a specialty. Larkin, who has eaten here before, recommends the escabeche, a hot, sweet and sour fish dish. As the individuals in the group arrive at the restaurant, they are shown to a table where three men are already seated: Larkin, Luis de Mendoza, and Jesse Hughes. The atmosphere is tense, with some animosity or suspicion between de Mendoza and Hughes. Dinner proceeds and they reach agreement about the expedition, with Larkin explaining it will be set up in a dew days. 
+
+Larkin explains his plan to head up to the highlands, locate the site of the lost pyramid, and recover some valuable artifacts. While Larkin is subtle about this last point, careful to give the expedition a veneer of archaeological validity, he leaves no doubt that he expects everyone involved to become wealthy or, at least, realize some measure of success within their chosen academic fields.
+
+He tells the group that he bought a few interesting items near Puno from an alpaca farmer, who claims that his grandfather recovered them from tunnels beneath a pyramid high in the mountains. The grandfather never returned to the site because of superstitious fear, but he told his family that there were other treasures in the tunnels. While the farmer could not give a precise location for the site, Larkin states that his subsequent research has provided enough detail to narrow it down and make an expedition viable. The group suspects that Larkin’s tale concerning the farmer is not the complete story, but he confirms that he believes that there is a pyramid and
+that the items came from it.
+
+One thing none of them can miss is that Larkin and de Mendoza smell horrible. They are wearing heavy cologne to cover it up but it is like the stench of death.
+
+Larkin then shows the group the two items he claims to have bought from the farmer. One is a pendant in the form of a man holding two rods or staves, embellished with rectangular shapes. The other is a golden cup carved with geometrical patterns and circles and inlaid with turquoise. Lia immediately recognizes that these objects are from two distinctly different time periods and cultures, the first resembling some artifacts taken from Tiwanaku, probably dating back to the 5th century, and the second being of Incan design, probably from the 15th century.
+
+They ask him for more details. While traveling in the highlands, Larkin heard about the “lost” pyramid from an alpaca farmer. The farmer, Ernesto Mollo, said his grandfather had found the site and taken some items (the pendant and the golden cup) but went on to say that the site was cursed and a fearful place. Larkin puts this down to local superstition rather than having any basis in fact. It was pure chance that he met the farmer and says its now “all our good luck” to be the first professional expedition to visit the pyramid and bring its story and treasures to the outside world.
+
+As to the location? Up in the highlands near to Lake Titicaca, a few days' journey from Puno. Larkin states he has located the pyramid’s
+probable location from the directions of the farmer. He refuses to show how actual research however, saying that he destroyed his paperwork in fear of another enterprising archaeologist stealing it and gaining a march on his expedition. Given that word about the pyramid has gone far and wide in the press, anyone could mount a competing expedition. “You can never be too safe,” he smiles,
+adding, “It’s all in my head. I have a very good memory, do not fear!” They push a bit, and Larkin concedes that supplementary research may be helpful, if the investigators have time to assist. He suggests they visit the Museo de Arqueología y Antropología of the Universidad Nacional Mayor de San Marcos, where there may be old records tucked away and forgotten about. The main thing is that any additional research must not delay the departure of the expedition and they should not tip off anyone at the museum.
+
+Larkin has hired three trucks and drivers to take the party and some supplies up to the city of Puno, on the shores of Lake Titicaca. Once there, he plans to buy some pack animals and stock up with fresh food. He hopes that the journey to the pyramid will take no more than four days across country. Larkin will provide any supplies necessary, but if the investigators need to buy anything special, he is happy to reimburse them, provided they can produce receipts. 
+
+Once there, the plan is to examine the site and recover any items of special archaeological interest.
+
+Larkin aims to leave Lima for Puno early in the morning of Monday March 21. He instructs the investigators to meet him at 8 a.m. on Monday at the Hotel España, where hs and de Mendoza are staying. Throughout the conversation Luis de Mendoza sits silently, offering no comment apart from nodding in agreement while Larkin speaks. Likewise, Hughes listens to Larkin with interest, but seems skeptical.
+
+Larkin seems drawn and excuses himself, de Mendoza silently following.
+
+As Larkin leaves, Jesse Hughes asks the others if they would like to join him for a drink and get to know each other better. Once the coast is clear, he asks the investigators how much they believe of what they’ve just heard and whether they trust Larkin. 
+
+Jesse looks at them for awhile before revealing his real name, Jackson Elias, explaining he uses a pseudonym because he is "here to research the cult of the Kharisiri." He believes both Larkin and De Mendoza are involved, and suspects the expedition to the pyramid is merely a "money making scheme" that Larkin stumbled upon to fund his cult activities. Elias is certain the cult is real and surprisingly large, noting that "a few dozen members is actually an enormous cult." He shares that the only thing he has heard about the Kharisiri, aside from them sucking fat, is that they are immortal and simply don't age. Serafina pulls out her heavily annotated, Italian-translated copy of Larkin's old guidebook to show a photo of him as a "robust, healthy young man," pointing out that he looks terrible now.
+
+As the evening winds down, Elias advises everyone to buy warm clothes for Puno, warning it will be in the 60s at 13,000 feet. He mentions he will carry a weapon when they leave for the highlands, stating he prefers not to walk the busy streets alone at night because "when people get wind that you're investigating them... they don't usually attack you midday." Serafina decides to bunk with Lia, spending the evening talking her ear off about her circus family, throwing knives, and her plan to capture a Kharisiri alive to put in a cage so people can "pay to show this thing to open its mouth." Gus, while locking his window, spots a very thin man walking in the distance down the street. Meanwhile, Teddy stays up late studying his artifacts, recognizing the pendant with the two rods as being similar to a 1549 discovery from the Peru-Bolivia border. The next morning, before their meeting, the group hikes up the famous San Cristobal hill to view the massive cross and look out over the prosperous city of Lima.
+
+At 2 PM, Elias leads the party to the Museo de Arqueología, a large, two-story, dark yellow stone building on the university campus, to meet Professor Sanchez. Sanchez welcomes them to his airy, white-walled office but complains that Larkin has repeatedly rebuffed his offers to help with the expedition. Sanchez wants to locate the pyramid before Larkin's group can plunder it, as there are "no legal restrictions in Peru to prevent foreigners from plundering archaeological sites." Sanchez mentions his student, Trinidad Rizo, has been summarizing an old document that might reveal the location, but notes she has been gone too long fetching a new artifact from the storeroom. Sanchez dismisses the Kharisiri as folklore, finding the idea of a real cult amusing, and suspects Larkin and De Mendoza might just be encouraging rumors to scare off competitors. 
+
+Elias volunteers to go check on Trinidad in the basement storeroom, accompanied by Teddy and Gus. The basement is a cavernous, dimly lit room filled with crates and shadow. Teddy and Elias are horrified to discover Trinidad's body on the floor, half-buried in fallen artifacts. She is emaciated and mummified, completely drained of subcutaneous fat, with her face frozen in terror and a large disk of torn flesh ripped from her upper chest. Nearby is a smashed crate containing a 25-pound length of worked gold, stamped with non-repeating geometric shapes, bearing blackened, burned flakes that smell faintly of leather. Gus hears footsteps sprinting away up the stairs and spots bloody shoe prints trailing away from the scene.
+
+Upstairs, Serafina and Lia hear shouts and rush to the office. They discover De Mendoza on top of Professor Sanchez, pressing his face against the professor's while the old man writhes in terror. Serafina immediately throws her circus knives, sinking one into De Mendoza's leg and another directly into his mouth. He rears up, uninjured by normal standards but dripping a sickly, rancid, white paste from his mouth. Lia pulls her gun, threatening him in broken Spanish, before taking a shot. De Mendoza roars and lunges at Lia with lethal intent, but through a sheer stroke of luck she narrowly dodges the fatal blow. At that moment, Teddy and Gus arrive at the top of the stairs. Gus immediately unloads his handgun into De Mendoza, dealing just enough damage to drop the creature. De Mendoza collapses, dying as he vomits up a half-gallon of white, rancid-smelling goop onto the floor.
+
+Taking no chances, Serafina begins the grisly, time-consuming task of attempting to saw off De Mendoza's head with her throwing knife. Teddy attempts to provide first aid to Professor Sanchez, who is left shuddering, covered in white slime, and slipping in and out of consciousness in extreme pain, though possessing no visible wounds. Down in the basement, Father Rory retrieves Trinidad's notebook from her pocket. Tucked inside, he discovers an old Spanish document confirming their worst fears. Elias, deeply shaken by the carnage, rushes off to call the police.
+
+The group regroups at the bar after fleeing the university, where Jackson Elias promises to handle things and smooth over their hasty exit. Back at the bar, Teddy confesses his deep unease regarding the heavy gold artifact they retrieved, noting that while he has felt power in objects before, this is by far the strongest and most dangerous he has ever encountered. Gus hands the pillowcase holding the object to Lia, who inspects it closely and feels a strange, unsettling "fizzle" inside her, slightly shaking her grip on reality. Teddy suggests securing the dangerous mask in a bank safe deposit box, but Father Rory argues they must keep it with them, as it clearly ties into Larkin's plans and might be necessary for whatever ritual they face at the pyramid. Convinced, Serafina procures a wooden bottle crate, a hammer, and nails from the bartender to securely nail the artifact shut, keeping it out of immediate reach and out of sight. Deeply shaken by the day's carnage, Elias asks to stay with the group, stating, "I don't know if I'm going to be sleeping much tonight. And I was wondering if anyone else is a card player." The group piles into a single room, setting a watch rotation and losing a few dollars to Teddy's superior poker skills.
+
+The next morning, Elias returns with a local newspaper reporting that two university employees were assaulted, though there is no mention of an assailant or the investigators. "I think now is a good time for us to get out of town," Elias suggests. They head to Hotel España, where a sweaty, greasy, and disheveled Larkin is directing porters to load a large truck. Larkin feigns shock, telling the group that De Mendoza was arrested after drunkenly attacking the professor, adding that he's "known him for years. I can't believe he would do that." With their gear loaded, the group begins the bumpy, multi-day drive toward the highlands in a pair of rugged 1920s trucks. 
+
+On the road, Elias privately warns Serafina that if anything happens to him, she should seek out a yatiri (wise woman) named Nayra in Puno. Meanwhile, Father Rory and Gus study Elias's extensive notes, discovering that Kharisiri (also called pishtacos) can only be killed by complete dismemberment and separating the parts, or by burning them to ash. The notes also reveal that the creatures pass their corruption by "planting a seed" via a kiss, and that if a leader dissolves, the others follow suit.
+
+On the first night of the drive, the temperature drops below freezing. During the second watch, Gus hears a crackling in the darkness and spots a feral, filthy, light-skinned man crawling toward the camp on all fours, reeking of a rank odor. Gus fires his gun, waking the camp. The creature howls in rage and sprints directly at him. Serafina rushes out of her tent and sinks a throwing knife into the creature's thigh, while Teddy lines up a perfect shot, hitting the charging man directly in the eye and sending him tumbling to the dirt. Larkin is furious, shouting that they can't simply shoot a "robber" in a civilized country, but Father Rory successfully persuades Luis, their bilingual porter, that it was self-defense. The porters immediately recognize the creature as a pishtaco. When Father Rory notices the dead creature's wounds beginning to close, one of the terrified porters grabs Serafina's axe and violently hacks the body apart. They drag the remains away from camp and burn the pieces to ash.
+
+The following afternoon, the group reaches the highlands, and the altitude begins giving Teddy, Gus, and Father Rory minor headaches. The trucks suddenly halt when the group spots a farmer, Julio, firing a rifle over a hill while his teenage son, Domingo, collapses with a gaping, blood-drained chest wound. Elias approaches peacefully and learns the farmer was fighting off two Kharisiri—a man with blue eyes and a local woman—who were trying to finish off his son. As the trucks detour to take the injured boy home, Gus spots the two attackers walking into the hills; strangely, unlike the feral beast from the night before, these two are clean-clothed and distinctly corpulent, with heavily bloated stomachs. Julio refers to them as "pilgrims" heading toward the windblown plateau of the pyramid, explaining that the sophisticated ones who "come and go" are far more intelligent and dangerous than the feral ones. 
+
+That evening, outside Julio's home, Larkin passes out deeply in the truck's cab. Gus and Lia notice that Larkin's exposed, sweaty chest is covered in extensive, blocky black tattoos. Teddy wakes him under the guise of looking for a flashlight and asks about the ink. Larkin hastily pulls his jacket shut, claiming he got the tattoos during a drunken blackout in his youth and genuinely has no memory of how they got there. Teddy reads him carefully and realizes Larkin is actually telling the truth and is deeply resigned to never knowing their origin. 
+
+The next day, the expedition finally arrives in the small city of Puno, where herds of llamas and alpacas roam the outskirts. Larkin secures rooms at the town's only hotel, stating they will be there for two days to hire pack horses before moving into the mountains. As they settle into the folklore capital of Peru, the party spots a local Quechua woman walking down the street, drawing suspicious stares from the locals due to her unusually bloated belly.
+
+The next day they arrive at the temple complex. 
+
+The investigators find themselves at the summit of the step pyramid, standing over the "puke crack" where the smell of corruption is overwhelming. The atmosphere is desolate, noting that the walls seem to "scream" as the wind whistles through them. Larkin, appearing remarkably intense and "commanding," is obsessed with the gold inlay around the upper tier. While the porters are reluctant to desecrate the site, Larkin yells at them to pry the gold samples loose.
+
+Teddy, feeling a strange compulsion after Larkin orders him to do so, rappels into the 10-foot-deep pit of bodies. Wading through approximately 150 emaciated corpses, he recovers 30 gold coins. Lia examines them and realizes they are actually defaced Spanish doubloons from the 16th century. In the pit, Teddy also discovers a dark opening — a tunnel hidden behind the corpses.
+
+Father Rory and Gus observe that Larkin’s veins are dark and he emits a rancid odor, leading the Father to intuit that Larkin is being chronically poisoned. Sensing an evil spirit has a grip on him, the Father decides to perform a Christian-style exorcism. As the ritual reaches the talking in tongues phase, Larkin begins to shudder as if having a seizure. 
+
+The Father experiences a horrific vision of a "shuttering mass" of "crawling chaos" and "seething maggots." He feels bounced off the ritual by a force more powerful than he has ever encountered. Afterward, Larkin collapses unconscious. To test the influence, the group places a golden mask on the sleeping Larkin; he sighs and whispers, "Yes," appearing unusually relaxed. When he wakes, he claims he was "in prison with horrible things" and begs the investigators to "get it out of me."
+
+While Father Rory stays above to watch Larkin, Teddy, Serafina, Gus, and Lia descend the 100-foot chimney into the pyramid’s tunnels. They discover a T-intersection where Serafina spots two Karasiri — the male and female pilgrims  they saw previously — asleep on reed mats in the room. The group decides on a preemptive strike. Gus and Teddy shoot the sleeping figures in the head while Serafina throws her knives. The investigators then dismember the bodies, separating the heads to ensure they do not reanimate.
+
+In the chamber, they find a hoard of stolen goods: gold coins, jewelry, and modern watches. Lia, left briefly in the chamber with a porter, is ambushed by a "shambling figure made of rags" with a "giant white undulating larva" pulsing in its eye socket. She decapitates the creature with her knife, causing it to collapse into a "pile of stinking rags."
+
+Above ground, the situation turns dire. Larkin, possessed by a sudden rage, orders the porter Luis to "kill the Father" and to cut the ropes that the others used to descend into the shaft. Luis begins hacking at the lines while Teddy and Serafina are still climbing. Teddy narrowly survives by gripping the chimney wall with one hand as his rope falls. Father Rory defends himself by slashing Larkin across the chest with a machete. Instead of just blood, clumpy, oily blackness and black, slimy gore stream from the wound.
+
+Down below, Gus and Jackson Elias discover a section of the pyramid wall where the gold inlay is missing. A two-inch crack in the stone is filled with rancid white slime that is slowly dribbling out. Gus decides to set the slime on fire. The substance is highly flammable, instantly creating massive black clouds of smoke that fill the tunnels. 
+
+Jackson recues Gus - risking his own life. They decide that the best course of action is to repair the missing gold ward segment by fashioning one.
+
+Teddy and Father Rory focus on the mechanical task of installing a golden makeshift bridge, Sarafina, Gus, and Lia hold the line against the encroaching horrors.
+
+As the party splits, Sarafina catches a glimpse of a creature down the hallway and prepares a Molotov cocktail. Gus, peering into the darkness of the smokey hallway opens fire on a kharisiri. Despite the difficult conditions, Gus lands a solid hit. The creature rages forward, but Sarafina lets fly with her Molotov. That Karsiri is covered in liquid flame and kind of drops to its knees... there is now a pool of burning alcohol.
+
+A second kharisiri attempts to charge through the flames, but it is met with more resistance. Lia watches as the creature eventually collapses, and she notices something horrific: things are falling out of it... roughly the size and shape of the maggots.
+
+Meanwhile, Teddy and Father Rory work feverishly to hammer a makeshift golden piece into the missing slot. Teddy, drawing on his experience creating forgeries of artifacts, manages to craft a piece that, while not a perfect replica, serves as a functional bridge. Father Rory assists, and they hammer the gold into place.
+
+"There's a vibration that you feel, just all at once... You almost feel like something is shuttering and, you know, maybe throwing itself around when you do that."
+
+Immediately after the piece is installed, the remaining kharisiri in the hallway appear to lose their animation, collapsing immediately falling apart as dead maggots crawl out of their orifices.
+
+With the immediate threat neutralized, the party regroups. Jackson Elias, having recovered his dropped notebook, begins sketching the remains. Despite Father Rory's warnings that taking gold was how the country had gotten cursed, the lure of the artifacts is too strong for some.  
+
+Teddy and Lia use their appraisal skills to select valuable items. Sarafina asks Teddy to help her pick out items she can turn into money for her circus family. They eventually end up  walking away with as much as $1,700—a significant sum in 1921.
+
+Emerging from the compound, the investigators find a grim scene. Larkin and the porter are gone, and the mule team has been slaughtered and "drained." They find Luis in a broken state, physically present but lacking any independent initiative, as if something has permanently wiped his mind.
+
+The group travels overland to Puno and then back to Lima. Jackson Elias, visibly shaken by the encounter with the "Father of Maggots" decides he has had enough of Peru. He wants to return to New York and spend the next two years working on his novel... he would like to relieve himself of Peru as soon as he can.
+
+They go their separate ways: Sarafina returns to Italy with her gold, Teddy heads to New York, and Father Rory seeks out his mentor, Father Mallory, in New Jersey to discuss the spiritual and possibly occult things they witnessed.	
 
 ## JANUARY 1925
 
-15th - Everyone arrived in New York one cold winter day. They arrived, except the father, just as Jackson met his end (Thursday) at the hands of the Bloody Tongue
+15th of January 1925 - Everyone arrived in New York one cold winter day. They arrived, except the father, just as Jackson met his end (Thursday) at the hands of the Bloody Tongue
 
-16th - Interviewing Dr. Moredecai Lemming and other adventures (Friday)
+The investigators arrive at the Chelsea Hotel on a frigid, snow-chocked night in January 1925. They talk to the front desk and they mention a few men had already gone up to meet Jackson Elias at his room, 410. Teddy, Serafina, Gus, and Lia go up and hear a scuffle inside, so they burst through the door to find their friend Jackson Elias dead on the bed, his intestines ripped out of his body and scattered around the room. Three men — two Black men and one white man wearing red flannel headbands — are busy ransacking the apartment.
 
-17th - A trip to Emerson Imports, Visited with Jackson's publisher and got some letters (Saturday)
+"Police! Nobody move!" Teddy bellows, attempting to freeze the killers in place. The ruse fails to stop the white man, who flings himself out the window onto the fire escape. Teddy gives chase but, in the frantic pursuit down the icy metal stairs, he fumbles his weapon; Teddy drops his gun and it falls tumbling down the fire escape.
 
-18th - Funeral, a casual walk among friends at the JuJu house (and house fire at night) (they were closed but open) (Sunday)
+Back in the room, the skirmish turns lethal. Lia opens fire, eventually putting a bullet into the torso of one attacker, killing him. The final cultist, trapped and bleeding from Serafina’s throwing knives, shouts in a very strange sounding language and plunges his own panga into his gut, committing suicide. 
 
-19th - Reading of the will at Carlton Ramsey's (Monday)
+The group has only minutes to scavenge Jackson’s belongings before the authorities arrive. They pocket a matchbook, a photo, a letter, and a stack of handbills. Most chillingly, they find a symbol—two parentheses with dots—carved into Jackson’s forehead. As they slip out the front door, they brush past hotel staff. Lia plays the part of a distraught witness, crying, "Oh my God, I'm worried for our friend... something horrible has happened on the fourth floor!."
 
-20th - Millie Adams, Friends of Hilton at Teddy's Bar (Tuesday)
+Father Rory arrives at the hotel later, exhausted from his airship journey, only to find the lobby crawling with police. He is intercepted by Lieutenant Poole, who asks pointedly, "Were you with the party that was here earlier?" Rory produces his tickets and maintains he has just arrived from Los Angeles. No good, he loops the father into the witness pool and ships him downtown.
 
-21st - Visited Hilton Adams at Old Sparky at SingSing (Wednesday), Shopping at Sears. Stakeout of the Juju House
+At the precinct, Poole pushes a pen and paper across the table. "I think the best thing for you to do is to give me the names of your friends. Let me know where I can find them," the Lieutenant says. Rory provides names from his parish to protect the group. The tension breaks when another officer interrupts: "Hey, we got him!" Poole informs Rory that the 14th Precinct in Harlem has arrested a local man for the murders. Poole seems quite skeptical about this, he is not a fan of the Harlem PD.
 
-22nd January 1925 (10-04-2024)
+Rory offers his services to the suspect: "I offer my services as a priest to the surely condemned man." Poole, impressed, replies, "That's really generous of you, father. I'm sure he'll end up in Sing Sing either way."
 
-### **The Ju-Ju House Raid and the Fate of Millie Adams**
+The next morning, the reunited investigators visit Rebecca Shosenburg at the New York Times. She is the journalist who covered the "Harlem Murders" a string of killings remarkably similar to Jackson’s. 
+
+"I don't have time for cranks off the street," she says initially, but the group’s knowledge of the forehead symbol piques her interest. She reveals that a man named Hilton Adams is currently on death row for these crimes, but she believes he is innocent. "In my mind, there's no way Adams was actually guilty," she insists, explaining that the police have been taking advice from a Dr. Mordecai Lemming, a "self-styled expert in folklore and mythology" who lives at the Murray Hill Hotel.
+
+Something to deal with later. 
+
+The group's heads Prospero House to see Jackson’s publisher, Jonah Kensington. Jonah is a man overwhelmed by the loss of his friend, remarking, "You don't publish eight books about cults without getting some enemies." 
+
+He reveals that Jackson was investigating the Carlisle Expedition, a 1919 socialite mission to Egypt that ended in a massacre in Kenya. "Jackson... believed or he persuaded himself that the murders weren't a random tribal murder," Jonah explains. He hands over a correspondence file containing Jackson’s frantic, handwritten notes.
+
+The notes are terrifying and opaque, mentioning the "Bloody Tongue" cult and a "God of the Black Wind." Jonah admits he feared Jackson was losing his mind: "I'm ashamed to admit this but I was beginning to wonder about his integrity as a writer. These are sketchy." He points to the last set of notes: "Look at this... this is a cult called the bloody tongue... to be honest, it's baffling."
+
+Before the group leaves, Jonah mentions one last lead: Jackson’s lawyer, Carlton Ramsey, who may be holding more of his personal effects.
+
+January 17th, 1925 
+
+Following the bloody events in Jackson Elias's hotel room and Father Rory's subsequent questioning by the police, the group regroups to plan their next move. It is Saturday morning, and they decide to follow up on the business card found among Jackson's effects for Emerson Imports. 
+
+They travel to Hell's Kitchen, locating the import company in a long, narrow building on the edge of the Hudson River. The warehouse is piled high with crates and bustling with workers. The group, looking somewhat like a pack of riffraff, draws suspicious looks. A burly worker approaches them, calling them a bunch of "mooks" and "bums," and asks them to leave. Lia attempts to fast-talk him by claiming they have an appointment with a "Mr. Silas," but the confused worker simply points them up the exterior stairs to the office of Mr. Emerson.
+
+Upstairs, they enter a messy office scattered with papers and cardboard boxes and meet Arthur Emerson, a man in his late 40s or 50s with a thick New York accent. Teddy hands over his card, introducing himself as an antiquities dealer, and gently breaks the news that their mutual friend, Jackson Elias, was murdered in his hotel room. Emerson is genuinely floored. He physically steps back, visibly shocked and distressed, saying, "What are you telling me? I saw Jackson not too long ago." 
+
+After swearing them to secrecy, Emerson admits that Jackson had come to him looking for connections to African importers. Emerson explains, "My business is small in comparison to many, but I don't do much business pulling things in out of Africa." However, he did point Jackson toward the US agent for a Mombasa exporter named Ahja Singh. Emerson reveals that the agent operates out of a place called the Ju-Ju House in Harlem, and the manager there is a man named Silas N'Kwane. Emerson strongly warns them to stay away, saying that N'Kwane "makes my skin crawl" and strikes him as a rotten egg.
+
+While Serafina hangs back near the door, she spots a lanky, dark-skinned man lingering outside the warehouse, clearly watching them and not part of the workforce. She points him out to Emerson. The moment Emerson looks, the watcher turns and bolts. Emerson immediately panics. "I don't want any involvement with this," he stammers, ushering the investigators out the door and yelling for his warehouse muscle to come upstairs. "I think you guys need to go."
+
+Retreating from Hell's Kitchen, the group uses an operator to track down the phone number for the Ju-Ju House. Teddy calls, putting on his best antiquities dealer persona. A man with a thick African accent answers impatiently, demanding, "Got art? Are you buyer?" When Teddy asks for an appointment with Mr. Silas, the man refuses, says Silas might be in tomorrow or Tuesday, and abruptly hangs up. 
+
+Left with few other immediate leads, the party decides to visit Dr. Mordecai Lemming, the occult consultant who has been advising the police on the Harlem murders. They travel to the Murray Hill Hotel on Park Avenue. The hotel boasts an opulent but stale 1890s decor. After the desk clerk mentions that a priest is among the visitors, Lemming agrees to see them in his fourth-floor apartment. 
+
+Dr. Lemming is a short, pale, balding man over sixty, wearing expensive but highly abused and ink-stained clothing. His apartment is lavishly decorated with gold-flecked molding, expensive paintings, and a massive bookshelf filled with folklore and mythology texts—including one of Jackson Elias's books. Lemming acts the part of the nervous, absent-minded professor, discreetly taking a nip from a metal flask to calm his nerves before offering the group coffee and pastries served by his maid.
+
+Lemming speaks of the murders with detached academic distance. He insists that Hilton Adams is simply a common criminal using the trappings of a cult to stir up trouble in Harlem. He identifies the symbol carved into Jackson's forehead as belonging to the Cult of the Bloody Tongue, an East African sect that worshipped a god whose face was nothing but a mouth with a long red tentacle-like tongue. However, Lemming dismisses the cult entirely, stating confidently that they went extinct around the turn of the century and that the current killers are merely copycats. 
+
+When Father Rory asks about the Ju-Ju House, Lemming is completely oblivious to any danger. He describes Silas N'Kwane as an "aged, humble purveyor of African tribal curiosities," noting that N'Kwane regularly sends him reasonably priced fetishes and wooden sculptures for his studies. Observing Lemming's pompous but clueless demeanor, Father Rory quickly assesses that the doctor is a harmless bullshit artist rather than a malicious conspirator. 
+
+The group decides to show Lemming the "Nairobi Notes" from Jackson's files. Lemming spends over an hour silently reading through the stack. When he finishes, he dismisses Jackson's theory that the Bloody Tongue murdered the Carlyle Expedition, suggesting instead that Jackson likely stumbled onto a mundane criminal enterprise like weapons smuggling or prostitution and was killed for it. Eager to capitalize on the tragedy, Lemming asks if Jackson left behind a manuscript, offering to finish and publish the book himself. The group politely declines to hand over any original documents and makes their exit. 
+
+Returning to Teddy's residence for the evening, Teddy finds a letter slipped under his door from a lawyer named Carlton Ramsey. The letter invites Teddy to the reading of Jackson Elias's will on Monday afternoon at Ramsey's Harlem office, and confirms that Jackson's funeral will take place tomorrow — Sunday — at 2:00 PM at Cypress Hills Cemetery in Brooklyn. 
+
+Weighing their options, the investigators decide against breaking into the Ju-Ju House in the dead of night. Instead, they agree to case the potentially deadly Harlem storefront on Sunday morning, with Serafina joking that they might just show up to Jackson's afternoon funeral covered in blood.
+
+After their meeting with Rebecca Shosenberg, the group reconvenes at Teddy’s brownstone to organize their growing pile of evidence. The atmosphere is thick with paranoia; Serafina, deeply unsettled by her encounter at the Ju-Ju House, paces nervously. She warns the group that Silas N'Kwane is an incredibly dangerous person and though she can't place the exact nature of the threat, she feels an "aura" of danger that scares her. In response to the tension, Teddy describes the security of his home, noting his secret hiding places and a safe, though he admits the house itself isn't unusually secure. The investigators decide to barricade the doors and windows with heavy furniture and set a watch for the night.
+
+During the first watch, Lia — who has developed a near-hermetic claustrophobia since their time in Peru — hears a faint sound like someone whispered swearing in an unknown language. Before she can alert the others, the silence is shattered by glass breaking at the front of the house. Two men begin chipping away at the window with a bottle, and Teddy quickly fires a warning shot through a crack in the barricade. Chaos erupts as a flaming towel stuffed into a bottle is shoved through the window past the blocking bookshelf and into the room, bursting into flames.
+
+The situation quickly turns dire as a second Molotov cocktail is thrown in, also breaking past the furniture. The floor becomes awash with flame as kerosene spreads across the oriental rugs. Gus manages to reach an operator to call the police, yelling the address before dropping the phone to deal with the fire. Upstairs, Serafina and Teddy lean out the windows to breathe as smoke fills the house. 
+
+Serafina spots more attackers: three tall athletic looking black men in the front and two at the back door. One of the men in front carries a large machete, while another prepares another Molotov. At the back door, Father Rory grabs a wall-decoration sword from Teddy’s collection to defend the exit. 
+
+As the group tries to unbarricade the back door to escape the inferno, one of the attackers smashes the glass in the door with a large curved blade - a panga - and swings at Gus. The blade sinks into Gus’s shoulder, causing a significant wound. Despite the injury, Gus stays conscious and manages to fire his pistol, shooting one of the men in the back. Teddy and Serafina wing another attacker from the upper window, eventually forcing the remaining men to flee into the night.
+
+With the brownstone engulfed in flames, the investigators flee through the back alley. Teddy manages to save their stuff from his hidey hole, including the mask and scarf from Peru. They spend the rest of the night finding temporary refuge through Father Rory’s Anglican connections with a benefactor in lower Manhattan. The next morning, group prepares for their meeting with Millie Adams.
+
+They meet Millie and Rebecca at the Lafayette Theater in Harlem. Millie is desperate to exonerate her husband, Hilton Adams, who is currently in Sing Sing awaiting the electric chair. She explains that Hilton was a member of the "Harlem Hellfighters" who started patrolling the neighborhood after locals began disappearing years ago. She tells the group specifically that "My husband never took that knife out with him when he went on patrol... they probably stole it then." 
+
+Millie is convinced the police, specifically Captain Walter Robson, framed her husband. She describes Robson as corrupt and on the take, but doesn't really know who he's serving. Most importantly, she confirms the connection to Jackson Elias: the victims in Harlem were mutilated in the exact same way, with the symbol of the bloody tongue carved into their foreheads and their organs removed. She also mentions seeing crates being moved into Ransom Court behind the Ju-Ju House in the middle of the night, whispering that she thinks the crates are the people who are disappearing.
+
+After Millie, they head to the reading of the will at the offices of Carlton Ramsey. Ramsey, a long-time friend of Jackson’s, reveals that the reporter updated his will only the day before he died. The will establishes a fund from Elias's assets — totaling over $60,000 — to be used by the group to continue his work. Ramsey is authorized to disperse funds for travel, legal, and medical expenses, provided he is given receipts.
+
+They are now the sole keepers of Jackson’s legacy. Ramsey hands them a letter from Jackson and offers a toast to their dead friend, noting that while he doesn't understand the obsession with the Carlyle Expedition, but that he hopes someone will see it through.
+
+21st January 1925 
+
+Following the reading of Jackson Elias's will, the group gathers to coordinate their next moves in New York. Things aren't great: they are currently wearing clothes from church donations after Teddy's house was burned to the ground.
+
+The group travels to Harlem to visit Teddy's Saloon (no relation), a well attended working-class establishment. Gus intimidates their way past a wary doorman, and they enter a basement speakeasy thick with cigar smoke. They bribe a waitress named Hazel to secure a booth and information.
+
+While waiting for drinks, Gus observes four men huddled in a nearby booth. Rob notes that these men look like they are at the ends of their ropes. After Hazel delivers a pitcher of cloudy red wine, the group sends a note to the men, who are revealed to be Hilton Adams's friends: Needam Johnson, Douglas Fells, Art Mills, and Jackie Wallace.
+
+Hazel informs the group of a shocking development: "You know Millie Adams got kidnapped today." She explains that two men grabbed her in broad daylight, just outside the Lafayette Theater, also known as “The Beautiful House” at 132nd Street and Seventh Avenue. They put a bag over her head and carried her away, everyone around them in shock. The friends of Hilton are initially hostile, accusing the investigators of being the reason she was taken. Jackie Wallace tells them, "Justice is only for the dead."
+
+Despite the tension, the men share vital clues. Hilton was arrested after driving off an attacker and tearing a strip of red cloth from a weird mask.  They believe Silas N'Kwane is just an old man, but that Makunga M'Dari is the ringleader. They feel like Makunga wants is other people to suffer. Hilton had tracked a new lead to the Ju-Ju House just before his arrest by Walter Robson.
+
+Jackie Wallace entrusts the group with a yellowed envelope containing a photograph of the friends from their time "overseas" in the war. He instructs them to show it to Hilton at Sing Sing to prove they can be trusted.
+
+As the group exits the saloon into the dark, they are intercepted by several young, white police officers tapping billyclubs. The street is strangely empty, suggesting the police have blocked it off.
+
+The lead officer delivers a pointed warning: "People who try and stir up unrest or trouble in this neighborhood, they get dealt with." He mentions Captain Robson and hints at further violence, saying, "Maybe more houses get burned down, maybe some people trip and fall." Teddy panics and successfully outruns a beat cop who slips on the icy sidewalk. Things de-fuse and they all move on.
+
+The following day, the group takes the train 30 miles north to Sing Sing Prison. Assisted by Rebecca Shosenberg, they gain access to Hilton Adams in the "Death House." Hilton is dumpy looking and visibly agitated when he learns of Millie's abduction.
+
+Hilton provides a detailed breakdown of the Cult of the Bloody Tongue: disappearances occur during the dark of the moon, he describes the cult's god as an "alien creepy enormous... 10 times the height of a man" with a "long blood red tongue that stretches upwards as if reaching for the stars." He mentions that cultists have a stylized mouth tattooed on them.
+
+Hilton identifies a clear area where no murders occur: a two-block radius around West 137th between Lenox and the Harlem River, which centers on the Ju-Ju House. He begs the group: "Please just find Millie, get her out of New York."
+
+Back at their safe house, the investigators examine the red scarves they have collected. Serafina, guesses they are made of Egyptian cotton dyed poorly with plant dyes. Overall they feel like this stuff is low rent cultist apparel and not unique ritual objects.
+
+The group plans a stakeout of the Ju-Ju House from an abandoned pawn shop across the street. 
+
+22nd January 1925
+
+At approximately 3:30 p.m., the group debates their next move, ultimately deciding to inform their local allies of their intent to watch the Ju-Ju House. They meet with Art Mills, the 29-year-old jazz musician and war veteran friend of Hilton Adams, at his usual booth. Art is visibly shaken, noting that he and his friends feel they have been watched since the police were seen waiting for the investigators.
+
+When the group reveals Hilton’s suspicion that the Ju-Ju House is involved in Millie’s disappearance, Art admits he has had "bad feelings about them for a long time." Despite a touch of bravado, he agrees to assist, offering to use a crowbar to open the boarded-up front door of an abandoned pawn shop on West 138th Street to provide the group with a concealed vantage point. 
+
+The investigators spend the afternoon at a Sears department store, taking advantage of the store's massive inventory to outfit themselves for a long, cold night. The weather forecast is dire: -2°F with several inches of snow expected.
+
+They purchase binoculars and a 1922 Graphics camera. Because of the low light, they also acquire a flash. A hand auger is bought specifically to drill listening holes through the walls. The group heavily arms themselves, purchasing a double-barrel hammerless shotgun, a .45 caliber revolver, and hunting knives.  To avoid drawing attention as a bunch of white people walking around Harlem with bags of tools, they select musical instrument cases—including a trombone case—to hide their long guns. The list is rounded out with heavy parkas, wool socks, blankets, lighters, and even a box of rat poison.
+
+The group arrives near the site at 1:30 a.m. via taxi, getting dropped off several blocks away to remain inconspicuous. Art Mills has already loosened the boards on the pawn shop door as promised. The interior of the shop is bone-chillingly cold and thick with dust and signs of a rodent infestation.
+
+Gus and Father Rory set to work with the hand auger, taking over an hour to quietly bore through the brick and plaster shared wall. Father Rory, listening at the hole, identifies a "low rumbling" or wet slapping sound that seems to come from deep underground, distinct from any mechanical noise. 
+
+Teddy sneaks outside to peer through the shop's barred windows and confirms that Silas N'Kwane is sleeping on a mattress in the back room. The group observes that the living quarters are filthy, strewn with dirty pots and pans and discarded clothing.
+
+They maintain their watch through the morning. At approximately noon, Silas flips his sign to "Closed" and leaves for his lunch hour. Seeing their window of opportunity, Teddy picks the lock on the back door.
+
+Inside the Ju-Ju House, the atmosphere is oppressive. It is cluttered with African artifacts. 
+
+Gus discovers a ledger behind the counter that details significant weekly payments to an entity or individual identified only as "WR."
+
+Behind the counter, they find a heavy wooden trap door with a steel handle, revealing steep stairs leading into a pitch-black basement.  Something for later.
+
+Under Silas’s mattress, Teddy finds a hidden leopard skin. Inside is a rusty and dirty panga (a weapon like a machete) and a leather Bloody Tongue mask. Upon closer inspection of the mask's red tongue Teddy realizes with horror is a mummified human tongue.
+
+Art Mills, despite his fear of being underground, urges the group to "take him" when Silas returns, hoping to force information about Millie's location. The investigators retreat from the basement, reset the trap door, and conceal themselves behind cabinets in the shop. 
+
+Silas N'Kwane returns from lunch and turns his key in the front door.
 
 With Art, Gus, and Teddy lying in wait inside the Ju-Ju House, and Father Rory, Serafina, and Lia watching from the abandoned pawn shop next door, the trap was set When Silas returned from his lunch and flipped the sign to "Closed," Teddy immediately ambushed him, striking the old man hard on the back of the head with the butt of his gun. Silas fell sprawling to the floor and let out a weak cry for help before Gus delivered a swift kick; Art quickly dragged the stunned shopkeeper into the back room and threw him onto the bed, while Gus shoved a cloth into his mouth to gag him. 
 
@@ -35,7 +247,7 @@ Meanwhile, Gus examined Silas's ledger and noticed a distinct pattern of weekly 
 
 Outside, Serafina spotted Mukunga M'Dari speaking to a subordinate in the alleyway. When M'Dari eventually moved out of sight, Serafina, Father Rory, and Lia made a mad dash across the courtyard to regroup inside the Ju-Ju House. Lia, wrapped in a blanket to hide her appearance, scurried across looking like a crazed, one-eyed homeless woman. 
 
-### **The Basement Horrors**
+The Basement
 
 With the key secured, the investigators decided to open the heavy, trapdoor-covered stone portal leading into the basement. Gus peered into the dim, musty room, noting dressed stone walls, broken crates, and what appeared to be four misshapen statues standing in a southern alcove. As Gus stepped closer to investigate the crates, the "statues" began to silently move toward him. To his horror, they were undead monstrosities — black corpses with the Cult of the Bloody Tongue rune carved into their foreheads, their bellies sliced open with intestines dragging behind them on the floor. One of the zombies, Gus realized with a sickening jolt, was Millie Adams. Gus fled back up the stairs and the group slammed the heavy door shut, noticing that the zombies did not attempt to pursue or bang on the door.
 
@@ -45,7 +257,7 @@ Father Rory, Teddy, Art, and Serafina rushed back down the stairs. Father Rory i
 
 While the fight raged, Teddy used the distraction to quickly survey the alcove. He spotted several highly unusual items: a shimmering high priest's robe covered in flamingo and kingfisher feathers, a book titled *Africa's Dark Sects*, a burnished copper bowl etched with runes, a set of lion claws attached to sturdy gloves, a high-quality human-tongue mask, and oddly, a large marine chronometer.
 
-### **Appraisal at the Safehouse**
+Appraisal at the Safehouse
 
 After surviving the basement and fleeing Harlem before M'Dari's reinforcements could corner them, the investigators retreated to their safehouse to heal Gus and Art, and to appraise their stolen artifacts. 
 
@@ -107,9 +319,25 @@ Before leaving for England, the group contacted Rebecca Shosenburg. She replied 
 
 ## FEBRUARY 1925
 
-2nd - Serafina sees that sonofabitch Larkin on the boat - he stinks and looks pretty bad, flees (Mon)
+2nd of February, 1925
 
-3rd - A top to bottom search of the ship and capturing Larkin; the Father finishes him off - his last words are meant to terrorize the father with the brutal truth: the end of the world is less than a year away (Tues)
+Following their departure from New York, the investigators secure passage to England aboard a 1920s steamer for a voyage lasting between nine and twelve days. The group splits their accommodations: Teddy, Sarafina, and Father Rory occupy first-class cabins, while Gus and Lia stay in second-class rooms. The crossing provides time for intense study of occult texts:
+
+Lia focuses on Africa's Dark Sects, gaining some insight into horrific ritual practices involving human sacrifice. Gus reads Life of a God, a diary describing the "Brotherhood of the Black Pharaoh" and their unspeakable and horrible acts. Sarafina explores Amongst the Stones, discovering a poem titled "The Trappings of a Queen" which describes a jet-black crown, a gold girdle with a large ruby, and an emerald necklace of they mythical Nitocris. Teddy and Father Rory study a French-Latin book, learning of an entity named Nodens who may provide aid to those in need, though the text warns his help is often esoteric in form.
+
+The journey takes a dark turn on February 2nd when Sarafina spots a gaunt, familiar figure on the upper deck. The man, who smells of rot and has a bloated, misshapen face, is unmistakably an aged, sickened Augustus Larkin. 
+
+They put together a plot to search the ship, deck-by-deck, and also to lure people out of their staterooms using the father.
+
+3rd of February, 1925
+
+The plan is put into action. While Gus, Lia, Serafina and Teddy scour the ship and break into staterooms, Father Rory stages a dramatic Bible reading in the steerage dining room to distract the other passengers. While the crowd is occupied, the others discover Larkin attempting to pick a lock to a storage area.
+
+Lia and Teddy tackle and restrain the piteous, skeletal man, gagging him with a handkerchief and dragging him into the storage hold. Under interrogation, Larkin’s piteous demeanor shifts back to a slick smug aspect. He tells them he came for the gold mask they recovered in New York, stating, "It is the way to communicate with the greatest power that you will ever sense."
+
+The encounter turns violent when Larkin exerts an undeniable compulsion over Teddy, commanding him to untie him. As Teddy mindlessly moves to release the prisoner, a frantic brawl breaks out. Sarafina ends the struggle by drawing two knives and slamming them through the backs of Larkin's hands, pinning him to the floor.
+
+After the others depart to clean the blood from their clothes, Father Rory remains alone with the prisoner. Larkin refuses to repent, telling the priest, laughing and full of malice, "On the 14th of January 1926, this world ends." He mocks Father Rory’s faith, claiming his own "Lord" is the only one that is real. Once Father Rory finishes his interrogation, Larkin dies at his hands. To hide the crime, the investigators smash a cask of red wine to mask the blood pool on the floor. They eventually haul Larkin's body out in a crate and toss it into the Atlantic under the cover of night.
 
 6th - Arrived in London, customs, Hotels, ... Met Mickey from the Scoop (Friday)
 
@@ -1089,7 +1317,35 @@ The battered, grieving investigators return to Chang Ning's safe house, reunitin
 
 Knowing Choi Mei-Ling is no longer safe in China and requires extensive care, and that no one here will take care of her as she's just a flower girl, Jack informs the group they are leaving. He plans to take her to safety with a contact in Australia who he trusts will take care of her until she gets better — if she gets better - and tells the investigators that he intends to hunt down a member of the Carlyle expedition who he believes is hiding there. With their numbers decimated, the remaining investigators agree to board the ship with him, preparing for the nearly month-long voyage to Sydney.
 
-23rd of April 1925: Jack Brady has booked passage for himself, Choi Mei-Ling, Gus, Lia and Serafina on a ship run by the Australian Oriental Line from Shanghai to Sydney via Hong Kong and Brisbane.  The trip takes, typically, between 14 and 21 days. However, tough goings have the ship arriving on the 19th of May, 2025, due to a delay in Brisbane.
+23rd of April 1925: A grieving Jack Brady decided they must leave Shanghai. He wanted to take Mei-Ling to a contact in Australia who would care for her, fearing that if he died attacking Gray Dragon Island, "no one will care about her." Brady also revealed his intention to hunt down Robert Huston, a supposedly dead member of the Carlisle Expedition, whom he believed was hiding in Australia.
+
+Jack Brady books passage for himself, Choi Mei-Ling, Gus, Lia and Serafina on a ship run by the Australian Oriental Line from Shanghai to Sydney via Hong Kong and Brisbane.  The trip takes, typically, between 14 and 21 days. 
+
+During the long voyage, two new associates integrate into the group. Dr. Jack Moody, an eccentric medical doctor, is invited by Brady specifically to keep an eye on Mei-Ling's deteriorating mental state and health during the trip. The second arrival is Ossmus Phest (The Great ORTBO), a Hong Kong-born magician and apparent pickpocket. Ossmus introduces himself by lifting a Chinese scroll — The Goddess of the Black Fan — from Gus’s table, returning it under the guise of having found it on the deck. Noting Ossmus can read Chinese, the group hesitantly allows him into their confidence, though a highly suspicious Serafina chooses to interrogate him while juggling her throwing knives. 
+
+The investigators spend their weeks at sea studying the mythos tomes primarily the English book looted from Ho Fang’s cabinet. Ossmus studies The Goddess of the Black Fan. Gus studies the English text True Magyc. Both Serafina and Lia pore over the Book of Dzyan, and Dr. Jack peruses De Vermis Mysteriis.
+
+The ship arrives in the bustling city of Sydney — population nearing a million and the largest city in Australia — on May 19th. Australia's strict eastern gun laws immediately cause issues; both Jack Brady and Dr. Jack Moody have their firearms confiscated at customs. Serafina, however, successfully smuggles her own weapons, as well as Gus and Lia's guns, through the checkpoint. 
+
+Brady leads the group to the inner suburb of Camperdown to visit Professor David Dodge at the home of Professor Anthony Cowles, who they had met previously. Dodge, a charming and highly sun-freckled historian, welcomes them alongside his young daughter, Bonnie. Brady and Dodge depart for a private walk to discuss Mei-Ling's sanctuary, leaving the investigators in the house.
+
+Dr. Jack attempts to treat Mei-Ling in a guest room that Bonnie has garishly decorated with discount Chinese silks. It's a travesty but the impression is that she means well. When Dr. Jack attempts hypnosis to soothe her trauma, Mei-Ling bolts upright, screaming that "the others are here" and frantically pointing at the ceiling. Realizing he cannot erase her memories, Dr. Jack settles for calming her down with a hypnotic suggestion to be a good guest, followed by prescribing her a pack of cigarettes a day. 
+
+Meanwhile, in Professor Cowles' study, the investigators snoop through the academic clutter. Ossmus discovers a pocket diary dated 1921 belonging to Arthur MacWhirr. Lia, recognizing the name from their previous meeting with Professor Cowles, flips through it and reads entries detailing a doomed desert expedition where men found an "ancient city," lost four camels, and discovered a companion dead with "hundreds of small punctures."
+
+In the hallway, Dr. Jack spots a bizarre, modern Aboriginal painting depicting a slender, semi-material entity with a single three-lobed red eye. It's pretty creepy. Bonnie explains her father believes it was inspired by an Aboriginal legend of a white man who drew five circles in the sand out in the Great Sandy Desert. While Bonnie is distracted in the kitchen making potted lamb meat sandwiches, Ossmus uses his sleight of hand to seamlessly steal MacWhirr's diary. They also look at the back of the canvas looking for an artist's name, seeing only a glyph.
+
+When Brady returns, he announces that Mei-Ling will stay with Dodge. Brady then reveals his target: he broke into Ho Fang's warehouse in Shanghai and tracked shipments heading to Port Hedland on Australia's west coast, which is where he believes Robert Huston is hiding. Brady is going to deal with Huston by which he means kill.
+
+The group books passage on a steamer heading north along the coast, arriving three days later in the isolated, sweltering peninsula town of Darwin. With a population of only 1,300, Darwin looks entirely like an old West town filled with drunken miners and camel caravans.
+
+Checking into the Victoria Hotel, Brady immediately drags Dr. Jack to Bertram’s Bar, having him buy a round for the bar to ensure they are left in peace, and perhaps for other reasons Brady leaves unsaid. Because the bar is strictly segregated, Serafina and Lia are relegated to the Ladies' Lounge. There, they pump two local women for information. The women complain bitterly about the town but drop valuable intel regarding the Randolph Shipping Company — the only major business in town that isn't strictly in support of the mining industry. They mention a "dreamy" employee named Billy Burraglong and note the strange fact that the owner, Toddy Randolph, seemingly "sleeps there" at the warehouse every night. 
+
+Out in the main bar, amidst the rowdy miners spoiling for a fight, Gus successfully eavesdrops on a conversation regarding a recently robbed camel supply caravan. One miner claims a survivor of the caravan saw an Aboriginal spirit out in the outback, swearing it was "the worst thing he’d ever laid eyes on."
+
+There is a brief discussion that the next stop may be Randolph Shipping Company's warehouse under the cover of the stifling Darwin night.
+
+1925 May 19th Arrival in Shanghai
 
 1926
 
@@ -1097,10 +1353,11 @@ Knowing Choi Mei-Ling is no longer safe in China and requires extensive care, an
 
 OPEN WAGERS:
 
-	Surviving China = Power wager (Now is the time to remind me)
+	Surviving China = Power wager part 2
 
 OPEN THREADS:
 
+	Where is Robert Huston?
 	Why was our friend Jackson obsessed with the Carlyle Expedition? Roger Carlyle and the others appear to have made a bargain with the Black Pharoah to become gods by doing ... something.
 	Who is the (undying) glamorous woman who appears to be Zahra?
 	Ho Fang - He's dangerous, but what was he doing with Gavigan and al-Shakti and the Zahra-thing?
@@ -1391,7 +1648,18 @@ R’lyeh Text Commentaries - Original Classical Chinese, author unknown, c. 300 
 
 The Tale of Priest Kwan - Classical Chinese, author unknown, date unknown. Scroll, woodblock printed on mulberry, hemp, and rag paper, stored in a hollowed-out piece of bamboo adorned with faded yellow velvet. (dedication from Carl Stanford to Ho Fang) (NOT READ/TRANSLATED)
 
-True Magick - English, by Theophilus Wenn, 17th century. Octavo, recently rebound in fine red Chinese silks depicting various Mythos creatures and symbols. (NOT READ/TRANSLATED)
+True Magick - English, by Theophilus Wenn, 17th century. Octavo, recently rebound in fine red Chinese silks depicting various Mythos creatures and symbols.
+
+>Largely concerned with the nature and habits of what scholars of the period perceived of as “demonic creatures.” Wenn’s manuscript also contains a number of protective charms, as well as other incantations designed to inconvenience one’s rivals. It also discusses Wenn’s own peculiar interpretation of the different schools of magic (black, white, etc.)
+
+>Sanity Loss: 1d8
+>Cthulhu Mythos: 1d2+2
+>Study: 24 weeks
+>Spells: Call for Spirit of the Air, Call Forth the One, Call Forth the Winged One, Create Charm, Speak with the Dark One
+
+SPELLS
+
+Ossmus: Come Forth, Bloated Woman
 
 Sessions:
 
@@ -1404,12 +1672,12 @@ Sessions:
 	2024-08-30 The father talks to the cops and Dr. Mordecai Lemming is a kook
 	2024-09-06 Rebecca, Silas, M'kwane
 	2024-09-20 An Innocent Man, Millie is kidnapped, and the Harlem Hellfighters
-	2024-09-27 Spying on the JuJu House
+	2024-09-27 Spying on the Ju-Ju House
 	2024-10-04 Silas is very, very dangerous, meeting the Lawyer and Publisher, funeral
-	2024-10-04 The JuJu house is dangerous
+	2024-10-04 The Ju-Ju house is dangerous
 	2024-10-04 There's an altar in the basement and it's got a clock and a Millie
 	2024-10-25 Erica Carlyle is afraid of being murdered by cultists and doesn't like her brother's former girlfriend
-	2024-11-01 Teddy murders Silas and mass murder and cultstravaganza at the JuJu house, it all burns
+	2024-11-01 Teddy murders Silas and mass murder and cultstravaganza at the Ju-Ju house, it all burns
 	2024-11-08 Meeting Professor Cowles and his daughter Eva
 	2024-11-15 Studying while enjoying life at sea - is that Larkin - Father finishes him
 	2024-11-22 Meeting our man Mickey at the Scoop
@@ -1455,3 +1723,4 @@ Sessions:
 	2026-02-27 Shit goes down at the house of Mr. Mu (and Jack Brady arrives)
 	2026-03-06 The Father and Jack Brady create a distraction
 	2026-03-13 Hard to Fight A God Death of Father Rory (and Monty)
+	2026-03-20 Sydney to Darwin
