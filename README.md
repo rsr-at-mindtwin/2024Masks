@@ -1592,8 +1592,10 @@ Australia:
 	Prof. David Dodge - 46 - assoc. professor of archaeology; friend of Anthony Cowles (and living in his house) and Jack Brady, just finishing his current term, and looking forward to some vacation time. Keen to discover what the group knows and what has brought them to Australia
 	Bonnie Dodge - 17 - daughter of David Dodge
 	Robert Mackenzie - ? - mining engineer and executor of MacWhirr estate; transferred some objects, a painting, papers and a diary to Cowles
-	Toddy Randolph - ? - owner-operator and resident of Randolph Shipping company
-	Billy Burraglong - ? 20s - worker at Randolph Shipping and apparently general fixer of Aboriginal issues when they crop up in Darwin
+	Toddy Randolph - 50 - drunken owner-operator and resident of Randolph Shipping company
+	Billy Burraglong - late 20s - young Aboriginal man, painfully naive, worker at Randolph Shipping and apparently general fixer of Aboriginal issues when they crop up in Darwin
+	Deadfella Man - age indeterminate, but old - a pale, scarred man with cataracts who works for John Carver sometimes
+	John Carver - ? - American. Carver and Deadfella Man would frequently vanish into the dunes for weeks at a time
 	Arthur MacWhirr - 60s? - miner out of Port Hedland
 
 ## ARTIFACTS
