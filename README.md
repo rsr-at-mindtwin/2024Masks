@@ -1409,6 +1409,23 @@ Ossmus asks about the white man he robbed earlier, though not in those words, an
 
 Safe at the hotel the next morning, the group examines Sarafina’s stolen letter. It is a missive to Edward Gavigan at the Penhew Foundation and references some "project" and describes the device as having been somehow the guide to the project and valuable once it comes to fruition, whatever the project is. The letter ends with Huston insulting Gavigan.
 
+	Port Hedland, Western Australia
+	May 1, 1925
+
+	My Dearest Edward, 
+
+	The enclosed crate contains the focal assembly from previous correspondence. I trust your subordinates in London possess enough basic competence to move it without shattering the optics and to set it up.
+
+	As you know, this device is the eye of the project that showed us the way here and will show us what to do after.
+
+	Be advised: Do not allow your technicians to touch the glass or silvered surfaces. 
+
+	Down here, I have found that the local labor force is much easier to manage once their primitive defense mechanisms have been dismantled. I am stripping away the useless layers of the human psyche to create a more efficient vessel for the Father.
+
+	I remind you that while you play at being a gentleman scholar in London, I am doing the actual work of the project. Ensure this shipment is stored safely and intact for the great afterward.
+
+	Robert
+
 Ossmus shares the intelligence gathered from the late-night drink with Billy. 
 
 1925 May 23rd (Early, The Outback Inn)
