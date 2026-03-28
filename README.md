@@ -1369,6 +1369,59 @@ There is a brief discussion that the next stop may be Randolph Shipping Company'
 
 1925 May 22nd Darwin (late at night)
 
+While the group settles in, Ossmus Phest notices a man seated at the back of the bar, a silent watcher. He is unnervingly pale, with skin the color of old parchment and jagged lacerations forming a crude pattern across his brow and neck. His eyes are clouded by heavy cataracts. 
+
+Seeing an opportunity, Ossmus approaches with practiced stealth. With a successful sleight of hand, he lifts a greasy, dirty, sandy wad of crumbled Australian bills ($16) from the man's loose cotton pocket. 
+
+In the main area, Jack Brady leans back, brooding over his history with the Carlyle Expedition. He speaks quietly to Dr. Jack Moody, pondering whether Roger Carlyle’s obsession with the black woman Bunay began as early as 1918. Brady is blunt about his intentions for Robert Huston: "His answer is  two bullets in the back of the head."
+
+He has no qualms and is not shy about it with Dr. Jack.
+
+Brady explains that he's pretty sure Huston is playing God somewhere out in the desert and feeding the "machine", the part of the conspiracy that is centered around Ho Fang (and Penhew) in Shanghai. 
+
+The conversation is interrupted when a massive, drunken laborer slams into Brady. Confused, the miner hurls his half-empty beer bottle at Brady’s feet: "You're looking for a go mate?" and then throws a punch. Brady doesn't flinch;  he slips the punch with practiced ease. Before the miner can recover his balance, Brady’s right fist flashes out with a brutal piston of a punch that connects squarely with the man's chin. The sound is like a hammer hitting a side of beef. The miner’s eyes roll back, his legs turn to jelly, and he drops like a sack of lead, unconscious before he hits the boards.
+
+The surrounding miners go quiet for a heartbeat, their confused, drunk anger simmering.
+
+Brady growls to Dr. Jack: "Let’s get the fuck out of here." He doesn't wait for a rebuttal, grabbing Jack's arm and them as they pass, Gus's shoulder and ushering them outside. Serafina and Lia see the group emerge and head out themselves.
+
+Inside, Ossmus sees all this and decides he's also done. The man, still seemingly sub-vocalizing or muttering to himself almost silently, barely registers the magician's presence before returning to his vacant stare.
+
+The group to the docks to investigate Randolph Shipping Company. They find the warehouse dark and silent, with a single truck out front loaded with crates for local delivery. After a clumsy attempts to sneak around and making quite a lot of noise, they head out back. Eventually Jack decides it's time to use force to break in as the locks have proven too solid; he sends Ossmus out front to watch and then once that's set up, they collectively they manage to force the loading doors.
+
+Inside the warehouse, they find a rolltop desk, again well locked. Lia successfully forces it open however, and discovers a looseleaf ledger detailing shipments to Mortimer Wycraft in Cuncudgerie, Ahja Singh in Mombasa, and Ho Fang in Shanghai. Each entry is marked with a small symbol of the sand bat. In the middle of the warehouse is a closed room which they again force open, where they find a very sad bachelor's bedroom belonging to Tony Randolph. It is a meager space filled with discarded liquor bottles, crumpled dark colored suits and other clothing, and not a lot else.
+
+They find references to three crates due for London, specifically the Penhew Foundation, two in the warehouse and one out on the docks. Serafina gets to work cracking open a one of the two crates inside labeled for London - she manages to partially open it. Inside is a strange, machined device 2'x1'x1' of strange appearance, featuring polished mirrors and rods. She also finds an envelope tucked inside the packaging and manages to snatch it just as things go wrong.
+
+Everything comes to an immediate stop when (not known to Ossmus) Billy Burralong arrives, surprising Ossmus by appearing next to him next to the truck.  Ossmus completely and overwhelmingly bullshits him posing as an out-of-towner looking for a venue for a children's magic show and his perfectly normal behavior of being next to the warehouse in the middle of the night. The magic show for children would apparently be fantastic for the children of this town despite all of these redflags. Billy chides him a little and tells him to come back tomorrow and he'll help out. 
+
+Ossmus’s torrent of successful bullshit (and urins) keeps Billy occupied, and Ossmus and Billy were going to walk to town when Billy remembers why he came - to check the doors. He does and discovers the break-in. Ossmus begins talking loudly and signaling, and eventually the group inside hears and prepares to evacuate. Billy enters the front door just as the rest of the group has badly staged that the barricade bar bracket had had simply come loose and fallen. They leave with the stolen ledger pages as proog and the  letter. Dr. Jack hops off the rear dock and hides in the darkness under the boardwalk, followed by Brady and the others.  As Billy is pleading with Ossmus to give him a hand he hears a drunken Toddy Randolph and others in the distance - now Billy asks that they both leave, immediately, so neither of them is caught.
+
+The rest of the group, under the boardwalk, listens as Tony Randolph and several other drunken miners arrive moments later. Randolph’s discovery of the theft is immediate and vocal. Brady insists that people stay calm and that if they're found, it's time to eliminate witnesses. He doesn't want to make a run for it as that would just mean the law would come straight to the hotel where they would surely be identified. 
+
+Eventually, Randolph's companions make excuses to abandon him, and Randolph seemingly settles down into a drunken slumber - it will wait for morning. They leave, and manage, carefully, to make it back to the hotel where Ossmus is waiting.
+
+While this is going on, Ossmus and Billy make their way back to town and Billy, relieved and wanting a public alibi, wants a drink. Ossmus is OK with this. The white man in the corner is no longer in Bertram's.
+
+The two sit in the dim light of the pub where Billy, nursing a single beer with a worried expression, gives some information on Darwin. Ossmus asks about the caravan attack, and Billy, mistaking the attack Ossmus is asking about for another, explains that the rumors of supernatural attacks usually trace back to a man named Johnny Bigbush, a former employee of Randolph Shipping who was fired three weeks prior for showing up drunk and who wouldn't shut upabout this kind of thing. Billy dismisses the stories as nonsense but recounts Johnny’s specific claims about the white man in Great Sandy Desert. Johnny insisted there is a "huge, hidden city" there, where within this city sleeps a man who rests his head on his arm: Buddai who one day is going to rise and devour the world.
+
+Ossmus asks about the white man he robbed earlier, though not in those words, and Billy says that they call him Deadfella Man. Billy is creeped out by the skeletal and sickly pale man who he wonders if he's ever felt the dun in his entire life. "His skin is the color of a lizard's tail." The man reportedly worked for an American named Carver. Carver and the pale man would frequently vanish into the dunes for weeks at a time. Billy recalls the pale man making a singular, cryptic claim about how he’s going to "swap his mind for one of those ancient spirits." Billy doesn't know what this means.  They eventually break off.
+
+Safe at the hotel the next morning, the group examines Sarafina’s stolen letter. It is a missive to Edward Gavigan at the Penhew Foundation and references some "project" and describes the device as having been somehow the guide to the project and valuable once it comes to fruition, whatever the project is. The letter ends with Huston insulting Gavigan.
+
+Ossmus shares the intelligence gathered from the late-night drink with Billy. 
+
+1925 May 23rd (Early, The Outback Inn)
+
+Things are not good. During breakfast the next morning, there's some discussion of going back to the warehouse to burn it down or maybe destroy or steal the device, but that seems pointless. Brady is pretty clear: he wants to stop whatever the hell the Carlyle expedition kicked off by wiping them out - first Huston, then Bunay, then finally Penhew.  
+Gus picks up on an omission in Brady’s plan. While Brady is adamant about putting bullets in the other heads of the Carlyle expedition, except Roger Carlyle (insane and institutionalized in Hong Kong), he hasn't mentioned Hypatia Masters. When Gus presses him on why she isn't on the list, Brady offers a heavy scowl and admits that he has no fucking idea where she is. Killing someone is difficult when they’ve vanished entirely but ...
+
+... he also is hesitant to categorize her with the others, explaining that he never had any real problems with her and doesn't view her as inherently evil. To Brady, Hypatia was simply a spoiled rich kid who dabbled in things she didn't understand. He shares what he knows of her background, describing her as the heiress to the massive Masters armaments fortune, a smear book that surfaced years ago called Masters of Corruption, which detailed the scandalous ways her family built their wealth. Before the expedition was compromised by the black woman, Hypatia had even dated Roger for a time. Brady recalls that while everyone who emerged from the pyramid was changed, Hypatia was the only one who immediately fell ill. He wonders if perhaps whatever took over the others didn't take for her, and that she was paying for it physically. He comments that she had a rich girl's dabbler background - having seriously dated a Marxist and perhaps she "got knocked off" and had the pregnancy "taken care of."  He remains stuck on the fact that her conscience, or perhaps her health, set her apart from the rest, and she wasn't fully converted to whatever it is they're up to. Looking somewhat embarrassed that the group pointed out this loose end, he reiterates that while he knows where to find the others, Hypatia remains a total mystery.  Maybe he just has a soft spot for her.
+
+The discussions eventually converge on leaving ASAP.  It's time to head to Port Hedland, even if there may be some loose ends here.  With their path clear, Brady books them on a boat for Port Hedland at 3:00 PM that day, eager to leave Darwin before the local law connects them to the warehouse break-in. That will take 3 days.
+
+1925 May 26th (late) Port Hedland
+
 1926
 
 	January 14th - THE END OF THE WORLD (per Larkin: "This world ends" just before he died)
@@ -1755,3 +1808,4 @@ Sessions:
 	2026-03-06 The Father and Jack Brady create a distraction
 	2026-03-13 Hard to Fight A God Death of Father Rory (and Monty)
 	2026-03-20 Sydney to Darwin
+	2025-03-27 Darwinian Selection
