@@ -865,7 +865,7 @@ The main tunnel is of hewn stone, obviously man-made; its floor is generally lev
 
 James starts to crack, the Father decides to escort him out.
 
-Eventually, they find their eay through the tunnels - covered in increasingly more and more sanity-drainign bas reliefs, which eventually start moving - to the great chamber.  It is tremendous and ominous. Shiny black on black stone, smooth and polished. 
+Eventually, they find their eay through the tunnels - covered in increasingly more and more sanity-draining bas reliefs, which eventually start moving - to the great chamber.  It is tremendous and ominous. Shiny black on black stone, smooth and polished. 
 
 From the main tunnel, wide steps lead another 100 feet down into the massive chamber. No torches light the way or illuminate the vast space within, but their flashlights, reflecting everywhere from the gleaming black marble walls, show the size. The floor is of black marble, exceptionally shiny and slick.  The hall is approximately 400 × 500 feet, with ceilings (barely visible, also blach marble) soaring more than 100 feet high. The hall is so vast that only loud noises echo — ordinary voices are damped by the huge space. 
 
@@ -1367,7 +1367,7 @@ Out in the main bar, amidst the rowdy miners spoiling for a fight, Gus successfu
 
 There is a brief discussion that the next stop may be Randolph Shipping Company's warehouse under the cover of the stifling Darwin night.
 
-1925 May 19th Arrival in Shanghai
+1925 May 22nd Darwin (late at night)
 
 1926
 
