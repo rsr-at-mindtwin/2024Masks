@@ -1439,6 +1439,49 @@ The discussions eventually converge on leaving ASAP.  It's time to head to Port 
 
 1925 May 26th (late) Port Hedland
 
+Following Jack Brady's plan to hunt down Robert Mackenzie, executor of Arthur MacWhirr's estate, the group arrives in the sun-blasted frontier town of Port Hedland on May 26th, 2025 late in the day. Outside, Brady asks a man who seems to be waiting around for something about places to work. The man, Artie Higgins, is an out-of-work former outfitter, who fairly desperately tries to suggest that they rent one of his rooms and a dry shed for a few shillings. Brady brushes him off in disgust in search of a pub. Maybe later.
+
+At the local pub, Brady aggressively demands to know Robert Mackenzie's whereabouts. He;s behaving with uncharacteristic directness and lack of tact. A drunk miner named Michael offers to lead them for five pounds, but Dr. Jack Moody negotiates the price down to a vial of ether instead. Deeply intoxicated, Michael stumbles down the street shouting Mackenzie's name until they arrive at a nice, electrified house. Brady heads straight for the door and knocks aggressively. 
+
+A man opens the door, eyeing the unseen rifle above the doorframe. This is Robert Mackenzie (age ~40, mining engineer and executor of the Arthur MacWhirr estate) is initially suspicious of the heavily armed and aggressive Brady, but Ossmus defuses the tension by mentioning Professor Cowles and David Dodge, earning them an invitation inside.
+
+Inside, the group notices a unique Aboriginal rug featuring Dreamtime motifs, including the Rainbow Snake and not expected bat-winged figures. Mackenzie explains he received it as a thank-you after saving a dying Aboriginal man near the Great Sandy Desert. Ossmus pulls out the diary they stole from MacWhirr; which Mackenzie recognizes. He mentions that he and MacWhirr were supposed to do prospecting at MacWhirr's find, located deep in the desert, but which he never got to once MacWhirr died of influenze. Maybe someday. They go over the coordinates.  Mackenzie recalls an American that came by at one point - middle aged, pale, graying at the temples, and wearing neat khaki bush gear — and borrowed a handful of MacWhirr's mining records. This was two or three years ago and he never returned them. Jack shows Mackenzie a photograph of a man and a woman (which Gus glimpses and sort of recognizes as similar to the photos they saw in Cairo of the gala at the Cairo Bulletin). Mackenzie admits the man in it could be the American.
+
+Brady and Mackenzie spend the evening plotting the expedition's logistics. They decide to book their supplies through Wycroft Outfitters under Mackenzie's name so as not to tip off anyone about who is actually going. They recall that some of Randolph Shipping Company's crates were addressed to Wycroft.  It's night time. The group splits up for the night: the men stay at Mackenzie's, distributed across three beds, while Serafina and Lia stay at the room in Artie Higgins's house.
+
+In the middle of the night, Ossmus wakes to whispering and mumbling that he can hear clearly coming from, he eventually discovers, the front of the house. No one else can be awakened. Looking outside, he sees a man very similar in appearance to the Deadfella man from Darwin. This man, luminously pale, stands and then beginds pointing at him while muttering endlessly. Ossmus takes the rifle from above the door, assuming it is loaded, and steps outside with a rifle. Time accelerates wildly — days and nights strobe past before the sky tears open, raining a terrifying fleshy mass of screaming bodies. He somehow pulls himself out of this, then wakes up in bed, realizing it was something like a nightmare (perhaps), and sneaks back outside to find a softly glowing Dingo where the man once was. Ossmus throws a stick, which the Dingo catches; the stick transforms into the dismembered arm of the Deadfella before the Dingo runs off.
+
+Meanwhile, at Higgins's house, Serafina hears rhythmic clicking and muttering. The faded floral wallpaper of her bedroom stretches away as the room transforms into a massive, windowless stone hall lined with towering shelves of metal cylinders and crystalline tablets. A towering, conical shadow with writhing tentacles on the top of it glides toward her. Serafina turns to run, falls endlessly through the floor, and jolts awake. Terrified, she forces Artie Higgins to walk her and Lia to Mackenzie's houseEn route, Serafina spots several pale white men in the darkness ahead, prompting her to turn back and wait for dawn.
+
+In the morning, the investigators share their nightmares over breakfast, with Jack admitting that when he dreams, the only dream he has is of himself going with the others into the pyramid instead of standing outside while the rest did.
+
+Jack, which help from Mackenzie, finalizes their train tickets and supply orders via telegraph. Brady books them on the flat car of the daily train to Cuncudgerie. During the scorching ride, Ossmus spots three massive birds in the distance. He asks the Aboriginal passengers about them. An old man replies, "White fellas call them birds. Feathers are for the living world... Those are leather-like skin stretched over old bone. Those are the hungry wings." The others look uncomfortable. A younger man snaps at Ossmus to stop asking, warning that speaking of them gives them a "song line" in his head, and that they will "come and take your eyes." 
+
+1925 May 26th (late) Cuncudgerie
+
+Arriving in Cuncudgerie late in the evening, the party secures rooms before heading to the crowded Cuncudgerie Grand pub. They split up to gather rumors:
+
+Serafina: "There was a big mining disaster far to the east but the company responsible paid off the politicians and the whole thing was hushed up. Some 25 men were killed, among them Derby Dave the Welshman, who did some work for Mortimer Wycroft, who now runs an outfitters in town"
+
+Gus: A crazy American bloke took a crew of two dozen men into the bush, had them dig a shaft 30 feet (9 m) deep, then told them to stop, gave them a big bonus, and sent every man jack to Darwin to collect his pay. This was a while ago.
+
+Gus: Some drovers, who brought in cattle over the Canning Stock Route, swore that things the size of bears stole some of their stock. That was “about a year ago.” The attacks were alleged to have taken place somewhere east of the Percival Lakes. 
+
+Gus: The Slatterys, who live out by Dingo Falls, are quite unfriendly, and should definitely be avoided 
+
+Ossmus: An American gentleman named John Carver conducted surveys and exploratory diggings along the Canning Stock Route, which flanks the eastern side of the Great Sandy Desert.
+
+Dr Jack: There’s been a ghost seen up north recently, near Dingo Falls. It could pass its hand straight through someone’s body (told by an old man) 
+
+Brady: a story about Arthur MacWhirr buying drinks for the pub years ago after finding big, squared-off stone blocks in the desert
+
+Finally, the group visits Wycroft Outfitters, located on the lower story of a dilapidated building. Using a fake name, Brady checks on the supplies with Mortimer Wycroft's three bleach-blonde daughters — Gertie, Shula, and Janice — who seem to actually run the shop while their father sleeps or otherwise spends time upstairs. Everything appears to be in order for their desert departure the next day.
+
+They head back to the hotel.
+
+1925 May 26th (midnight) Cuncudgerie
+
+
 1926
 
 	January 14th - THE END OF THE WORLD (per Larkin: "This world ends" just before he died)
@@ -1449,6 +1492,9 @@ OPEN WAGERS:
 
 OPEN THREADS:
 
+	Who is John Carver? What's he doing out in the desert with that pale man?
+	What's attacking the caravans?
+	What is the machine they found in Randolph Shipping?
 	Where is Robert Huston?
 	Why was our friend Jackson obsessed with the Carlyle Expedition? Roger Carlyle and the others appear to have made a bargain with the Black Pharoah to become gods by doing ... something.
 	Who is the (undying) glamorous woman who appears to be Zahra?
