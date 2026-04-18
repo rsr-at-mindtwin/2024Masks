@@ -1475,7 +1475,7 @@ Dr Jack: There’s been a ghost seen up north recently, near Dingo Falls. It cou
 
 Brady: a story about Arthur MacWhirr buying drinks for the pub years ago after finding big, squared-off stone blocks in the desert
 
-Finally, the group visits Wycroft Outfitters, located on the lower story of a dilapidated building. Using a fake name, Brady checks on the supplies with Mortimer Wycroft's three bleach-blonde daughters — Gertie, Shula, and Janice — who seem to actually run the shop while their father sleeps or otherwise spends time upstairs. Everything appears to be in order for their desert departure the next day.
+Finally, the group visits Wycroft Outfitters, located on the lower story of a dilapidated building. Using a fake name, Brady checks on the supplies with Mortimer Wycroft's three sunbleached blonde daughters — Gertie, Shula, and Janice — who seem to actually run the shop while their father sleeps or otherwise spends time upstairs. Everything appears to be in order for their desert departure the next day.
 
 They head back to the hotel.
 
@@ -1496,6 +1496,7 @@ OPEN THREADS:
 	What's attacking the caravans?
 	What is the machine they found in Randolph Shipping?
 	Where is Robert Huston?
+	What's going on with the ghost near Dingo Falls and the unfriendly Slatterys that are there?
 	Why was our friend Jackson obsessed with the Carlyle Expedition? Roger Carlyle and the others appear to have made a bargain with the Black Pharoah to become gods by doing ... something.
 	Who is the (undying) glamorous woman who appears to be Zahra?
 	Ho Fang - He's dangerous, but what was he doing with Gavigan and al-Shakti and the Zahra-thing?
@@ -1637,12 +1638,14 @@ Australia:
 
 	Prof. David Dodge - 46 - assoc. professor of archaeology; friend of Anthony Cowles (and living in his house) and Jack Brady, just finishing his current term, and looking forward to some vacation time. Keen to discover what the group knows and what has brought them to Australia
 	Bonnie Dodge - 17 - daughter of David Dodge
-	Robert Mackenzie - ? - mining engineer and executor of MacWhirr estate; transferred some objects, a painting, papers and a diary to Cowles
+	Robert B. F. Mackenzie - ? - mining engineer and executor of MacWhirr estate; transferred some objects, a painting, papers and a diary to Cowles
 	Toddy Randolph - 50 - drunken owner-operator and resident of Randolph Shipping company
 	Billy Burraglong - late 20s - young Aboriginal man, painfully naive, worker at Randolph Shipping and apparently general fixer of Aboriginal issues when they crop up in Darwin
 	Deadfella Man - age indeterminate, but old - a pale, scarred man with cataracts who works for John Carver sometimes
 	John Carver - ? - American. Carver and Deadfella Man would frequently vanish into the dunes for weeks at a time
 	Arthur MacWhirr - 60s? - miner out of Port Hedland
+	Mortimer Wycroft - Outfitter in Cuncudgerie - basically the only game in town
+	Gertie, Shula, and Janice Wycroft - Daughters of Mortimer Wycroft, they actually run the outfitter shop at least with regard to interacting with the public
 
 ## ARTIFACTS
 
