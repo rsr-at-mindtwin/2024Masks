@@ -1899,4 +1899,6 @@ Sessions:
 	2026-03-06 The Father and Jack Brady create a distraction
 	2026-03-13 Hard to Fight A God Death of Father Rory (and Monty)
 	2026-03-20 Sydney to Darwin
-	2025-03-27 Darwinian Selection
+	2026-03-27 Darwinian Selection
+	2026-04-10 Port Hedland and Cuncudgerie
+	2026-04-17 Into the Great Sandy Desert along the Canning Stock Route
