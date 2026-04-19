@@ -1405,7 +1405,7 @@ While this is going on, Ossmus and Billy make their way back to town and Billy, 
 
 The two sit in the dim light of the pub where Billy, nursing a single beer with a worried expression, gives some information on Darwin. Ossmus asks about the caravan attack, and Billy, mistaking the attack Ossmus is asking about for another, explains that the rumors of supernatural attacks usually trace back to a man named Johnny Bigbush, a former employee of Randolph Shipping who was fired three weeks prior for showing up drunk and who wouldn't shut upabout this kind of thing. Billy dismisses the stories as nonsense but recounts Johnny’s specific claims about the white man in Great Sandy Desert. Johnny insisted there is a "huge, hidden city" there, where within this city sleeps a man who rests his head on his arm: Buddai who one day is going to rise and devour the world.
 
-Ossmus asks about the white man he robbed earlier, though not in those words, and Billy says that they call him Deadfella Man. Billy is creeped out by the skeletal and sickly pale man who he wonders if he's ever felt the dun in his entire life. "His skin is the color of a lizard's tail." The man reportedly worked for an American named Carver. Carver and the pale man would frequently vanish into the dunes for weeks at a time. Billy recalls the pale man making a singular, cryptic claim about how he’s going to "swap his mind for one of those ancient spirits." Billy doesn't know what this means.  They eventually break off.
+Ossmus asks about the white man he robbed earlier, though not in those words, and Billy says that they call him Deadfella Man. Billy is creeped out by the skeletal and sickly pale man who he wonders if he's ever felt the sun in his entire life. "His skin is the color of a lizard's tail." The man reportedly worked for an American named Carver. Carver and the pale man would frequently vanish into the dunes for weeks at a time. Billy recalls the pale man making a singular, cryptic claim about how he’s going to "swap his mind for one of those ancient spirits." Billy doesn't know what this means.  They eventually break off.
 
 Safe at the hotel the next morning, the group examines Sarafina’s stolen letter. It is a missive to Edward Gavigan at the Penhew Foundation and references some "project" and describes the device as having been somehow the guide to the project and valuable once it comes to fruition, whatever the project is. The letter ends with Huston insulting Gavigan.
 
@@ -1463,7 +1463,7 @@ Arriving in Cuncudgerie late in the evening, the party secures rooms before head
 
 Serafina: "There was a big mining disaster far to the east but the company responsible paid off the politicians and the whole thing was hushed up. Some 25 men were killed, among them Derby Dave the Welshman, who did some work for Mortimer Wycroft, who now runs an outfitters in town"
 
-Gus: A crazy American bloke took a crew of two dozen men into the bush, had them dig a shaft 30 feet (9 m) deep, then told them to stop, gave them a big bonus, and sent every man jack to Darwin to collect his pay. This was a while ago.
+Gus: A crazy American bloke took a crew of two dozen men into the bush, had them dig a shaft 30 feet (9 m) deep, then told them to stop, gave them a big bonus, and sent every man back to Darwin to collect his pay. This was a while ago.
 
 Gus: Some drovers, who brought in cattle over the Canning Stock Route, swore that things the size of bears stole some of their stock. That was “about a year ago.” The attacks were alleged to have taken place somewhere east of the Percival Lakes. 
 
@@ -1479,7 +1479,27 @@ Finally, the group visits Wycroft Outfitters, located on the lower story of a di
 
 They head back to the hotel.
 
-1925 May 26th (midnight) Cuncudgerie
+Cuncudgerie at midnight on May 26, 1925
+
+The town outside the hotel window is absolutely dead, with no lights on and the streets completely clear. There are no watchers, despite everyone having a look. Serafina ventures out and finds the hotel desk unmanned and decides to rifle through it. First, the recent ledger. She discovers that John Carver is listed as an American geologist and stayed at the hotel three times in the ledger between 1923 and 1924, once for three weeks. Meanwhile, Ossmus slips behind the counter and liberates five pounds from the till, out-dexing Serafina when she tries to snatch it back.
+
+By morning, Jack Brady is already out of bed and supervising the loading of two Daimler light trucks. He explains that the trek to the desert will cover roughly 1,500 miles if they get lucky. They will drive south to the Canning Stock Route to ensure they have access to water wells on the way to MacWhirr's location. While Brady checks the trucks, the party spends some time watching, analyzing and checking out Shula Wycroft. 
+
+Dr. Jack watches Shula and notices that when she thinks no one is looking, she has a (very) vicious look to her - he catches a brief glimpse of a tattoo on her arm before she covers it. She eventually goes inside, with Serafina in tow, and uses a bell to summon Gertie and Janice. 
+
+Gertie Wycroft takes advantage of the delay to ask for an itinerary, but Dr. Jack distracts her with questions about local lore. Gertie mentions the Altra Ringa (Dreamtime) and tells them the stories of gods who are not at all like men and specifically mentions a cone shaped God with protrusions coming out of its... well, where its head should be.
+
+They head out. The first day is uneventful and they make good time. 
+
+On the second morning of the journey, the party spots a man on a camel in the distance. It is Derby Dave, presumed dead but alive. He says is a mechanic who is fleeing a mining concern run by an American named Carver. Dave is terrified and exhausted, telling the group, "Hell with this place" over and over. He says there are strange things happening out in the desert, reporting that the ground shakes, the Aboriginals are vanishing, and he himself saw a strange shape blown through the desert air accompanied by a terrible whistling sound. Before Dave leaves, Serafina warns him to avoid the Wycrofts, and Dave suggests he will tell people in town that the party was all murdered by dingoes to help them stay hidden. Before he leaves, he mentions a crazed madman in the desert in a camp to the east of the dig site - Jeremy.. and his canine friends. He emphasizes that the man is batshit insane and lives among the dingoes.
+
+The next day, the group eventually reaches just south of Lake Disappointment. They camp not far from a brackish, swampy area edged by green scum. In the distance, they observe smoke plumes on and off that Serafina identifies as deliberate signals used for navigation by the Aborigines - they are out here, but not visible. While at camp, they are approached by two Aboriginal men, one who calls himself George and an unnamed companion who (perplexingly) speaks fluent English. 
+
+Gifts of food and tobacco (from Dr. Jack) bring more information: they have heard that the “Ngunung Ngunnut” has returned in the form of a white man and then draw five circles in the sand, saying these were his strange tracks. He also draws a symbol in the sand that the party recognizes as the Cult of the Sand Bat. He warns them that if they see these, they must flee. He says that the white man is forcing people to dig underground in a camp further north. When Ossmus describes his dream of a glowing dingo with a human arm, the man identifies the creature as the Waragal, a spiritual protector. He tells Ossmus that something very bad must be happening for one of them to help "someone like you." They mention rescuing a dazed, barely-alive Aboriginal woman and violating their own long walk to deliver her to a village.  She recounted being the only one of the enslaved workers who seemingly was not in a haze, able to think for herself for whatever reason, and escaping. She mentions there are guards watching the dig site at all times.
+
+The group decides that given the two choices, they will head north the following day to find this Jeremy, as he may have more information about the digging operation.
+
+29th of May, 1925 - Heading North
 
 
 1926
@@ -1642,10 +1662,13 @@ Australia:
 	Toddy Randolph - 50 - drunken owner-operator and resident of Randolph Shipping company
 	Billy Burraglong - late 20s - young Aboriginal man, painfully naive, worker at Randolph Shipping and apparently general fixer of Aboriginal issues when they crop up in Darwin
 	Deadfella Man - age indeterminate, but old - a pale, scarred man with cataracts who works for John Carver sometimes
-	John Carver - ? - American. Carver and Deadfella Man would frequently vanish into the dunes for weeks at a time
+	John Carver - ? - American. Carver and Deadfella Man would frequently vanish into the dunes for weeks at a time, apparently the reincarnation of "Ngunung Ngunnut"
 	Arthur MacWhirr - 60s? - miner out of Port Hedland
 	Mortimer Wycroft - Outfitter in Cuncudgerie - basically the only game in town
 	Gertie, Shula, and Janice Wycroft - Daughters of Mortimer Wycroft, they actually run the outfitter shop at least with regard to interacting with the public
+	Derby Dave - welshman, presumed dead but actually alive, encountered on the Canning Stock Route, he mentioned "Jeremy" the crazed madman with a camp to the east of the dig site that he escaped (near MacWhirr's coordinates)
+	Jeremy - crazed dingo-loving white man who fled the Carver dig and has set up camp to the east
+	"George" and friend - English-speaking Aborigines encountered on the Canning Stock Route, they had rescured an Aboriginal slave woman from the dig site
 
 ## ARTIFACTS
 
