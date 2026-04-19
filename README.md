@@ -1,6 +1,6 @@
 # 2024 Masks of Nyarlathotep Campaign Log
 
-Intro + M has inventory (separate document tab) here: https://docs.google.com/document/d/1botVxpJS69F9XTC8tQ2wliKa7KVTwMNtO3U6U8LJqHo/edit?tab=t.8vvsdbonh3x
+https://docs.google.com/document/d/1botVxpJS69F9XTC8tQ2wliKa7KVTwMNtO3U6U8LJqHo/edit?usp=sharing
 
 ## Characters
 
