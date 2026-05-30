@@ -1798,6 +1798,10 @@ Mask of Hayama (not taken, lost in the fire at the Ju-Ju House, was in M'Dari's 
 
 >A carved wooden African mask with four hideous faces perched atop a thick, corded neck with a basket-like reed, feather, and fabric collar that hides the wearer’s face.
 
+### AUSTRALIA
+
+A "Model B" camera-like device that, having witnessed the demonstration by Gus, Brady described as a "pocket lightning storm" and "lightning cannon." Charge count unknown, somewhere between 10 and 20 charges at the time of finding, less one for the test fire.
+
 ### ENGLAND
 
 Zahra's Mirror (not retained, in Zahra's apartment above Empire Spices)
