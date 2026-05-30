@@ -913,7 +913,7 @@ By 7:30 PM, the group finally reunited in the Great Chamber. Father Rory, lookin
 
 With the ritual scheduled for the next night, March 24, the group realized they were trapped underground with no supplies, no ride, and a high probability of more "cleaners" or "killers" arriving shortly. Their current plan involves a distinct lack of remorse and a desperate hope that the Byakhee finds someone else to eat for dessert.
 
-The group is having a very long night in Egypt. Questionable life choices ensure.
+The group is having a very long night in Egypt. Questionable life choices ensue.
 
 Around 9:00 PM, the party is huddled in a pitch-black underground chamber 500 feet beneath Giza. Father Rory is a total mess; wounded and completely drained of his "spiritual energy" (he refuses to call it magic). He had recently summoned a Byakhee, which he describes as a "blind, evil pit bull," only to realize he couldn't control it. The creature proceeded to kill half of a six-man rifle team and deposited one survivor on the apex of a pyramid before turning into a general menace.
 
@@ -1501,6 +1501,32 @@ The group decides that given the two choices, they will head north the following
 
 29th of May, 1925 - Heading North
 
+The group continues the journey north through the terrain of the Great Sandy Desert traveling along the path outlined from the Canning Stock Route. By June 1st, 1925, the caravan makes it to the large desert well at Nurgurga with relative ease. Red dirt, sand, and desolate scrub dominate the horizon in every direction. The following day, driving conditions deteriorate. Serafina fumbles a difficult stretch behind the wheel of her Daimler light truck, and though Lia manages to clear the sand out of the mechanics to avoid a total breakdown, the vehicle is left permanently impaired for the remainder of the trek.
+
+As they camp under the desert sky, Jack Brady grows increasingly restless and irritable with their slow progress. He confesses to Dr. Jack Moody that he is deeply troubled by a missing timeline regarding their operation, constantly counting backwards from points in the past. Brady reveals that back in August of 1919, the principals of the Carlyle Expedition performed a horrific ritual at the Mountain of the Black Wind in Kenya. He tells Dr. Moody, "I think Nails would have reached out to me if there was any word from the mountain." He explains that his old contact, Bertram "Nails" Nelson, was last seen in Hong Kong in March of 1923 before heading back to Mombasa, and should have sent word to him if the cult was actively moving in Africa.
+
+On the afternoon of June 3rd, the group arrives approximately two miles outside of the coordinates for Arthur MacWhirr's original mining camp. Peering through their binoculars, Ossmus and Brady survey the site, which sits huddled against a 20-foot rocky outcrop. A dozen ragged canvas tent shells flap violently in the desert wind, suggesting the camp has been long abandoned. They also spot several head-high stacks of mining crates, a couple of small wooden shacks, and a completely crushed Ford truck that looks as though a giant had stepped directly on top of it. Brady advises waiting until morning to approach so they can see what is coming for them, warning that at night, "they'll know the terrain and you won't." They pull the trucks off the track behind a ridge to mask their line of sight.
+
+During the first watch, Ossmus glances up at the dark sky and witnesses a terrifying cosmic phenomenon: for a brief moment, the stars above the abandoned campsite seem to warp into a swirling whirlpool before abruptly snapping back into place. Later, during the final watch, Lia and Dr. Jack are shaken by an even greater horror. A shaggy, faceless spectral giant, easily a mile tall, climbs out of the earth. The immaterial silhouette turns its massive head, staring West, East, and South, before locking its gaze directly onto the investigators. Lia falls backward into the sand in terror just as the first rays of dawn crest the escarpment, causing the gargantuan visage to vanish instantly into thin air.
+
+Waking the camp early, Brady orders everyone to lock and load. Suddenly, Ossmus spots a wild, mostly naked white man with matted hair running frantically from the campsite into the eastern hills. Dr. Jack, Gus, and a winded Ossmus give chase on foot up the 200-pace hill. The hermit screeches back at them in a panicked frenzy, yelling, "Get ye back, Satan's spawn, be gone, beware. My friends shall rend ye!". Dr. Jack attempts to use his sternest medical voice to calm the man down, but the hermit leaps over a ridge, shouting, "Away with you, the wind has ears out here. It's always listening!"
+
+There's a lot of threatening Dingo stuff.
+
+Gus pursues the man down the opposite side of the slope, finding him huddling against a boulder. The hermit rants, "You're one of them sent to finish me off. The desert has already claimed enough souls. Don't let it take yours too." Gus manages to peacefully talk the man down, assuring him that they are outlaws who are fighting the exact same dark forces. The hermit squints at him and mutters, "You've got the shadow sickness" and warns Gus to stay out of the intricate, hand-sized stone labyrinth spiral he has constructed in the dirt, stating, "I warn you, I've got lightning in my teeth. If I open my mouth too wide, the big metal birds will find us all."
+
+The hermit demands to know where they came from. When Gus rattles off their long journey from Peru to New York, London, Egypt, and China, the man demands he strip to check for cult tattoos. Finding none, the hermit calms down and identifies himself as Jeremy, a worker hired years ago by John Carver for a 20-man digging operation. Over a can of heavily salted potted meat that Dr. Jack surreptitiously laces with a mild sedative, Jeremy relates his harrowing backstory:
+
+"I saw Carver appear on a wall of rock, gesture and point, and then a great winged thing with talons like ropes descended from the skies. There was a crackling sound in the air like a voice, the men fell to their knees, one or two tried to run off, but the thing just grabbed them and ripped them apart. I buried myself in the sand and covered my ears when I looked up, the men, why the men was bowing to Carver and he was leading them away..."
+
+Jeremy explains that the mining shaft they dug at this camp was a total failure and collapsed, prompting Carver to move the surviving 12 to 15 men to a main digging site further to the east. Jeremy stayed behind to live among the dingoes, surviving on a freshwater spring that miraculously bubbled out of the rock face into an enamel wash basin only after he dreamed of it. He reveals that the cultists carry clubs embedded with sharp white teeth, and that the dingoes have already killed two of Carver's assassins who came back to silence him. Most importantly, Jeremy reveals that about four miles east of the main dig site, there is an unmistakable, 50-foot-wide cavern entrance that blows air outwards, steeply descending into the deep subterranean structures Carver is investigating.
+
+While Jeremy eats, the rest of the party cases the ruins of the old camp. In the wooden winch-house, they find a deep, dark vertical shaft capped by an open elevator cage and a weathered gasoline engine. The explosive shack is empty, its broken lock swinging in the breeze, confirming Jeremy's claim that Carver's men took all the mining dynamite with them when they moved. Scattered near the ragged tents, they discover the mangled, half-eaten skeletons of the cultists Carver abandoned. Near the bones lie massive, horrifying five-toed footprints, each measuring six feet in length, baked into the desert clay.
+
+Refilling their truck reservoirs with the crisp, sweet water from Jeremy's miraculous spring, the investigators retreat to their vehicles. As they prepare to leave, a pack of large, well-fed dingoes watches them silently from the ridges. Jeremy refuses to return to civilization, perfectly content to be left alone with his hounds. With the afternoon sun beating down, the group huddles over MacWhirr's maps to plot their final approach toward Robert Huston's dig site, weighing the threat of Carver's lookouts against the promise of the hidden 50-foot cavern to the east.
+
+June 4th, 1925: Outside of the madman Jeremy's camp
+
 
 1926
 
@@ -1902,3 +1928,4 @@ Sessions:
 	2026-03-27 Darwinian Selection
 	2026-04-10 Port Hedland and Cuncudgerie
 	2026-04-17 Into the Great Sandy Desert along the Canning Stock Route
+	2026-05-01 Our Friend Jeremy and His Friends
