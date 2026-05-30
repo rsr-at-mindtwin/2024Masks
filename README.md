@@ -1525,7 +1525,91 @@ While Jeremy eats, the rest of the party cases the ruins of the old camp. In the
 
 Refilling their truck reservoirs with the crisp, sweet water from Jeremy's miraculous spring, the investigators retreat to their vehicles. As they prepare to leave, a pack of large, well-fed dingoes watches them silently from the ridges. Jeremy refuses to return to civilization, perfectly content to be left alone with his hounds. With the afternoon sun beating down, the group huddles over MacWhirr's maps to plot their final approach toward Robert Huston's dig site, weighing the threat of Carver's lookouts against the promise of the hidden 50-foot cavern to the east.
 
-June 4th, 1925: Outside of the madman Jeremy's camp
+### June 4th, 1925: Outside of the madman Jeremy's camp late afternoon
+
+The group prepares for the next leg of the journey while parked outside Jeremy’s camp in the Great Sandy Desert having survived Dingo Madness and an encounter with someone who Serafina and Ossmus, at the very least, have figured out is a dreamer who is able to shape reality - not someone you want to be in conflict with. It is the mid-to-late afternoon of June 4, 1925. Jack Brady remains visibly agitated, his anxiety over the accelerating global timeline pushing the group toward swift action.
+
+Lia ponders the 30-inch wooden club found at the camp. The striking end is embedded with sharp white teeth. She remembers that in Arkham, regarding the Sand Bat Cult, the club is also supposed to be covered in poisons. Taking proper precautions, they wrap the weapon safely in rags for transport.
+
+### Heading North, then South, then North Again... 
+
+The group debates their route. While a longer, circuitous path to the south back to the stock route is considered, and preferred by Brady, Ossmus and Dr. Jack vote to push straight north to save time. They take the trucks off-road, navigating the rocky, scrub-filled desert expanse.
+
+As they approach the mouth of a ravine requiring descent, Brady spots an occasional glare in the distance and stops everything. Ossmus peers through his binoculars and spots a lookout sniper positioned on the far side of the ravine, tracking Northwest traffic (and clearly seeing something). The sniper matches Jeremy's descriptions: a gaunt, sickly Caucasian youth with ratty hair, looking like a crazed fanatic. Brady contemplates executing a stealthy approach to assassinate the look-out at sundown, but Ossmus advises against it due to the sniper’s alert state. Observing heavy dust clouds rising in the far distance near the dig site to the East, the group ponders.
+
+To avoid detection, they decide the best option is to use the shifting sun to hug the escarpment. Moving at a cautious 5 to 10 miles per hour to avoid kicking up a visible dust trail, they slink south toward the alternate cave entrance.
+
+### Midnight In the Desert of Good and Evil
+
+By nightfall, they make camp down near the tip of the ravine's escarpment. Refusing to light a fire, Brady and Serafina cut desert brush and pile it against the trucks to camouflage them.
+
+Brady and Serafina take the first watch. Serafina tries to coax close-quarters combat tips out of Brady, who promises to show her some melee backstab maneuvers during their next downtime. She also has a crush. The watch passes uneventfully. 
+
+Lia and Gus take over for the second watch around midnight beneath a waxing gibbous moon. An hour into the watch, Gus experiences a terrifying vertigo effect. His perspective expands exponentially, granting him an acute, crushing realization of how isolated they are in the desert. Suddenly, psychic static floods Gus’s consciousness, bypassing language and carrying a cold, ancient realization:
+
+"... Petty localized machinery, primitive biological vessel shifting mass to no purpose...." 
+
+A massive, iridescent cone-shaped entity briefly writhes within his mind’s eye before Gus forces his thoughts clear, left gasping for breath from the massive adrenaline spike. He tells Lia he believes he briefly connected with the Old Ones. Or something.
+
+During the final watch, shared by Ossmus and a cocaine-powered Dr. Jack, the doctor catches the faint sound of something treading softly upon the sand. A dingo steps into the dim perimeter: it moves with a majestic stride, its fur softly radiating an eerie, luminous violet-orange glow. Floating directly above its back is the unmistakable symbol of the Waragal. When Ossmus snaps his flashlight directly at the creature, it instantly evaporates under the beam of light. Checking the area, they find no physical paw prints or spore left behind.
+
+### Bed Yith and Beyond
+
+At first light on June 5, Brady quickly clears away the brush, eager to move. They drive a circuitous path for three hours, crossing the well-used road that runs from the Canning Stock Route to the dig site. Peering north with his binoculars, Ossmus spots a familiar vehicle pulling into the main dig site matching one of the trucks from Wycroft’s Outfitters.
+
+The investigators eventually reach their destination: a hidden cave located four miles due east of the main camp coordinates. The entrance is a steeply-sided hole stretching 50 feet across, with a steady stream of cool air coming outward from the depths. Dotted around the exterior are weathered stone monoliths covered in faded curvilinear carvings, alongside terrifying six-foot-long prints left in the sand of the sort Jeremy described for the flying entities.
+
+Serafina takes paper rubbings of the symbols. Poring over them, Lia recognizes the markings. They mirror the photos Professor Anthony Cowles showed them in New York, which had been sent by the MacWhirr estate from the original Australian dig. The realization triggers a breakthrough regarding the mythos: this is a buried metropolis of the Great Race of Yith, a highly advanced pre-human race who conquered the secrets of time. Lia recalls the dark legend that millions of years ago, the Yithian civilization was utterly destroyed by subterranean monstrosities they accidentally unleashed — the flying polyps. Before the cataclysm, the Yithians escaped by mass transplanting their minds forward into time. The massive six-foot prints outside belong to the polyps, the prints of them landing at rest.
+
+### Descending into the Great Halls
+
+Brady secures heavy ropes to a nearby monolith, preparing so as to avoid a one-way descent down the steep, sand-covered slopes. Clicking on their flashlights, the group enters the cool, dry depths. Passing through uneven cavern roofs where massive colonies of bats roost over layers of pungent ammonia-heavy guano, the raw cave walls gradually give way to worked stone.
+
+They emerge into massive stone halls of distinctly alien architecture, featuring oversized doorways and furniture built for entities they estimate as roughly ten feet tall. The walls are covered in bizarre decorative geometric art that might be fanciful star charts but who knows? Serafina and Gus note with a shudder that the architecture has vague similarities to the shifting, non-Euclidean structures they previously encountered under the sands in the Great Chamber in Egypt.
+
+Following the stone thoroughfare, the investigators are blocked by a square, regular chasm, 15 feet across and seemingly bottomless. Sitting on their edge of the pit is an enormous, alien-sized box crate with massive hinges and intricate latches. Lia deftly works the heavy alien latches, popping them open and allowing Brady to lift the lid open. Before he lowers the lid again, Ossmus puts some loose clothing in place so that it will close quietly.
+
+Dr. Jack inspects the hinges and realizes the box is designed to unfold, at least the front, top and back. When the lid is raised to a perfect 90-degree angle, internal mechanisms will automatically release the rear panel, allowing it to drop flat and bridge most of the chasm. To execute the plan silently, the team piles spare clothes along the stone floor to muffle the impact. They loop their ropes around a remote pillar to act as a friction belay, slowly paying out the line. Working in unison, they push the incredibly heavy lid to 90 degrees, catch it as the actuators release, and gently lower the combined panels across the 15-foot gap. The front panel having been lowered on more clothing with a quiet *wump*.
+
+One by one, the investigators cross the yawning gulf.
+
+There's a choice to go north or west, but they want to head toward the dig site. 
+
+Heading west toward the main dig coordinates, the distinct hints of petroleum and gasoline grows stronger. A mile past the chasm, they hear the rhythmic rattling of a motor and spot strings of human incandescent lights strung along the alien stone walls. The lights are powered by an early Westinghouse industrial generator surrounded by stacks of five-gallon petrol cans.
+
+Moments later, Dr. Jack catches the sound of someone whistling from the south, and Gus spots a figure in overalls walking along the electrical lines. The investigators scatter into the doorways and cubbies to hide. As the line-walker nears their position, Brady expertly steps out from the shadows, catches the worker in a chokehold, and drags him to the generator area.
+
+Serafina rushes forward to grab the strange device the man is carrying. Measuring 24 by 12 inches and 5 inches thick, it resembles an oversized, heavy camera with leather bellows, but features a polished crystal swiveled into a small box-like structure the front frame. The case is dotted in strange, hard fungus-like nodules that form an awkward, non-human two-handed grip with buttons at the upper corners.
+
+The investigators tie the line-walker up. Dr. Jack administers a light sedative to make him suggestible, and Ossmus begins a hypnotic interrogation. The dazed captive reveals he works for a man named Carver, who has about 100 men digging at the site alongside 20 to 30 coerced Aboriginal laborers. When asked about the strange camera device, the man mutters that it is a "Model B."  He explains:
+
+"If they come, the Model B, I can use it to drive it away... the flying things. I have to, they don't, they react badly to it." 
+
+He estimates the device holds roughly 10 to 20 charges, he says: "It depends." When Ossmus presses further, demanding to know exactly what Carver is constructing at the dig site, the man's face contorts. He begins violently shaking, spitting blood in the throes of a sudden, dramatic grand mal seizure. Dr. Jack rushes to clear his airway to keep him from aspirating, holding him down until the bizarre convulsion finally subsides, leaving the prisoner glassy-eyed and unresponsive. 
+
+While all of this is going on, Brady decided to scout further on to the south, concerned that others may be approaching and wanting to make use of the time. The way north is blocked by rubble. He returns after a rough-guessed 10 minutes or so saying he's found something interesting.
+
+Eager to test the capabilities of this newly acquired alien weaponry, Brady instructs Gus to test fire the weapon at the prisoner to solve two problems. After some consternation, Brady says that he won't put that on Gus and instead he should test fire it at the nearly-solid pile of solid stone rubble blocks to the north. Gus lines up the Model B and squeezes both rubbery triggers.
+
+The response is instantaneous and terrifying. A high-pitched, screeching harmonic whine starts low and then escalates to beyond human hearing, creating a throbbing pressure in the air. The array of mirrors where the  iris should be realigns with a blinding sequence of rapid clicks and as soon as this has happened, a jagged, brilliant, branching, lightning-bolt arc of blue-white electricity violently erupts from the lens with a deafening thunderclap that shakes the entire corridor. The blinding flash turns everything completely white.
+
+The lightning bolt plays over the corridor before Gus and then slams into the rubble. The stone does not shatter — it superheats, vaporizes, and explodes, instantly clearing the path. As Gus releases his grip, the device goes inert and back to the former state, leaving the narrow corridor filled with a thick cloud of ozone, ionized air, and the pungent stench of melted stone. The target area sizzles softly, glowing with a lingering, putrid violet-orange thermal residue.
+
+The group stands completely stunned, deafened and still partially blinded. Realizing the weapon's sheer power, Brady playfully suggests not firing the "lightning cannon" again for the time being. They gag the unconscious line-walker and stash him securely behind the noisy generator.
+
+Ossmus is not handling this well. Supernatural stuff aside, this is the first truly alien, baffling thing he has seen. It's hurting his sanity.
+
+The group also takes a moment to realize that this device - the "model b" - looks a lot like the parts and such from Henson Manufacturing, and they know Henson was shipping both here and Shanghai, although the plans they stole were more of a giant machine. Brady looks thoughtful as he ponders (he is thinking of the planned assault on Grey Dragon Island).
+
+### Blue Plaza
+
+Brady tells the group that a mile further down the corridor lies the strangest room he has ever seen but that the way is completely clear. He leads the investigators to the entrance of a breathtaking octagonal plaza stretching half a mile across.
+
+The walls and 70-foot-high ceilings are cast in stark, silent shadow, rows of arches on multple levels providing some kind of viewing out into the plaza.  The entire floor is composed of massive, 12+ foot wide octagonal stones that softly radiate an eerie blue light. The acoustic properties of the room are unsettling; despite the open space, the air feels muffled, as if lined with sound foam. Multiple tiers of entry arches line the far upper balconies of the chamber.
+
+Serafina tosses a rock onto the uniform floor; it simply skitters across the stones with no effect. Dr. Jack kneels and presses his ear flat against the glowing blue stone floor. Beneath the surface, vibrating from deep within the bowels of the earth, he hears the very slightest, ominous mechanical hum.
+
+### June 4, 1925 - TIME UNKNOWN but likely early afternoon - Blue Plaza
 
 
 1926
