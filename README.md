@@ -1693,7 +1693,7 @@ Australia:
 	Mortimer Wycroft - Outfitter in Cuncudgerie - basically the only game in town
 	Gertie, Shula, and Janice Wycroft - Daughters of Mortimer Wycroft, they actually run the outfitter shop at least with regard to interacting with the public
 	Derby Dave - welshman, presumed dead but actually alive, encountered on the Canning Stock Route, he mentioned "Jeremy" the crazed madman with a camp to the east of the dig site that he escaped (near MacWhirr's coordinates)
-	Jeremy - crazed dingo-loving white man who fled the Carver dig and has set up camp to the east
+	Jeremy Grogan - 36, insane miner and dreamer, crazed dingo-loving white man who fled the Carver dig and has set up camp to the east
 	"George" and friend - English-speaking Aborigines encountered on the Canning Stock Route, they had rescured an Aboriginal slave woman from the dig site
 
 ## ARTIFACTS
