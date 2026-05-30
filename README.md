@@ -2013,3 +2013,5 @@ Sessions:
 	2026-04-10 Port Hedland and Cuncudgerie
 	2026-04-17 Into the Great Sandy Desert along the Canning Stock Route
 	2026-05-01 Our Friend Jeremy and His Friends
+	2025-05-28 The City of the Great Race
+
