@@ -1609,8 +1609,79 @@ The walls and 70-foot-high ceilings are cast in stark, silent shadow, rows of ar
 
 Serafina tosses a rock onto the uniform floor; it simply skitters across the stones with no effect. Dr. Jack kneels and presses his ear flat against the glowing blue stone floor. Beneath the surface, vibrating from deep within the bowels of the earth, he hears the very slightest, ominous mechanical hum.
 
-### June 4, 1925 - TIME UNKNOWN but likely early afternoon - Blue Plaza
+### June 5, 1925 - late afternoon - Blue Plaza
 
+The group observes that the entire room is illuminated by a pure, eerie blue glow radiating from precisely cut and tightly laid stone tiles on the floor. There are no gaps between the stones, and they emit no heat or echoing sounds. The featureless ceiling is composed of plain neutral stone. There are 25 levels of arches, each standing 11 or 12 feet tall. While power cables run into the chamber from the south east and exit through the north west, no internal electric lights have been strung up inside the plaza itself.
+
+They have a look at the ground level arches around them and find that most are backed by solid stone, leaving only three true exits from the chamber. These include the wide northeast hallway they originally arrived from, a northwest passage where the generator hums, and an unexplored southwest passage.
+
+Serafina rolls successfully and catches the faintest whiff of smoke or cooking coming from the southwest corridor. Because of the smell of activity, Jack Brady expresses a strong preference for the northwest route. He explains that he wants to figure out what is going on while catching people unaware, rather than walking straight into a concentrated group of workers/cultists. Bradyalso doesn't want to split, noting that they shouldn't separate from whoever is carrying the "Model B" should they need it. Osmus makes a point of staying  behind Gus, who wields the device.
+
+### Purple Dome Temple of the Sand Bat
+
+Heading northwest along strings of hung lights for roughly two hours, about two miles. Eventually, they spot a purple glow emanating from a massive chamber entryway half a mile futher down the straight tunnel. The archway is wide open and stands no less than 50 feet tall and almost as wide.
+
+Serafina is able to make out a large block or altar inside the chamber behind which is a glowing source of purple light. Moving forward stealthily, Brady, Gus, Osmus, and Dr. Jack Moody creep closer to survey the room. The cavernous chamber spans at least 2,000 feet in diameter and is perfectly intact. In the exact center of the gray stone floor sits a smaller hemisphere, 500 feet in diameter, pulsating with a lava lamp-like purple light that casts shifting shadows across the room. Sticking out of the sand near the southern entrance is a human femur and a human skull fragment.
+
+Further in, they observe a three-foot-high stone altar that has been heavily marred and dragged into place, presumably by ropes, damaging the floor in the process. Ashes and charcoal from past fires rest directly in front of it. Towering behind the altar is a horrifying 25-foot-tall statue of the Sand Bat, constructed out of tree branches, human bones, cloth, wire, and layers of dried blood and paint. Five smaller, half-sized statues of the Great Old Ones flank the main effigy.
+
+The grotesque displays trigger sanity checks for the entering investigators. Gus suffers minor mental strain, while Jack Brady, though visibly rattled, manages to hold his composure. Dr. Jack approaches the statues for a hands-on inspection. Upon touching the materials, he feels intensely drained. Despite the sudden weakness, Dr. Jack uses his Mythos knowledge to identify the surrounding statues as the full significant pantheon: Cthulhu, Azathoth, Yog-Sothoth, Cthugha, and Shub-Niggurath. The Sand Bat itself is an incarnation of Nyarlathotep.
+
+### Guardians
+
+Immediately after his power is drained, Dr. Jack hears a wet, stirring sound echoing from within the 2,000-foot room. He quickly alerts the others.
+
+As they prepare to back out, Brady looks up at the ceiling and spots movement. He grips the nearest investigator by the shoulder and yells to book it out of the room. Dropping down from the apex of the 1000-foot-tall dome are three massive, wet-looking, eight-to-ten foot tall winged entities.
+
+Gus immediately hoists the Model B camera gun and pulls both triggers. Tendrils of otherworldly lightning skitter across the floor before rocketing into the ceiling. The electrical blast causes a massive explosion that shatters portions of the upper dome and completely roasts two of the entities. They explode into a shower of sticky, protein-rich frog goo that rains down across the chamber.
+
+The third creature, heavily smoldering but alive, squelches onto the ground and lunges directly at Dr. Jack. Brady draws his handgun and fires as he backs away, landing a shot that punctures the creature's side but fails to halt its advance. Osmus also fires his revolver, missing his first shot but piercing the entity's thick leg on his second, causing more black, jelly-like fluid to splatter out.
+
+Serafina and Lia, who were hovering at the southern tunnel entrance, witness the blinding flash and thunderous boom of the Model B. They sprint into the massive room to help. Serafina shouts to "give it everything you've got!" Lia attempts to provide long-range covering fire with her firearm but misses wildly due to the extreme 800-foot distance.
+
+The smoldering creature closes in on Dr. Jack, flapping its faceless, mouthless head and reaching forward with wings lined with gruesome little spikes. Instead of dodging, Dr. Jack stands his ground, places his gun directly against the creature's slimy, toad-like flesh, and pulls the trigger twice. The point-blank gunfire blasts black muck out of the monster's back. The creature manages to wrap its heavy leathery wings around Dr. Jack, attempting to drag him backward toward the statues. Brady fires again twice but misses. Serafina and Lia are still racing into the melee.
+
+Gus swings the spiked Black Pharaoh club and misses, then pauses to slip on his skin shoes. Gus utilizes the incredible speed of his skin shoes, sprinting four to five times faster than normal to rush the beast, he overshoots but manages to land a blow. Brady delivers another well-targeted shot into the creature's side, visibly disorienting it. Trapped in the fatty, reeking wings, Dr. Jack presses his firearm back against the mass and fires again. This final bullet causes the creature to crumble into an inert, deflated heap of wet leather.
+
+Lia studies the aftermath and deduces that these creatures match the giant, bird-like entities they previously observed from the train. She reasons that the monster was purposefully trying to press Dr. Jack against the statues for some reason.
+
+### Unraveling Plans and Making Camp
+
+With the guardians dead, the party turns their attention to the stone altar and the statues. Serafina and Lia suffer minor sanity strain from witnessing the bone-and-twig assemblages up close. Dr. Jack explains his horrific realization to the group: These statues are conductors and storehouses of life force, victims are likely beaten to near death on the altar before their souls are processed by the statues. He cautions that destroying them while they are heavily charged could trigger a dangerous backlash, but he doesn't know if they are charged, or if they are merely conduits to the glowing center dome.
+
+Brady listens intently, processing a grim realization of his own. Dr. Jack intuits that Brady is realizing his entire grand strategy is unraveling; if Grey Dragon Island is even lightly armed with Model B lightning weapons, his planned frontal assault with machine guns would have resulted in instant slaughter. He is now worried that even if he kills Huston, and hunts down Bunay, confronting and stopping Penhew may be impossible.
+
+There's a lot more discussion about whether to destroy the statues. On impulse, Brady grabs Gus’s club and smashes the smallest statue, knocking it over and clubbing it. Nothing happens. Dr. Jack watches the 500-foot central dome closely, but the pulsing purple light shows no reaction to the minor destruction. Rather than burning the structures and risking smoke inhalation or sealing off their paths, the investigators spend time thoroughly smashing the remaining bone-and-twig monuments into pieces without touching them directly.
+
+By the time the demolition is finished, wristwatches indicate it is late evening. Refusing to camp inside an active cult temple, the party decides to push forward along the northwest tunnel to find a safer location.
+
+### The Building and Work Crews
+
+As they march, the group spots a major intersection ahead and immediately cuts their lights. At the nexus sits a newly built, three-story wooden frame building with interior lights visible on every floor. Seeking a safe hiding spot, they slip into the sub-basement ruins of an ancient Yithian structure adjacent to the corridor to set up a cold, dark camp.
+
+Around 7:00 PM, a 13 person work party marches past their hiding spot, traveling from the northwest toward the southeast. The group consists of several Caucasians supervising roughly ten Aboriginal workers. The workers wear dirty overalls and shuffle with a zombified, hypnotized gait. Over the next two hours, two more similarly composed parties pass by before the traffic peters out at 9:00 PM. Around midnight, a sharp-eared Gus hears the hidden Model B camera weapon mysteriously click several times in the darkness before falling silent again.
+
+By 8:00 AM the next morning, Brady returns from a brief scouting trip with a warning. They are stuck in a dangerous commuter window; they do not know the cult's schedule or when the zombified work crews will head back north. Osmus points out that they will inevitably run into people regardless of their choice, but notes a tactical blunder: "We left a calling card basically saying someone's here fucking your shit up.”  By destroying the temple statues and blowing up the guardians, the cult will undoubtedly be on high alert. Brady agrees that going forward to face whoever is at the wooden building is better than backtracking into consecutive work crews.
+
+### Chaos
+
+The group creeps back toward the crossroads in total darkness. From their vantage point, they can see four silhouettes standing outside the illuminated three-story wooden structure: three young women and a smaller man. 
+
+Osmus decides to quietly reconnoiter the ground floor of the wooden building. Brady holds one end of a rope to keep tension and guide him back through the dark. However, Osmus fumbles his stealth roll. As Gus and Osmus draw near, a woman's voice cuts through the darkness: "Look what the desert wind dragged in." It is Janice, one of the Wycroft sisters. "You should have minded your own business," snaps Shula, the second sister. The third sister steps forward, leveling a shotgun: "You'll be wanting to drop your weapons before you do anything else."
+
+Brady reacts and uses his knife to slice the main electric cord running along the hallway, instantly plunging the corridor into pitch blackness. Directing Ossmus and then others to form into a human chain, Brady counts their paces in the dark, leading them up an exterior stone ramp of an adjacent building for elevated positioning and cover.
+
+Safe for the moment, the party listens as the Wycroft sisters shout loudly in the distance, seemingly coordinating a search party.  After an hour or so, the entire tunnel begins to vibrate with a low, bone-shaking frequency below the range of normal hearing. A sour, sulfuric odor fills the air, accompanied by a heavy, wet slapping sound like a damp towel being violently whipped against a concrete butcher block. Layered over the clumsy, immense flapping is a high, piercing, wreaking whistle. The unseen entity passes directly by the party's hiding spot, tracking further up the northern tunnel. Moments later, shouting echoes from the northern intersection, followed by two distinct shotgun blasts, more screaming, and then sudden silence.
+
+Taking a rope offered by Brady as a guide, Ossmus creeps back to the edge of the corridor to investigate. Suddenly, an incredible boom and a blinding flash of white lightning erupts from the northwest, illuminating the entire hallway. Someone near the wooden building has fired another Model B weapon. A moment later, a loud, whistling howl echoes from the north, followed by a second, monstrously larger electrical explosion that violently shutters the stone walls - many times greater than the previously experienced blasts.
+
+Realizing the cultists are completely distracted by a massive internal threat, the group agrees to move north to exploit the chaos. As they cautiously approach the illuminated plaza, they hear the northern Westinghouse generator screeching as if under direct mechanical assault.
+
+Through the corridor opening, the investigators witness a terrifying sight. Hovering directly over the generator is a colossal, semi-transparent entity. Its roiling, amorphous mass constantly distorts the light behind it, revealing a floating cluster of tentacles and multiple mouths packed with rounded, sharp teeth. The creature keeps itself airborne by flapping leathery appendages and forcefully jetting air out of numerous orifices.
+
+The entity is aggressively tearing at the generator while training its multi-headed gaze onto Janice Wycroft, who stands frozen with her shotgun. Looking across the blood-splattered plaza, Osmus spots a horrific detail: a pile of blonde hair and severed body parts confirming that at least one of the other Wycroft sisters has already been completely torn to shreds.
+
+With the generator on the verge of destruction and the plaza about to be plunged into permanent darkness, Brady screams over the din, "Kill that thing!" Gus hoists his Model B lightning weapon, aims it directly at the floating monstrosity's face, and prepares to pull the triggers.
 
 1926
 
@@ -2018,4 +2089,4 @@ Sessions:
 	2026-04-17 Into the Great Sandy Desert along the Canning Stock Route
 	2026-05-01 Our Friend Jeremy and His Friends
 	2025-05-28 The City of the Great Race
-
+	2026-06-05 Flying Polyps
