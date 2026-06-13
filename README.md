@@ -1683,6 +1683,8 @@ The entity is aggressively tearing at the generator while training its multi-hea
 
 With the generator on the verge of destruction and the plaza about to be plunged into permanent darkness, Brady screams over the din, "Kill that thing!" Gus hoists his Model B lightning weapon, aims it directly at the floating monstrosity's face, and prepares to pull the triggers.
 
+### June 6, 1925 - mid-morning - just outside the wooden building (+monster)
+
 1926
 
 	January 14th - THE END OF THE WORLD (per Larkin: "This world ends" just before he died)
