@@ -1665,7 +1665,7 @@ By 8:00 AM the next morning, Brady returns from a brief scouting trip with a war
 
 ### Chaos
 
-The group creeps back toward the crossroads in total darkness. From their vantage point, they can see four silhouettes standing outside the illuminated three-story wooden structure: three young women and a smaller man. 
+The group creeps back toward the crossroads. From their vantage point, they can see four silhouettes standing outside the illuminated three-story wooden structure: three young women and a smaller man. 
 
 Osmus decides to quietly reconnoiter the ground floor of the wooden building. Brady holds one end of a rope to keep tension and guide him back through the dark. However, Osmus fumbles his stealth roll. As Gus and Osmus draw near, a woman's voice cuts through the darkness: "Look what the desert wind dragged in." It is Janice, one of the Wycroft sisters. "You should have minded your own business," snaps Shula, the second sister. The third sister steps forward, leveling a shotgun: "You'll be wanting to drop your weapons before you do anything else."
 
@@ -1684,6 +1684,70 @@ The entity is aggressively tearing at the generator while training its multi-hea
 With the generator on the verge of destruction and the plaza about to be plunged into permanent darkness, Brady screams over the din, "Kill that thing!" Gus hoists his Model B lightning weapon, aims it directly at the floating monstrosity's face, and prepares to pull the triggers.
 
 ### June 6, 1925 - mid-morning - just outside the wooden building (+monster)
+
+Gus stands at the entrance of the southern passageway, about twenty meters away from the three-story wooden headquarters, and stares into the illuminated plaza. Over the Westinghouse generator, an immense, semi-transparent flying polyp is aggressively tearing at the machine. Its roiling, amorphous mass shifts constantly between translucent and opaque, revealing a cluster of tentacles and multiple tooth-filled mouths. Nearby, Janice Wycroft stands frozen in terror next to the mangled, shredded remains of her sister. The polyp's many faces are either looking at her or the generator.
+
+Gus hoists the Model B, aims it directly at the floating monstrosity, and squeezes both rubbery triggers. The chamber fills with an agonizing, screeching harmonic whine that escalates past the threshold of human hearing, compressing the very air. A blinding, jagged arc of blue-white electricity violently erupts from the crystal lens with a deafening thunderclap that sets the cavern floor trembling. As the blinding glare fades into glowing violet-orange after-images, the polyp is visibly wounded; portions of its translucent, slithering flesh are charred, dropping to the stone floor in splattering, wet clumps. 
+
+The colossal entity disengages from the screeching generator and turns its multi-headed focus entirely toward Gus, letting out a high, piercing whistle as it forces its way through the air. Janice Wycroft screams, "If the lights go out, this will not be the only one!" She completely abandons whatever she is doing, spins on her heel, and bolts in a blind sprint down the western passage.
+
+Gus lets loose a second blast. This time the creature looks meaningfully hurt.
+
+The polyp begins to buffet the investigators with an immense vortex of controlled air current, creating a peculiar sucking effect that curls around them and traps most of the group in place. While the others struggle against the wind, Serafina drops to the ground and aggressively stabs her knives into the stone floor like ice picks, successfully clawing her way backward into the dark, unlit southern tunnel to get away from the creature.
+
+Taking advantage of the distraction, Ossmus sprints up the exterior ramp of the headquarters to the second floor and flings open the sliding barn door. Inside, he finds a series of ad hoc cages welded out of dirty steel rails, packed with terrified prisoners—mostly Aboriginal Australians, along with a few Caucasians and one Black man. At the sight of Ossmus, the prisoners set up a great, unified moaning and wailing. Rather than dealing with the cages, Ossmus leaves them for "future him," turns around, and races up to the third floor, slamming open the sliding door to the main office. Immediately next to him is sees the creature, which has moved to the front right side of the building, hovering at the same height that Ossmus finds himself. 
+
+Jack Brady screams to Gus, "Go left!" before turning on his heel to run a few steps back into the passage and escaping up an exterior stone ramp into an adjacent Yithian building for elevated cover. Gus, utilizing the incredible, accelerated speed of his preserved skin shoes, sprints northward toward the buildings to get a better angle before turning to face the passage again.
+
+The flying polyp follows, aggressively moving down the center of the lit passage at a remarkable speed, considering how wounded it appears to be, completely bypassing Gus as it tracks the remaining investigators. Finding himself safely behind the creature's advance, Gus hoists the Model B lightning gun a third time and fires. Another blinding flash and deafening boom echo through the stone corridor as the lightning bolt smacks directly into the center of the polyp. The impact is catastrophic; tentacles and faces are blasted clean off the entity, and parts of its mass burst into putrid, jetting flames. It lets out a horrible, echoing wail, yet somehow manages to remain airborne. As Gus releases the triggers, he feels a distinct, heavy electronic thunk vibrate through the nodules of the non-human weapon.
+
+Down in the tunnel, Lia and Dr. Jack Moody finish splicing the severed electrical lines just as Gus's final blast illuminates the corridor. With the giant, flaming entity still floating past them only a few meters away, the two of them dive sideways into the shadows of the ancient Yithian ruins to hide.
+
+### TODDY
+
+Heading to the third flooow, apparently an office-living quarters, Ossmus finds himself in a large, draped room divided into a workspace, a kitchen, and a sleeping area. A large desk faces the doorway, surrounded by heaps of document cases containing ancient what are apparently Yithian star charts and other unintelligible documentation. He also notices a man standing nervously behind the door next to a table with fresh, hot tea. The man is middle-aged, medium-built, incredibly pale, and dressed in neat khaki bush gear.
+
+The man immediately puts his hands up and says, "Please do not hurt me. I will help you if you are here for Carver. I will gladly help you hunt him down and get him under control. My name is Toddy Randolph." The owner of Randolph Shipping.
+
+Ossmus, aggressively suspicious, keeps his gun trained on the man's nose and performs a thorough pat-down, lifting no weapons and no wallet—only a pair of eyeglasses. Lia and Dr. Jack, having escaped the tunnel, follow the shouting upstairs to join them.
+
+The pale man protests his innocence, maintaining he is merely an alcoholic shipping clerk from Darwin who was kidnapped by John Carver's men after his worker, Billy Burraglong, accidentally dropped and split open a special cult crate containing an intricate system of silvered optics and polished mirrors. Randolph claims Carver threw a sack over his head and brought him to this underground city to manage logistics for a massive digging operation.
+
+"I've seen things that defy any rational framework of the human mind, things that reduce our petty little concepts to dust," Randolph rants, describing the blue-glowing octagonal plaza, the purple-lit Sand Bat temple, the twisting stars, and a mile-tall faceless silhouette climbing out of the earth. "We cannot stay on this floor," he insists, "the workers will be coming soon."
+
+Serafina and Gus join the group upstairs after a quick sweep of the ground floor. While Serafina remains deeply unconvinced by Randolph's story, Dr. Jack bypasses her paranoia to investigate a padlocked metal locker on the ground floor. Finding a hacksaw among the mining tools, Dr. Jack spends the next ninety minutes grinding methodically through the hardened padlock until it snaps open, revealing forty-eight fresh sticks of dynamite, fuses, blasting caps, and a manufacturer's manual.
+
+Upstairs, Ossmus executes a thorough search of the office. He uncovers a letter from Edward Gavigan, a .45 caliber revolver (which he uses to replace his .38), an etched (with strange symbols) copper bowl, a dunce-cap-shaped metal helmet with three protruding wires with little pads at the end, a second Model B lightning gun, and a high-quality marine chronometer (set to -8H) identical to the ones found at the Ju-Ju House and Omar al-Shakti's mansion. Dr. Jack promptly smashes the chronometer, but not before setting his own wristwatch to its specific, eight-hour-back GMT offset. Ossmus also pockets a 600-page typed manuscript titled Gods of Reality.
+
+### BIRTH
+
+When Toddy demands to be untied, aggressively claiming he can see the "fractures" in their minds and that they are "terrified and small," Ossmus loses his patience, smacks him across the face with his revolver, and ties his feet securely to the desk chair, pushing him into the middle of the room. Dr. Jack administers a heavy dose of opiates to the prisoner to sedate him and make him suggestible. Toddy says "that feels niiice." They fail to hypnotize him, and fail to really even get a read on him. This makes them feel even more that something is wrong.
+
+While the interrogation stalls, a horrific commotion erupts from the second-floor cages. Dr. Jack and Ossmus wheel the sedated Toddy in his chair down to the prison bay to investigate. Inside one of the cages, a man with a hard, distended belly is writhing on the floor, shrieking in agony.
+
+Suddenly, the man stops screaming. A loud ripping sound echoes through the room as his side splits wide open, pouring out black fluid, congealed blood, and greenish mucus onto the floor. A wet, green, reptilian, bat-like creature comes sliding out of the gory carcass and begins making shrill, piercing noises on the cage floor.
+
+Toddy kicks his feet in his chair, trying to escape the encroaching pool of slime. He drops his act entirely, his voice hardening as he stares at the investigators.
+
+"Go ahead. Keep threatening me. Tell me what you'll do to poor old Toddy if I don't behave. But ask yourself this: if your big American protector is gone and dragged down the shaft by a whistling nightmare you can't even see — and this man's lightning gun is not going to save you. It's already cooking itself to pieces, and you are left here huddling with me, looking at this horror, clutching your cheap little revolvers completely blind to the fact that every single step you've taken out into the desert was precisely calculated before your grandparents were even a glint in the eye."
+
+He catches himself, his eyes widening as he slips back into a daze. "It's happening again... It's this place. This place gets to you. It's making me crazy. I hear Carver's voice in my head."
+
+### BLOWING UP THE BUILDING and (some of) THE GOODS 
+
+The investigators don't even spend the time to determine whether the cages cannot be opened, instead deciding that the prisoners are doomed.  Each investigator pockets four sticks of dynamite, fuses, and blasting caps, while they use the rest to wire up the building. 
+
+Downstairs, Lia hears a large gathering of voices chanting in unison from the upper floors, followed by a loud, ominous snapping sound. Working quickly, the investigators pile petrol drums and wooden crates around the ground floor, rig the dynamite with a two-minute fuse, light it, and sprint blindly into the western passage.
+
+Halfway down the lit corridor, Ossmus panics, shouting, "Oh my God, the generator!" Realizing the explosion is imminent, they increase their speed. Lia takes a moment to remember they didn't open the crates. A moment later, a tremendous, white-hot explosion rips through the headquarters behind them, shaking the stone walls and sending massive clouds of billowing black smoke rolling everywhere.
+
+The investigators run for several minutes until they reach a major intersection where the lights—powered by a separate generator — are still functioning. Lucky. The main passageway continues to the southwest, while a side passage tracks to the southeast.
+
+Gus slips on his magical skin shoes, sprinting down the southeast passage at exaggerated speed to scout ahead. A mile down the corridor, the lines of electrical lights lead him to the first of three gray stone-clad rooms decorated with more ancient curvilinear symbols. Entering the first room, Gus finds a massive jumble of alien crates and machinery, interspersed with orthodox human electronics — transformers, junctions, fuse boxes, and vacuum tubes — and many other things, unidentifiable, and similar to the components both found in their original form and reverse-engineered by Henson Manufacturing in England, as he saw in the vault at Henson.
+
+Gus turns on his heel and sprints back to the intersection to report his findings to the waiting group, preparing to explore the remaining chambers.
+
+### June 6, 1925 - mid afternoon - western tunnel from the HQ, at intersection
 
 1926
 
@@ -2092,3 +2156,4 @@ Sessions:
 	2026-05-01 Our Friend Jeremy and His Friends
 	2025-05-28 The City of the Great Race
 	2026-06-05 Flying Polyps
+	2026-06-12 Blowing Up Toddy
