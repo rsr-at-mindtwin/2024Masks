@@ -1749,6 +1749,110 @@ Gus turns on his heel and sprints back to the intersection to report his finding
 
 ### June 6, 1925 - mid afternoon - western tunnel from the HQ, at intersection
 
+The party reunites at the generator intersection. Gus comes turbo-sprinting up from the southeast passage at an exaggerated speed, due to his magical skin shoes, without crashing into anyone.
+
+Sarafina asks what he found: "Yeah, I found a room full of weird shit." He describes the twenty-foot-square room packed with a jumble of crates and parts. Much of it is of unknown, highly advanced earthly or completely alien design, lacking any manufacturer marks. Some components look familiar — power supplies, transformers, junctions, fuse boxes, and unorthodox vacuum tubes from Germany or Britain — but the rest is inexplicable. The vibe is eerily similar to what they previously witnessed at Henson Manufacturing in England. Furthermore, Gus notes an opening leading into a second, well-lit area that he didn't explore yet.
+
+Jack Brady is still missing, Ossmus thinks he will show up again. They decide to leave the generator area and explore the ?storage room? together.
+
+Upon entering the first storage room, the group begins pawing through the scattered mess. Osmus tries to lift some of the inexplicable alien objects and notices they are crazy dense, weighing roughly 25 to 30 pounds each. He also observes that on one side of the room, some of the items are still embedded in rock or sand, having been excavated, while on the other side, they have been progressively sorted and cleaned up.
+
+Lia inspects the artifacts closely. While she cannot decipher the strange symbols etched into some of the pieces, she definitively recognizes them as Yithian symbols.
+
+Avoiding the temptation to leave just yet, Gus leads the way into the second room, which opens up into a massive forty-foot-square laboratory. Inside dominates an enormous black control board covered with knobs, dials, handles, displays, and an impressive array of relays and junctions flanked by monitor lights and gauges. A portion of the panel is empty, with conduits dangling openly where a component has clearly been removed.
+
+Built directly into the control panel is a comfortable leather daybed reminiscent of a Freudian analysis couch. Resting on it is an elaborate chromium headset and a series of handheld controls connected by a long strand of silverish wire. Nearby stands a grim operating table equipped with leather and reinforced metal restraints for the head, feet, and body. The table is visibly stained; a closer look reveals it was wiped clean but bears the marks of someone having a horrific physical reaction while strapped down. A second headset—this one a metal dunce-cap style helmet with three protruding wires, triangular pads, and an internal corkscrew of copper wire—dangles near the table, its cables wired directly into the control board. At the very back of the large chamber, a dimly lit archway reveals faint, shimmering shadows.
+
+Dr. Jack Moody, feeling a stroke of mechanical insight, searches the cleaned-up pile in the first room and finds a part that seems to fit the empty slot on the console. Without consulting the others, he wires it into the bench control panel. The console rewards him with a strange blurb sound.
+
+"I want to put the headset on" - this is Dr. Jack. He lays back on the leather daybed and pulls the chromium headset over his brow. At first, nothing happens.
+
+"Flip a few of those knobs over there" he directs Gus.
+
+Gus flips the shiteiest knobs, toggling the alien switches.
+
+The machine surges to life. Jack isn't feeling so strong at the moment, pushes his luck, and the strain on his mind is cataclysmic. He feels sudden insight as his mind cracks under the alien device, growing less sane rapidly.
+
+Jack immediately drops into a state of temporary insanity, growling on the couch as if something has gone terribly wrong. In his mind, he has fled the room in absolute panic, but physically, his body remains anchored to the daybed. Suddenly, the growling stops. Jack looks up, his eyes panning over Lia, Gus, and Sarafina.
+
+"Oh yes, old friends," Jack says, though the voice coming out of his mouth is chillingly familiar. Sarafina recoils, realizing he sounds exactly like the deceased Robert Huston, alias Larkin.
+
+"Would you like your friend back?" the Larkin-Jack creature asks with a smirk. He looks down at Jack's clothes and mutters, "This is Australia," pieces together his surroundings.
+
+Sarafina tries to step forward to yank the headset off, but she finds herself physically unable to get close to him. The entity fixes its gaze on her. "The last I saw you was under the sphinx. It would not do to come too closely. Your friend tried to kill my bride."
+
+Gus doesn't hesitate. He reaches for the master control board to pull the wires. Before his hand even touches the console, Dr. Jack’s body flops backward, and the entity vanishes. Jack snaps back into his own consciousness, completely unnerved and breathing heavily. 
+
+### The Great Race of Yith
+
+The group turns their attention to the locked fuse box to the right of the archway. Dr. Jack pops the combination lock open instantly, revealing four switches and four fuses. None of them are labeled.
+
+Not wanting to lose the lights at the same time as the containment field, everyone agrees to be cautious.
+
+They flip one switch after another reducing/impacting the shimmering light field. Ossmus throws a rock into the archway to test it; the moment it hits the field, the rock violently explodes like a bug zapper connected to a 240-volt socket. Ossmus flips the third switch, rendering the field completely threadbare, before the containment wall snaps off entirely. A powerful U-shaped ring light overhead clicks on, illuminating a massive fifty-foot-square chamber.
+
+The shadow inside is no longer a shadow. The creature begins to move immediately, flailing its large claws and tentacles. It is an enormous, twelve-foot-tall conic entity tapering toward the top, sporting a tentacled head with three eyes.
+
+Sarafina gets a sudden wave of intense disorientation. She remembers the dream she had back at the boarding house — a long hallway of shelves and a cone-like shape looming around the corner before the floor dropped out. This is exactly what she saw. With a critical success on her Mythos knowledge, she gasps, "I know what this is. These are the Great Race. They were the Yith." She explains to the bewildered party that they are a species of time-traveling mental entities who fled their own world's destruction millions of years ago, only to be exterminated by the flying polyps.
+
+The Yithian homes in on Gus (the tallest member of the group). Suddenly, a feminine voice echoes directly inside Gus’s mind in perfect English: "Thank you for turning off the field. I was quite bored. The fuse box, please leave the fuse box off. Please ask him to move aside and not change the settings."
+
+Jack closes the fuse box. The creature, satisfied, glides toward the rear wall, its base moving with tiny, rapid steps. It touches the stone, and a previously-unseen giant door slides open, revealing a descending ramp.
+
+The creature explains that it is Kakakatak, a Yith. It thanks him for turning off the field and says (psychically) it will depart now.
+
+Gis asks it to wait, asking for help fighting these things.
+
+Kakakatak rotates her head 180 degrees to face him, and replies, "Come please."
+
+The investigators follow her down the long ramp into a lower, better-preserved level of the ancient city. As they walk, Kakakatak tirelessly rifles through Gus's mind. "That was very tedious. I slept much, but I also thought much. I was quite bored. I will read your mind to see what kind of creature you are..."
+
+At the bottom of the ramp, Kakakatak opens a wall panel revealing shelves of equipment. Using her tentacles, she begins taking and then handing Gus package after package — eight sealed cloth bags in total. Inside them, Gus feels the familiar shape of the Model B weapon. He stacks them on the floor as she hands them off.
+
+"How many shots can you put in this fire and how can you recharge?" Gus asks.
+
+“When fully charged, 23 shots, unless you combine the shots, at which point, maybe seven shots. Sometimes they become dysfunctional; you must throw them away at that point."  She uses her claws to rip the packaging off three more weapons she keeps for herself, holeding them in distributed tentacles.
+
+Asked whether they can be recharged, she sasys that they of course can be, but as there is no one alive anymore to do so, they will not be.  She announces that she must go to the library.
+
+Gus asks if they can come along. She directs them to follow, noting that as the biggest he is the leader. She says that they may clear things out of her way as she would otherwise have a lot of trouble navigating over debris; her physique is not something to clear or climb rubble. She directs Gus that she will need someone to clear rubble for me and that's the party.
+
+Gus agrees, aloud, to clear the rubble. Dr. Jack, desperate to make his own telepathic connection, stands on a pile of rocks to match the Yithian's height, but Kakakatak ignores him entirely, keeping her psychic link strictly with Gus. Gus suggests the others might learn faster. "Others could, especially with the machines, be taught. Even the slow ones." She glances toward Sarafina, the shortest of the group.
+
+Kakakatak opens another building, has them clear a ramp and them as soon as it is cleared enough, glides into a building which is a sprawling library filled with endless shelves of metal and crystal shapes, taking one after another and scanning them rapidly. Gus presses her, explaining that humans are trying to summon the very forces that destroyed her people.
+
+She agrees, noting that she remembers that had occurred. "Not a pleasant time. This place, all gone."  She notes that he is referring to the opening of the great gate. From her point of view, it is all ancient history, as she has projected forward. The gate certainly has been opened and obviously this entire world has been destroyed.  She says that she has to do her research and as such she has little time and must complete the knowledge gathering before she "retires."
+
+To make Gus understand, Kakakatak floods his mind with a rapid torrent of psychic visions, some of it rifled through:
+
+* He sees Father Rory O'Sullivan in a ship's cargo hold, standing over Larkin, who warns: "On January 14th of 1926, this world ends."
+* He sees Agatha Broadmoor screaming as she is murdered, but she is possessed, speaking in a male voice: "You are walking into the oldest lie that Black Pharaoh ever told. All masks serve the master. They all lead back to him. The Queen is real and they are waking her. The chamber is not a tomb."
+* He flashes to Jackson Elias' ghost in the seance, stating: "The greatest weapon is in Australia, but it's a weapon that destroys everything. At the mountain of the Black Wind, you must find the woman. The Great Temple was at the mountain."
+* He sees Mu Hsien at Chong Ning's reading the purple star astrology: "The sky is destined to tear asunder, permitting endless evils to flood the waking world. Yet witness also three great keys and three great points which lock the sky and let the world be kept safe behind the light and darkness."
+* Finally, he has a terrifying vision of New York City outside the building where Jackson Elias died. A great white rip tears open the sky. People throw themselves to the ground in panic as a sudden bout of madness blankets the world - it begins raining bodies from balconies and windows, while others turn instantly violent, rendering the entire world completely insane. It is the end.
+
+Gus snaps out of the vision. Kakakatak, still absolutely neutral, says that she will need help with clearing rubble, as he can see she is not well suited to doing so. There’s much rubble, I have much research to do. She asks "What would you trade?"
+
+Jack asks aloud, "How much rubble clearing would it take to get the answer to save the world?"
+
+Kakakatak calculates. Gus picks that up in his mind. She says: "I need 11 weeks of rubble clearing" and tries some bribery: "I would be able to incrementally over that period provide education." She offers to convey some of her immense wealth of knowledge in astronomy, biology, chemistry, geology, physics, Cthulhu Mythos, electronics, the occult, and dead languages.
+
+They don't think they can take 11 weeks. They need to find Brady, but they also need to move on. 
+
+Kakakatak bargains, offering a compromise. If they clear the rubble blocking three nearby buildings to keep her from being stalled for the next 40 hours, she will help them find their friend by sharing knowledge. The party agrees to spend the next hour or two clearing the immediate ramp.
+
+While they dig, Kakakatak rifles through Gus's mind again, he finds he now knows elementary Chinese, though the mental translation matrix leaves him feeling deeply nauseous. She provides a logic analysis of Jack Brady's location: Brady likely returned to the headquarters area or the current excavations to find help, unaware that the lower passages were blocked. She notes that the bulk of the cultists will be at the current excavations at this time of day, as the workers don't head south to the bunkhouse until around 7:00 PM. She conveys to Gus, who scribbles it down, the entirety of the upper level of the Great City.
+
+Before they depart, Kakakatak imparts a final psychic warning regarding the locations Gus saw on the map:
+
+* The Nursery is "Bad, very bad, no."; She warns that though they hear what sounds like human babies crying, the entities inside are grotesque, physical manifestations of the Sandbat similar to the terrifying guardians they encountered before.
+* The Titan Horror is bad but perhaps not dangerous - she shows a massive, inert, creature. Gus realizes this colossal entity is the "Buddai" that Johnny Big Bush has been preaching about, the one destined to rise up and devour the world. Kakakatak notes it is not dangerous to pass, "except to witness."
+
+With their hour of labor finished and eight Model B weapons secured, the investigators prepare to head north toward Robert Huston's destroyed headquarters to locate Jack Brady and scout the current excavations.
+
+### June 6, 1925 - very late evening - departing the lower level 
+
+
 1926
 
 	January 14th - THE END OF THE WORLD (per Larkin: "This world ends" just before he died)
@@ -1916,6 +2020,7 @@ Australia:
 	Derby Dave - welshman, presumed dead but actually alive, encountered on the Canning Stock Route, he mentioned "Jeremy" the crazed madman with a camp to the east of the dig site that he escaped (near MacWhirr's coordinates)
 	Jeremy Grogan - 36, insane miner and dreamer, crazed dingo-loving white man who fled the Carver dig and has set up camp to the east
 	"George" and friend - English-speaking Aborigines encountered on the Canning Stock Route, they had rescured an Aboriginal slave woman from the dig site
+	Kakakatak - a 50,000,000 year old female Yithian knowledge collector that eschewed the usual Yithian psychic time travel for a one-way ticket to 1920s Australia to gather knowledge from the Great City to project forward to her peers before she is terminated by the events of the opening of the Great Gate
 
 ## ARTIFACTS
 
