@@ -1841,17 +1841,16 @@ They don't think they can take 11 weeks. They need to find Brady, but they also 
 
 Kakakatak bargains, offering a compromise. If they clear the rubble blocking three nearby buildings to keep her from being stalled for the next 40 hours, she will help them find their friend by sharing knowledge. The party agrees to spend the next hour or two clearing the immediate ramp.
 
-While they dig, Kakakatak rifles through Gus's mind again, he finds he now knows elementary Chinese, though the mental translation matrix leaves him feeling deeply nauseous. She provides a logic analysis of Jack Brady's location: Brady likely returned to the headquarters area or the current excavations to find help, unaware that the lower passages were blocked. She notes that the bulk of the cultists will be at the current excavations at this time of day, as the workers don't head south to the bunkhouse until around 7:00 PM. She conveys to Gus, who scribbles it down, the entirety of the upper level of the Great City.
+While they dig, Kakakatak rifles through Gus's mind again, he finds he now knows elementary Chinese, though the mental translation matrix leaves him feeling deeply nauseous. She provides a logic analysis of Jack Brady's location: Brady likely returned to the headquarters area or the current excavations to find help, unaware that the lower passages were blocked. She notes that the bulk of the cultists will be at the current excavations at this time of day, as the workers don't head south to the bunkhouse until around 7:00 PM. She conveys to Gus, who scribbles it down, the entirety of the upper level of the Great City. She does not, however, really understand how the destruction of the HQ would impact these conclusions. 
 
 Before they depart, Kakakatak imparts a final psychic warning regarding the locations Gus saw on the map:
 
-* The Nursery is "Bad, very bad, no."; She warns that though they hear what sounds like human babies crying, the entities inside are grotesque, physical manifestations of the Sandbat similar to the terrifying guardians they encountered before.
-* The Titan Horror is bad but perhaps not dangerous - she shows a massive, inert, creature. Gus realizes this colossal entity is the "Buddai" that Johnny Big Bush has been preaching about, the one destined to rise up and devour the world. Kakakatak notes it is not dangerous to pass, "except to witness."
+* The Nursery is "Bad, very bad, no."; She warns that though they hear what sounds like human babies crying, the entities inside are grotesque, physical manifestations of the Sandbat similar to the terrifying guardians they were attacked by in the purple temple.
+* The Titan Horror is bad but perhaps not dangerous - she shows a massive, inert, creature. Gus realizes this colossal entity is the "Buddai" that Johnny Bigbush has been preaching about, the one destined to rise up and devour the world. Kakakatak notes it is not dangerous to pass, "except to witness."
 
-With their hour of labor finished and eight Model B weapons secured, the investigators prepare to head north toward Robert Huston's destroyed headquarters to locate Jack Brady and scout the current excavations.
+With their hour of labor finished and eight Model B weapons secured, the group prepares to head north toward Robert Huston's destroyed headquarters to locate Jack Brady and scout the current excavations.
 
-### June 6, 1925 - very late evening - departing the lower level 
-
+### June 6, 1925 - very late evening - departing the lower level (or camping out)
 
 1926
 
@@ -2020,7 +2019,7 @@ Australia:
 	Derby Dave - welshman, presumed dead but actually alive, encountered on the Canning Stock Route, he mentioned "Jeremy" the crazed madman with a camp to the east of the dig site that he escaped (near MacWhirr's coordinates)
 	Jeremy Grogan - 36, insane miner and dreamer, crazed dingo-loving white man who fled the Carver dig and has set up camp to the east
 	"George" and friend - English-speaking Aborigines encountered on the Canning Stock Route, they had rescured an Aboriginal slave woman from the dig site
-	Kakakatak - a 50,000,000 year old female Yithian knowledge collector that eschewed the usual Yithian psychic time travel for a one-way ticket to 1920s Australia to gather knowledge from the Great City to project forward to her peers before she is terminated by the events of the opening of the Great Gate
+	Kakakatak - age unknown - a female Yithian knowledge collector (from approximately -50M years ago) that eschewed the usual Yithian psychic time travel (on this occasion) for a one-way physical ticket to late 1910s Australia to gather knowledge from the Great City on Earth as it cannot be gathered remotely. When she has finished gathering knowledge from the city's libraries, she will project forward to the distant future to rejoin peers before she is physically terminated by the events of the opening of the Great Gate a few months hence. She has knowledge of the future having projected forward previously and has historical knowledge of the Great Gate having opened and destroyed human civilization on Earth.
 
 ## ARTIFACTS
 
@@ -2262,3 +2261,4 @@ Sessions:
 	2025-05-28 The City of the Great Race
 	2026-06-05 Flying Polyps
 	2026-06-12 Blowing Up Toddy
+	2026-07-10 Meeting Kakakakatak
