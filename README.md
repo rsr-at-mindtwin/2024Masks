@@ -1850,7 +1850,69 @@ Before they depart, Kakakatak imparts a final psychic warning regarding the loca
 
 With their hour of labor finished and eight Model B weapons secured, the group prepares to head north toward Robert Huston's destroyed headquarters to locate Jack Brady and scout the current excavations.
 
-### June 6, 1925 - very late evening - departing the lower level (or camping out)
+### June 6, 1925 - very late evening - departing the lower level 
+
+The group decides to move cautiously back toward the destroyed headquarters in order to head either north to the excavation site or back down towards the bunk house. They keep to the underground level. They are doing this based on Kakakatak's feedback as to the likely locations of Jack Brady. 
+
+The group emerges into the hall between the Purple Temple and the HQ. It is a scene of utter destruction. The blast from the headquarters building has completely vaporised the industrial generator and reduced the three-story wooden headquarters to a crater. There is ash, a touch of ozone, little blackened, carbonized bits of what is probably the wood from the building or bits of shredded metal and a  twenty-foot-deep crater filled with rubble collapsed from the ceiling. 
+
+It's shoe time. Gus utilizes skin shoes to sprint northward into the darkness of the main dig site to scout ahead. He maneuvers behind a stone ridge and peers through the gloom at the current excavations. He observes approximately twenty Aboriginal workers shuffling with a zombified, hypnotized gait, digging with no real interest.  He spots two Caucasian overseers watching them. Further back in the excavation zone, Gus spots several more figures: Janice Wycroft, a bound, severely beaten, but apparently conscious Jack Brady, and nearby a man wearing strange, foul-looking cult vestments. One of the men from the painting in Erica Carlyle's house: Robert Huston.
+
+He makes a run for it and ends up running face first into an impenetrable, invisible barrier to the south. There's no exit here.
+
+Gus zigzags around the room trading shots and dodging bullets but then fumbles his footing and goes sprawling face-first onto his back. The racket instantly alerts the entire chamber. Looking straight up at the high ceiling, Gus watches in horror as five of the faceless winged guardians (like the ones encountered in the purple temple, but smaller) detach from the darkness and drop toward him. 
+
+Gus rolls backward onto his feet, hoists his Model B lightning weapon, and fires a desperate defensive volley up at them. A blinding arc of blue-white electricity erupts from the crystal lens with a thunderous boom, cleanly disintegrating the nearest guardian into a shower of black, wet slime. The remaining four monsters land on the rocky dirt, instantly encircling Gus, while the two overseers draw their rifles and open fire. Two bullets pierce Gus’s torso and thigh. Bleeding profusely and bordering on unconsciousness, Gus collapses back onto the ground.
+
+Having heard the deafening boom of the lightning gun in the distance, the rest (Serafina, Ossmus, Lia, and Dr. Jack) sprint the  distance to the excavation area as Gus's attempts to survive unfolds. As they cross into the chamber, they are met with a heavy wave of static electricity and the suffocating pressure of the barrier but pass through unaware of its nature.
+
+Serafina rushes the frontline to protect the downed mechanic, leveling her own Model B weapon. She squeezes the rubbery triggers, sending a jagged bolt of white lightning tearing through the nearest guardian, reducing it to charred clumps of frog-like goo.
+
+From the center of the camp, Robert Huston begins screaming an infernal, cosmic chant that echoes violently within the minds of the investigators. Serafina and Ossmus buckle under the psychic strain, their minds momentarily fracturing from the unholy cadences.
+
+"Kill the motherfucker! Kill him!" Jack Brady roars through his gag, thrashing violently against his bonds as Janice Wycroft applies a knife to his throat.
+
+Ossmus, Dr. Jack, and Lia advance in a unified firing line, unleashing a continuous, chaotic storm of lightning from their newly acquired model B's. The blinding flashes turn the cavern completely white. Their target control is poor but it doesn't matter - unintentionally vaporizing several of the mindless Aboriginal slaves shuffling through the crossfire simply takes them off the board.  The intense bombardment methodically roasts the oncoming guardians and completely obliterates both of the rifle-wielding overseers.
+
+Huston changes his tone and eventually a whistle is blown. They feel a strange, pulsing breeze.
+
+Prostrate on the dirt, Gus grips his blood-soaked thigh. Suddenly, a familiar feminine telepathic voice floods his consciousness with a wave of intense static. "Please stand up. I'm having trouble. You are too close to the ground. Get tall."  She complains that the is being stymied by the rubble and asks when they will return to sole these important problems. He detects annoyance and frustration.
+
+However, she must have picked up that Gus doesn't know how to use the model B and simply decides to poke some information into his mind:  Gus has an inkling regarding the Model B's interface. He drags himself to his knees, aims away from everyone else, aligns his fingers into an intricate, alternative grip on the nodules, clicking and depressing the triggers.
+
+The Model B instantly heats up, vibrating with a high-pitched, screeching harmonic whine that compresses the air. As Gus is thrown ten feet backward by the immense kinetic recoil, the ModelB fires in a similar-but-new-way a cone of massive destruction culminating in a sphere of white light and a fantastic boom - a colossal, devastating blast that vaporizes a 15' diameter sphere of whatever solid stone is within it leaving only glowing, smooth, molten edges.
+
+As the dust begins to settle, Ossmus fires a follow-up accidental strafe from his weapon. The arc of electricity plays across what appears to be empty shadow between him and Huston, abruptly materializing a massive, jet-black, multi-faced silhouette that silently hovers above the chamber floor. They have seen this before twice, once in London and once at Ibn Tulun: a hunting horror. 
+
+Before the entity can act, Dr. Jack Moody steps forward, presses his Model B directly toward the center of mass, and releases a perfectly stabilized thunderbolt. The blinding white light plays over the shadow beast and the remaining cultists, torching them. The beast has burns but is still in full control. It strikes at Ossmus who _barely_ manages to avoid it's snapping jaws.
+
+Barely staying on his feet. Gus receives yet another irritated, telepathic message directly inside his mind from Kakakatak. Annoyed by the continued delays and the slow progress on her rubble-clearing project, the Yithian researcher pushes yet another mode for the Model B into his consciousness.
+
+Gus grips the nodules of the weapon, shifting his fingers to match the new positions, and clicks the triggers in a specific pattern. The Model B instantly flares with intense thermal energy, becoming almost too hot to physically hold as it releases a deep, vacuuming hum. Instead of an expanding cone of lightning, a perfectly concentrated, ten-foot-diameter linear beam punches violently across the chamber, hitting the monster on the neck and straight through to the attachment of the left wing. It cleanly severs the hunting horror’s head and left wing mid-air, entirely vaporizing that section of its mass. Stripped of its momentum and its form permanently compromised, the colossal entity collapses instantly into a heap of severed, dissolving parts on the ground. They blast Huston.
+
+Janice Wycroft drops her knife in terror, throwing herself flat onto the gravel in a surrender position.
+
+The silence that follows is deafening. Robert Huston is dead, his physical form blasted into unidentifiable charred fragments.
+
+"Thank fucking God," Brady bellows as Dr. Jack and Lia cut him free from his restraints. He steps over the rubble, yanks a cigarette directly out of Dr. Moody's mouth, smokes the entire thing in one deep pull, and demands the rest of the pack. "Why didn't you kill him sooner?" He glances down at the trembling Janice Wycroft and swears as he takes come kicks at her.
+
+Serafina and Ossmus execute a swift sweep of the carnage, recovering two daggers from Janice, noting a massive, crudely inked Cult of the Sand Bat tattoo spanning her upper back.
+
+With Gus severely wounded and Brady heavily bruised from torture, the party decides against a protracted stay at the dig site. Constructing a rudimentary litter out of canvas tent scraps to carry the mechanic, the investigators retreat along the cool, subterranean Yithian tunnels, traveling south to the abandoned worker bunkhouse to heal and regroup.
+
+They arrive at the sprawling underground dormitory at approximately 3:00 AM. The air is clear, ventilated by a massive 300-foot stone stairway that leads straight up to the desert surface. Dr. Jack Moody utilizes the camp’s medical reserves and a heavy dose of opiates to stabilize Gus’s gunshot wounds, while the others forage through crates of canned goods and fresh water.
+
+While resting, the group debates their next move. Jack Brady remains fiercely committed to his global campaign. It's not over. He notes that Huston had been unhinged in this encounter to an entirely level, frequently having vocal conversations with unseen entities. They realize that what Brady witnessed corresponded to the group's interrogation of the Toddy Randolph puppet.
+
+They make the case for taking Kakakatak's offer. Highlighting Gus's telepathic uplink with Kakakatak, the group convinces Brady to accompany them to the lower level library. Upon seeing the twelve-foot conic Yithian entity, Brady draws his firearm in shock, but Serafina quickly defuses the tension. 
+
+After Ossmus and Gus demonstrate Gus' newly acquired, telepathically implanted fluency in elementary Chinese, a stunned Brady agrees to consider a pause to heal up. The investigators accept Kakakatak’s bargain: they will spend the next two and a half months performing heavy physical labor to clear the ancient city’s rubble, and in return, the Yithian will incrementally educate them in advanced sciences, dead languages, and the specific ciphers required to read Mu Hsien and Chang Ning's Seven Cryptical Books of Hsan and enact the Eye of Light and Darkness sealing ritual.
+
+During their days of labor, the group performs a brief reconnaissance of the ruined Sand Bat temple. They discover the mindless remaining workers had attempted a grotesque, makeshift repair of the smashed idols, reassembling the Cthulhu and Sand Bat effigies using axels from the trucks, electrical wire, smoldering light bulbs, fresh kangaroo hide, and layers of rotting, salted octopus tentacles. The stone altar remains heavily slicked with dried blood and bile—the remnants of a desperate, final series of frantic sacrifices ordered by Huston before his demise.
+
+With Robert Huston eliminated and their minds fortified by the staggering, ancient calculations of the Great Race, the investigators prepare to emerge from the Great Sandy Desert, turning their sights toward the global eclipse scheduled for January 14, 1926.
+
+### August 22, 1925 - morning - Bunkhouse under The Great Sandy Desert in the City of the Great Race
 
 1926
 
@@ -2015,11 +2077,12 @@ Australia:
 	John Carver - ? - American. Carver and Deadfella Man would frequently vanish into the dunes for weeks at a time, apparently the reincarnation of "Ngunung Ngunnut"
 	Arthur MacWhirr - 60s? - miner out of Port Hedland
 	Mortimer Wycroft - Outfitter in Cuncudgerie - basically the only game in town
-	Gertie, Shula, and Janice Wycroft - Daughters of Mortimer Wycroft, they actually run the outfitter shop at least with regard to interacting with the public
+	Gertie, Shula, and Janice Wycroft - Daughters of Mortimer Wycroft, they actually run the outfitter shop at least with regard to interacting with the public (Janice: prisoner and conscript rubble remover in the Great City)
 	Derby Dave - welshman, presumed dead but actually alive, encountered on the Canning Stock Route, he mentioned "Jeremy" the crazed madman with a camp to the east of the dig site that he escaped (near MacWhirr's coordinates)
 	Jeremy Grogan - 36, insane miner and dreamer, crazed dingo-loving white man who fled the Carver dig and has set up camp to the east
 	"George" and friend - English-speaking Aborigines encountered on the Canning Stock Route, they had rescured an Aboriginal slave woman from the dig site
 	Kakakatak - physical age 2644 years - researcher of the Great Race - a female Yithian knowledge collector (from approximately -50M years ago) that eschewed the usual Yithian psychic time travel (on this occasion) for a one-way physical ticket to late 1910s Australia to gather knowledge from the Great City on Earth as it cannot be gathered remotely. When she has finished gathering knowledge from the city's libraries, she will project forward to the distant future to rejoin peers before she is physically terminated by the events of the opening of the Great Gate a few months hence. She has knowledge of the future having projected forward previously and has historical knowledge of the Great Gate having opened and destroyed human civilization on Earth.
+	Adam and Thomas - 30s - overseers for Robert Huston (deceased; death by lightning gun)
 
 ## ARTIFACTS
 
@@ -2262,3 +2325,5 @@ Sessions:
 	2026-06-05 Flying Polyps
 	2026-06-12 Blowing Up Toddy
 	2026-07-10 Meeting Kakakakatak
+	2026-07-17 Killing Robert Huston
+	
