@@ -1910,7 +1910,7 @@ After Ossmus and Gus demonstrate Gus' newly acquired, telepathically implanted f
 
 During their days of labor, the group performs a brief reconnaissance of the ruined Sand Bat temple. They discover the mindless remaining workers had attempted a grotesque, makeshift repair of the smashed idols, reassembling the Cthulhu and Sand Bat effigies using axels from the trucks, electrical wire, smoldering light bulbs, fresh kangaroo hide, and layers of rotting, salted octopus tentacles. The stone altar remains heavily slicked with dried blood and bile—the remnants of a desperate, final series of frantic sacrifices ordered by Huston before his demise.
 
-With Robert Huston eliminated and their minds fortified by the staggering, ancient calculations of the Great Race, the investigators prepare to emerge from the Great Sandy Desert, turning their sights toward the global eclipse scheduled for January 14, 1926.
+With Robert Huston eliminated and their minds fortified by the staggering, ancient calculations of the Great Race, the investigators prepare to emerge from the Great Sandy Desert, turning their sights toward Kenya and Shanghai and eliminating whatever threat centers around the global eclipse of January 14, 1926. 
 
 ### August 22, 1925 - morning - Bunkhouse under The Great Sandy Desert in the City of the Great Race
 
