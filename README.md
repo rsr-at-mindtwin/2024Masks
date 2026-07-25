@@ -1914,20 +1914,104 @@ With Robert Huston eliminated and their minds fortified by the staggering, ancie
 
 ### August 22, 1925 - morning - Bunkhouse under The Great Sandy Desert in the City of the Great Race
 
+Following their massive confrontation with Robert Huston, the group holes up in the bunkhouse in the ancient Yithian metropolis. They accept the bargain offered by Kakakatak, having spent ten weeks or so clearing parts of the ancient city’s rubble so that Kakakatak can access the libraries she needs. In exchange, the mostly obsessive but concern-neutral Yithian telepathically implants them with an immense wealth of advanced knowledge, dead languages, and - for Ossmus and Serafina - the highly specific ancient Chinese to read the *Seven Cryptical Books of Hsan* which she also extracts from their memories. They learn a spell of great importance: The Eye of Light and Darkness.
+
+During this extended downtime, Kakakatak also performs intricate alien brain surgery on Janice (as practice) and then Gus to install a telepathic link. To ensure she has the human physiology down perfectly, Kakakatak first uses the captured Janice Wycroft as a practice subject - not exactly lobotomizing her, rendering her completely quiet, and obedient. Realizing a bit later that they need someone who is "innocent" and thus unaware of Mythos lore - unlikely to find someone in the Great Sandy Desert except through chance luck which is in short supply, the ask whether she can do a second psychosurgery on Janice to remove all of her memories of the Cthulhu Mythos,  effectively creating the "innocent" they need. Dr. Jack Moody eagerly observes the bizarre procedure, proudly acting as though he understands every layer of the non-human methodology. Though the surgery on Gus leaves the mechanic with a lingering, scratchy telepathic frequency in the back of his skull and weeks long recovery period, Kakakatak deems the experiment a success.
+
+With Janice successfully reverted to a state of absolute innocence, the chooses to risk locking down the Purple Temple. On the afternoon of September 1st, beneath the rising full moon, Ossmus and Serafina guide the group through the fifteen-hour ritual of the Eye of Light and Darkness inside the Purple Temple. Drawing the necessary blood from the mind-wiped Janice to fill the sigil's pupil, the group watches as the eye begins to emanate a dim, invulnerable violet glow. Upon completion, the pulsing, lava-lamp-like purple sphere in the center of the temple stepwise diminishes, successfully neutralizing the site's capability for dark summonings. By the time they leave is it greatly diminished and still fading.
+
+They are out of time and leave the next day.
+
+Before leaving, they ask Kakakatak about the Model B's.  She cannot recharge them. Each of the fully charged ones (the first two found being of unknown remaining charges) can fire in basic mode 23 times.
+
+The other two modes - conical area effect and vaporization and the beam - seem to consume multiple "ordinary" shots - 7 for the area effect, and 11 for the beam mode.  Everyone knows how to fire them in all modes (though only Gus has actually done so). 
+
+### 3rd of September 1925 — Out of the desert
+
+With their labor completed and the ritual sealed, the group gathers their eighteen total Model B lightning weapons from Kakakatak's archives and prepares to depart. They trek back through the desert to Cuncudgerie, finding the Wycroft Outfitters shop entirely empty and abandoned. Picking the lock on the back door, they raid the living quarters, recovering 30 Australian pounds hidden in a biscuit tin and a rare English tome titled *Wondrous Intelligences* from beneath the mattress.
+
+Jack Brady coordinates their travel logistics, booking the group passage out of Port Hedland to Melbourne (September 7th through September 14th) where they take passage on a modest tramp freighter bound for England via Cape Town (September 15th). Brady has been looking the worse for wear, worn out, no longer enthusiastic.
+
+The Australian Commonwealth Government Line of Steamers runs fifteen second-hand British tramp steamers, used mainly to export wheat and wool from Australia to Europe and the U.S.A, providing a less luxurious experience for the desperate. They catch a freighter that takes a few dozen passengers heading for England taking the long route, via the Cape of Good Hope (South Africa), where another ship can then take them up the coast to Mombasa.
+
+### 23rd of September 1925 - on the Indian Ocean (3/14 days into the voyage to Cape Town)
+
+The tension on the freighter spikes when Gus and Ossmus notice a sharp, alert passenger who boarded at the last second. Early 40s, with sun-chapped skin, gray eyes, a neatly trimmed mustache, and a slightly worn but high-quality linen suit, the man carries himself with the unmistakable posture of a military veteran. Ossmus uses his honed disguise skill to blend in as a scruffy, lower-class miner, utilizing a seamless sleight-of-hand bump to lift a silver cigarette case from the man's jacket pocket. Inside, the magician discovers a stash of crisp (and high value) British banknotes, Turkish cigarettes, and the engraved initials: A.F. He detects that the man is wearing a shoulder holster and carrying a pistol.
+
+Later that evening, the target approaches a disguised Ossmus on deck to borrow a smoke, introducing himself with a lazy, charming smile as Major Alastair "Alec" Finch, late of the Royal Engineers. Seeking to pass the time, Finch first tries to engage Ossmus in a shooting contest and then  invites Ossmus down to the crowded, smoky lounge for a game of low-stakes poker. Finch proves to be a talker, boasting of his military marksman skills and offhandedly mentioning his past work investigating opium syndicates in Canton.
+
+Jack Brady is no longer able to hide that his is sick. Brady's health takes a catastrophic turn. His loss of his extreme power of self has left him unable to manage. He becomes severely emaciated, vomiting, and admits that he has been unable to eat and constantly vomiting. Under Jack's inspection, he displays a horrifying, soft, white patch of alien scar tissue along his right torso, a parting gift from Robert Huston's tortures.  Confined to his bed, a fading Brady entrusts Dr. Jack Moody with two final letters to deliver: one to Roger Carlyle in at the asylum in Hong Kong and one to Erica Carlyle in New York. Brady, now severely weakened and wondering if he will survive. He tells Jack that he is very worried that they don't know what to do in Kenya even though it is absolutely urgent.  By way of explanation, he recounts the timeline:
+
+30th July 1919 - the Carlyle Expedition arrives in Mombasa, Kenya. Roger is irrational and fading fast, Brady is still mulling over what to do but is planning his and Roger's exit. They head by rail to Nairobi where they stay at Hampton House and prepare to go deeper into the Kenyan wilderness
+
+1st August 1919 - the Expedition visits Endicott’s Game Lodge, returning after two days to Nairobi - at this point, Brady is committed, and knows that they will need to leave before the expedition heads to "the mountain."
+
+3rd August 1919 - the Expedition makes final preparations to depart Nairobi the following day, guided by M'Weru. That night, Brady and Carlyle secretly flee to Mombasa and depart by ship to PErth, planning to continue to Shanghai
+
+He urges the doctor to hunt down his old African contact, Bertram "Nails" Nelson, once they reach Nairobi. Nails is the best option, otherwise they'll need to consider Endicott or Hampton House for leads. He has nothing else.
+
+Consulting with the distant Kakakatak through his telepathic link, Gus asks whether the (annoyed) Kakakatak can help; he relays a highly complex surgical method to excise the growing parasite to Dr. Jack determines who pretends to understand it (or maybe he does); the delicate procedure is impossible to perform safely in a shifting cabin without sterile environment, lots of saline and so on. The group resolves to hold out until they can reach a proper hospital in Cape Town, hoping Brady makes it.
+
+The dates Brady shared with Jack roughly line up with the rest of the group's knowledge about the Kenya timeline:
+
+3rd July 1919 - the Carlyle Expedition plans a "vacation" in Kenya as a relief from the dig work at Meidum near the Collapsed Pyramid (via Erica Carlyle and news reports)
+
+18th July 1919 - the Expedition leaves Egypt for Kenya by ship (via Erica Carlyle and news reports)
+
+30th July 1919 - the Expecition arrives in Mombasa Kenya (via Erica Carlyle and news reports)
+
+15th October 1919 - word reaches the outside world of the disappearance of the Carlyle Expedition (news reports)
+
+1th March 1920 - Erica Carlyle arrives in Kenya to search for traces of the Carlyle Expedition (Erica Carlyle)
+
+20th May 1920 - mutilated remains of the “Carlyle Expedition” are found (news reports)
+
+19th June 1920 - five Nandi tribesmen executed following a short, obviously unjust trial (Erica Carlyle and news reports)
+
+14th May 1921 - Jackson Elias’ book The Black Power is published (Kensington)
+
+23rd July 1924 - Elias arrives in Nairobi, Kenya, after working his way across Africa in search of the Cult of the Bloody Tongue (Kensington and letters)
+
+8th August 1924 - Elias writes to Jonah Kensington from Nairobi (Kensington)
+
+16th August 1924 - Elias departs Kenya (for China) (Kensington)
+
+### 24th of September 1925 - on the Indian Ocean (9/14 days into the voyage to Cape Town)
+
+Ossmus eventally exits the lounge to brief Serafina and Dr. Jack Moody. The group is unsure what to do. eventually deciding on a direct approach, orchestrating a public tag-team conversation the following afternoon. Striking up a chat about medicine over a couple of American cigarettes, Dr. Jack and Serafina masterfully steer conversation but get little out of the man.
+
+Finch’s polite demeanor quickly sharpens into a calculated interrogation as he steers the topic towards topics the two feel are unsafe. "Surely a man of your progressive medical insights has studied the ancient Egyptian preservation methods, for example. I met a fascinating group of archaeologists from the Penhew Foundation earlier this year under Giza, brilliant minds, but very secretive. They were looking for something, some kind of queen, something like that.."
+
+Concerning.
+
+When Dr. Jack effortlessly masks his reaction, Finch probes Serafina as to whether she's been to Cairo, saying she has the look.  He is unspecific as to what he means. She leaves. He offers to pay off Jack for more information; they negotiate - sensing the trap closing, Dr. Jack cleverly feigns greed, offering to sell out the girl for a heavy sum when the ship anchors in Cape Town, successfully baiting Finch into an isolated, late-night rendezvous on the pitch-black upper deck.
+
+His agricultural cover entirely, narrowing his gray eyes, Alistair reveals that he is actively hunting the group, tracking them directly from the bloodbath at Ho Fang’s mansion in Shanghai. "I think her and some of her friends, and I think you're one of her friends, but not one of those friends, murdered someone I used to work with," Finch growls, pointedly referencing his missing operative, Monty Brackreid. He notes with icy detachment that Serafina is currently wearing four throwing knives concealed in her skirts. 
+
+At 6:00 PM, beneath a darkening sky muffled by the heavy crashing of the waves, Dr. Jack meets Finch at the iron railing of the upper deck. Finch immediately draws a black .32 Savage automatic pistol, confidently aiming it at the doctor's chest. "Let's be having it then. Where is Monty Brackreid?" he demands.
+
+Dr. Jack steps forward into the wind, looking the Major dead in the eye. "He is no longer in this world," the doctor replies calmly, recounting the harrowing truth of the supernatural slaughter at the hands of Nitocris. As Finch scoffs in cynical disbelief, Ossmus suddenly steps out of the foggy shadows behind him, loudly shouting a chaotic distraction about a robbery to completely shatter the veteran's focus - he starts shouting there's a robbery happening.
+
+Before Finch can re-align his weapon, the group steps forward out of the dark, presenting the heavy, geometric gold mask of Peru. "You're not going to believe us, but know that this is a very dangerous thing and this is the flavor of thing that killed Monty," they warn.
+
+After a great deal of back and forth, convinced it is a cheap trick, an arrogant Finch sneers, snatches the artifact, and - after inspecting it - confidently presses it against his face. The effect is instantaneous. Finch’s mouth falls open in a silent scream as his body begins violently convulsing, he collapses, and his fingers desperately claw at the teak deck boards. The pistol skitters away into the dark. Seizing the opening, Dr. Jack leaps forward and buries a heavily dosed sedative syringe into the "Major's" neck.
+
+As the drugs take hold and his eyes roll back, a sweating Finch fiercely clutches his head, uttering: "The sky is going to bleed... give me one of those cigarettes, doctor." Then he drops completely unconscious onto the deck. Loudly announcing to the few startled onlookers that the gentleman has simply suffered a medical fit, Dr. Jack and Ossmus hoist the limp "Major" by his shoulders, carrying his heavily sedated body back to the secure confines of their cabin.
+
+### 24th of September 1925 - on the Indian Ocean (9/14 days into the voyage to Cape Town) - in the cabin with Alistair (9:00 PM)
+ 
+
 1926
 
 	January 14th - THE END OF THE WORLD (per Larkin: "This world ends" just before he died)
 
-OPEN WAGERS:
+## OPEN WAGERS:
 
 	Surviving China = Power wager part 2
 
-OPEN THREADS:
+## OPEN THREADS:
 
-	Who is John Carver? What's he doing out in the desert with that pale man?
-	What's attacking the caravans?
 	What is the machine they found in Randolph Shipping?
-	Where is Robert Huston?
 	What's going on with the ghost near Dingo Falls and the unfriendly Slatterys that are there?
 	Why was our friend Jackson obsessed with the Carlyle Expedition? Roger Carlyle and the others appear to have made a bargain with the Black Pharoah to become gods by doing ... something.
 	Who is the (undying) glamorous woman who appears to be Zahra?
@@ -1935,31 +2019,38 @@ OPEN THREADS:
 	Gray Dragon Island sounds fun, or sounds deadly?
 	Madam Lin - what's her part in all of this?
 	Anthony Chang - what was he doing at the consulate?
-	What about that fire on Chin-Ling Road four weeks before the group arrived? Brady being attacked.
-	What is the significance of what Mr. Lung knew?
 	What is "the mountain" or the crib that the mysterious letter references?
-	What exactly was Henson manufacturing making? Where did those parts go? What were the ancient parts?
-	What are the keys and points that Chang Ning divined?
+	What exactly was Henson manufacturing making with the parts shipped to them from The Great City of the Yith by Huston? Where did those parts go? What were the ancient parts?
 	Can we lure Madam Lin with some artifacts?
 
-CLOSED THREADS:
+## SEALED LOCATIONS:
 
-	Choi Mei-ling - held prisoner, and tortured, at Ho Fang's mansion
+	Golden Temple of the Father of Maggots - near Lake Titicaca Peru - re-sealed in 1921
 
-PEOPLE (incomplete):
+	Purple Temple of the Sand Bat - The Great City of the Yith in Australia - sealed on September 2, 1925
 
-The Carlyle Expedition:
+## UNSEALED LOCATIONS:
 
-	Officially, all considered dead in Kenya having been murdered. Elias was not sure.
+	The Great Chamber of the Black Pharoah - under the Giza complex, Egypt - but relevant? perhaps the cult is in chaos and no longer coordinated to the great plan due to the loss of al-Shakti and severe infighting due to the arrival of Nitocris
 
-	Roger Carlyle - leader of the Carlyle Expedition and millionaire playboy, seemingly involved with "Bunay"
-	Jack "Brass" Brady - bodyguard for Roger Carlyle. Always faithful to Carlyle since being saved by him from conviction for murder
-	Hypatia Masters - member of the Carlyle Expedition, ostensibly to make its photographic record
-	Dr. Robert Huston - once a fashionable Jungian analyst in New York, Huston joined the expedition through his association with Roger
-	Sir Aubrey Penhew - formerly the director of the Penhew Foundation in London, he joined the expedition aka "The Pale Viper"
-	M'Weru - Bunay's real identity, mentioned in Huston's notes (Carlyle Papers America #16), a black woman from Kenya, extremely charismatic in some way
+	Unknown location in China
 
-Peru:
+	Unknown location in Africa
+
+## PEOPLE (incomplete):
+
+### The Carlyle Expedition:
+
+	Officially, all considered dead in Kenya having been murdered. Elias was not sure, this proved to be correct.
+
+	Roger Carlyle - leader of the Carlyle Expedition and millionaire playboy, seemingly involved with "Bunay", in an asylum in Hong Kong
+	Jack "Brass" Brady - bodyguard for Roger Carlyle. Always faithful to Carlyle since being saved by him from conviction for murder (allied and with party)
+	Hypatia Celestine Masters - member of the Carlyle Expedition, ostensibly to make its photographic record (unknown)
+	Dr. Robert Huston - once a fashionable Jungian analyst in New York, Huston joined the expedition through his association with Roger, killed by lightning gun in excavation cave area under the Great City in Junly 1925, high priest of the Order of the Sand Bat
+	Sir Aubrey Penhew - formerly the director of the Penhew Foundation in London, he joined the expedition aka "The Pale Viper", assumed to be "Arthur Penhurst" in/around Shanghai
+	M'Weru - Bunay's real identity, mentioned in Huston's notes (Carlyle Papers America #16), a black woman from Kenya, extremely charismatic in some way (location unknown)
+
+### Peru: CULT IN RESIDENCE: Kharisiri - leadership unclear - at the Golden Temple near Lake Titicaca
 
 	Jackson Elias - friend, murdered on the night of their reunion, in New York, by the Bloody Tongue, used alias "Jesse Hughes" in Peru
 	Augustus Larkin - leader of the expedition to the Peruvian highlands, vessel of an ancient evil, dead, on a boat, by the Father, sorceror, seeker to liberate the creature in pyramid in the Peruvian highlands
@@ -1969,7 +2060,7 @@ Peru:
 	Nayra - 76 year old wise woman and healer, revealed the small maggots that the pishtacos have in their guts
 	Gaspar Figueroa - 1543 Peru, letter described the conquistadors activities at the pyramid (and after)
 
-America:
+### America: CULT IN RESIDENCE: Cult of the Bloody Tongue (offshoot) - in the basement of the Ju Ju house
 
 	Arthur Emerson - The proprietor of Emerson Imports, Emerson is a native New Yorker who has worked hard to build up his business but perhaps turns a blind eye to shady shipments. He spoke with Elias briefly on his time back in New York prior to his death
 	Brunton, George — (America) subwarden of the Death House at Sing Sing prison, where Hilton Adams is awaiting execution.
@@ -1979,19 +2070,19 @@ America:
 	Erica Carlyle - sole heir to the Carlyle millions after the death of her brother, suspects she was lied to
 	Friends of Hilton Adams: Needam Johnson (junior reporter), Douglas Fells (sculptor), Art Mills (jazz musician), Jackie Wallace (hospital orderly) - 369th Infantry, the Harlem Hellfighters, all are alive, though not all were involved in the fire that eliminated M'Dari and the Ju-Ju house (and the full block around it)
 	Hilton Adams - innocent man framed by the Bloody Tongue for its murder spree, Sing-Sing Prison
-	Jonah Kensington - owner and chief editor of Prospero House, publisher of Elias's books - brutally murdered in New York
+	Jonah Kensington - owner and chief editor of Prospero House, publisher of Elias's books - brutally murdered in New York after they left
 	Lt. Martin Pool - New York, investigator of the death of Elias. 
 	Millie Adams - dead, made into a living slave by the Bloody Tongue
-	Mukunga M'Dari - New York, high priest of the Bloody Tongue, his temple occupied the basement of the Ju-Ju House (dead, fire) 
+	Mukunga M'Dari - New York, high priest of the Bloody Tongue, his temple occupied the basement of the Ju-Ju House (dead, fire at the Ju Ju house) 
 	Prof. Anthony Cowles - from the University of Sydney, currently a Fellow at Miskatonic University in Arkham. He has seen interesting photos of ancient ruins in the west of Australia, taken by Arthur MacWhirr (mentioned the MacWhirr diary and David Dodge)
 	Rebecca Shosenburg - America, junior crime reporter for the New York Times looking into a possible miscarriage of justice involving Hilton Adams (friend)
 	Silas N'Kwane - New York, proprietor of the Ju-Ju house and apparent priest of the Bloody Tongue (dead, shot in the face)
 	Willa Sligh - America, Carlton Ramsey’s niece and secretary
 	Adrian Ferris - secretary of the Medical Affairs Board, which holds Dr. Huston’s patient records, including those of Roger Carlyle
 
-England:
+### England: CULT IN RESIDENCE: Brotherhood of the Black Pharoah (offshoot) - Edward Gavigan and/or Zahra Shafik - at the Misr mansion
 
-	Zahra Shafik - spice dealer and high priestess, rival to Gavigan now consolidating control of the Brotherhood of the Black Pharoah in London, ? dead in Cairo?
+	Zahra Shafik - spice dealer and high priestess, rival to Gavigan now consolidating control of the Brotherhood of the Black Pharoah in London, ? dead in Cairo? dead? in Ho Fang's mansion in Shanghai as possessed/occupied by Nitocris?
 	Edward Gavigan - high priest of the Brotherhood, main director of the Penhew Foundation, dead by stabbing with ritual-styled knives
 	Inspector James Barrington - London police investigating the "Egyptian murders"
 	Puneet Chaudhary - owner of the Limehouse warehouse doing import/export via the Ivory Wind
@@ -2007,14 +2098,14 @@ England:
 	Lawrence Vane - England,  the male heir to the Vane title, and brother to the cursed Eloise Vane, and now rendered fully insane by exposure to the ceremony. 
 	Lars Torvak - drunken owner-captain of the Ivory Wind, a tramp freighter carrying cult items to and from the Far East (mostly to Ho Fang in Shanghai and Australia)
 
-Egypt:
+### Egypt: CULT IN RESIDENCE: The Brotherhood of the Black Pharoah (main) - Omar al-Shakti - The Great Chamber of the Black Pharoah
 
 	Faraz Najar - victim of Omar al-Shakti, murdered in street by ??, dealer of antiquities
 	Warren Besart - French associate of Roger Carlyle - somewhere in Cairo, opium and hashish addict, driven completely insane by what he saw in the desert
 	Omar al-Shakti - Egyptian plantation owner and presumed underworld leader
 	Saleem Naziz - reputable and knowledgeable dragoman (tour guide and interpreter), hired by party
 	Tados Hanna - Cairo; operator of a small shop in the old city, former dig worker, friend of Teddy from his time in Egypt
-	Janwillem Van Heuvelen - Stole sacred scrolls from an underground temple of Bast, was harassed by unrelenting cats until Teddy returned them; greedy drunk and drug addict
+	Janwillem Van Heuvelen - Stole sacred scrolls from an underground temple of Bast, was harassed by unrelenting cats until Teddy returned them; greedy drunk and drug addict (still in the Old City)
 	Ibi Moussa - scammer that drives customers to Hotel du Sud, operates a gang of porter-children who also use hidden passages between rooms to rob customers of the hotel
 	Mme. Marian Patenaude - proprietor of the Hotel du Sud, criminally overcharges and scams people unfamiliar with Egypt
 	Dr. Ali Kafour - Egypt - the Egyptian Museum’s resident expert in matters occult and archaeological. He is an accomplished linguist and expert in the vaults found in pyramids.
@@ -2039,9 +2130,9 @@ Egypt:
 	Mahmoud al-Suri - day attendant of Ibn Tulun — earnest, literal-minded, easily flustered, apparent age: 27 A slim young man with tired eyes, a neatly trimmed beard, and a simple grey galabiyya. His hands are always clasped nervously. Responsible for managing the mosque during daytime.
 	Sarifa Rawash - (not encountered) recipient of money transfers from Omar al Shakti, presumed by Father Rory as the cover story name for the life that Nitocris would assume
 	Hetep — Omar al-Shakti’s pretty white long-haired cat. Actually a vicious cat-demon. The creature appears to be an ordinary white Persian. Deceased by knife and gun in Omar's home after they were teleported away from the bloodbath in the tunnels.
-	Queen Nitocris - by legend, an evil queen of ancient dynastic Egypt and bride/paramour/rival of the Black Pharoah; resurrected (briefly) by Omar al Shakti in the rites in the great chamber, stabbed/assasinated by Zahra Shafik?
+	Queen Nitocris - by legend, an evil queen of ancient dynastic Egypt and bride/paramour/rival of the Black Pharoah; resurrected (briefly) by Omar al Shakti in the rites in the great chamber, stabbed/assasinated by Zahra Shafik? Dead but possessing Zahra Shafik's mutilated body in Shanghai?
 
-China:
+### China: CULT IN RESIDENCE: The Order of the Bloated Woman (main) - unclear, maybe Ho Fang? - unclear
 
 	Fergus “McChum” Chum - 40, bar owner, Scottish-Chinese owner of the Stumbling Tiger Bar, extreme friend/loyalist of Jack Brady
 	Li Wen-Cheng - 24, an impoverished museum worker now comprador
@@ -2057,7 +2148,7 @@ China:
 	Wu - the malicious cat-demon sent by an unknown sorceror to kill Mr. Lung
 	Mr. Chin Hsi-chou - Murder victim at the flower girl house at 88 Lantern Street
 	Auntie Gee - Madam of 88 Lantern Street, goon aficionado
-	Choi Mei-ling - flower girl formerly at 88 Lantern Street, sold to 140 Lantern Street, vanished, had american named "John" in her room that upset Auntie Gee - found! in Ho Fang's mansion
+	Choi Mei-ling - flower girl formerly at 88 Lantern Street, sold to 140 Lantern Street, vanished, had american named "John" (Brady) in her room that upset Auntie Gee - found! in Ho Fang's mansion, now being cared for in David Dodge's house in Australia
 	Quivering Jade (alias) - flower girl at 88 Lantern Street, friend of Choi Mei-ling and Magenta Joy
 	Magenta Joy (professional alias for Xiu-ying, name from hospital) - flower girl at 88 Lantern Street, witnessed attack by black, sleek apparition, now permanently insane
 	Moonlight on Water (alias) - flower girl, accompanied Quivering Jade, selected by Gus
@@ -2066,23 +2157,124 @@ China:
 	Sun Ch’unhua - Ho Fang's (Jack: petite young, real looker) secretary
 	Chu Min - leader of Firm Action, the most violent and best-armed wing of the New China patriotic league.
 
-Australia: 
+### Australia: CULT IN RESIDENCE: Order of the Sand Bat (main) - Robert Huston - The Purple Temple in the City of the Great Race
 
 	Prof. David Dodge - 46 - assoc. professor of archaeology; friend of Anthony Cowles (and living in his house) and Jack Brady, just finishing his current term, and looking forward to some vacation time. Keen to discover what the group knows and what has brought them to Australia
 	Bonnie Dodge - 17 - daughter of David Dodge
 	Robert B. F. Mackenzie - ? - mining engineer and executor of MacWhirr estate; transferred some objects, a painting, papers and a diary to Cowles
-	Toddy Randolph - 50 - drunken owner-operator and resident of Randolph Shipping company
+	Toddy Randolph - 50 - drunken owner-operator and resident of Randolph Shipping company, killed (mind controlled by Huston) in HQ destruction in the Great City	
 	Billy Burraglong - late 20s - young Aboriginal man, painfully naive, worker at Randolph Shipping and apparently general fixer of Aboriginal issues when they crop up in Darwin
 	Deadfella Man - age indeterminate, but old - a pale, scarred man with cataracts who works for John Carver sometimes
-	John Carver - ? - American. Carver and Deadfella Man would frequently vanish into the dunes for weeks at a time, apparently the reincarnation of "Ngunung Ngunnut"
-	Arthur MacWhirr - 60s? - miner out of Port Hedland
-	Mortimer Wycroft - Outfitter in Cuncudgerie - basically the only game in town
-	Gertie, Shula, and Janice Wycroft - Daughters of Mortimer Wycroft, they actually run the outfitter shop at least with regard to interacting with the public (Janice: prisoner and conscript rubble remover in the Great City)
+	John Carver - ? - American. Carver and Deadfella Man would frequently vanish into the dunes for weeks at a time, apparently the reincarnation of "Ngunung Ngunnut" - Actually Robert Huston, dead
+	Arthur MacWhirr - 60s? - miner out of Port Hedland, deceased, source of photos of the Great City
+	Mortimer Wycroft - Outfitter in Cuncudgerie - basically the only game in town, believed deceased in The Great City
+	Gertie, Shula, and Janice Wycroft - Daughters of Mortimer Wycroft, they actually run the outfitter shop at least with regard to interacting with the public (all dead in the great city HQ by lightning guy and polyp attack,  other than Janice: prisoner and conscript rubble remover in the Great City, now a mindless, memoryless zombie in the rubble removal service of Kakakatak)
 	Derby Dave - welshman, presumed dead but actually alive, encountered on the Canning Stock Route, he mentioned "Jeremy" the crazed madman with a camp to the east of the dig site that he escaped (near MacWhirr's coordinates)
-	Jeremy Grogan - 36, insane miner and dreamer, crazed dingo-loving white man who fled the Carver dig and has set up camp to the east
+	Jeremy Grogan - 36, insane miner and psychic reality-shaping dreamer, crazed dingo-loving white man who fled the Carver dig and has set up camp to the east
 	"George" and friend - English-speaking Aborigines encountered on the Canning Stock Route, they had rescured an Aboriginal slave woman from the dig site
-	Kakakatak - physical age 2644 years - researcher of the Great Race - a female Yithian knowledge collector (from approximately -50M years ago) that eschewed the usual Yithian psychic time travel (on this occasion) for a one-way physical ticket to late 1910s Australia to gather knowledge from the Great City on Earth as it cannot be gathered remotely. When she has finished gathering knowledge from the city's libraries, she will project forward to the distant future to rejoin peers before she is physically terminated by the events of the opening of the Great Gate a few months hence. She has knowledge of the future having projected forward previously and has historical knowledge of the Great Gate having opened and destroyed human civilization on Earth.
+	Kakakatak - physical age 2644 years - researcher of the Great Race - a female Yithian knowledge collector (from approximately -50M years ago) that eschewed the usual Yithian psychic time travel (on this occasion) for a one-way physical ticket to late 1910s Australia to gather knowledge from the Great City on Earth as it cannot be gathered remotely. When she has finished gathering knowledge from the city's libraries, she will project forward to the distant future to rejoin peers before she is physically terminated by the events of the opening of the Great Gate a few months hence. She has knowledge of the future having projected forward previously and has historical knowledge of the Great Gate having opened and destroyed human civilization on Earth. Dislikes rubble.
 	Adam and Thomas - 30s - overseers for Robert Huston (deceased; death by lightning gun)
+
+### Kenya: CULT IN RESIDENCE: unknown if any
+	
+	Alistair "Alec" Finch - early 40s - some sort of intelligence handler for Monty, claims to live in London and be British but with an American accent, met on the ship from Melbourne to Capetown, hunting the group he thinks killed or covered up Monty's death
+	Bertram "Nails" Nelson - [ not yet met, multiple connecting threads from handouts, brady ]
+	Johnstone Kenyatta - [ not yet met, connections from Elias ]
+
+## THE ASSEMBLED TIMELINE
+
+Some dates are approximate
+
+June or July 1917: the "black woman" Bunay (M’Weru) travels to America and meets Roger Carlyle (Erica Carlyle's approximate guess)
+
+11th January 1918: Dr. Huston first sees Roger Carlyle as a patient; Carlyle has been having “Egyptian dreams.” (Huston's papers in New York)
+
+16th March 1918: Dr. Huston’s lover, Imelda Bosch, commits suicide. (Brady)
+
+18th June 1918: Carlyle meets M’Weru and begins to obsess about her. (Erica) 
+
+3rd December 1918: Carlyle pressures Dr. Huston to accompany him on his expedition (Erica, Huston's papers)
+
+3rd March 1919: Warren Besart, a purchasing agent in Cairo, writes to Carlyle. (Found papers)
+
+5th April 1919: Carlyle Expedition leaves New York for England (news)
+
+14th April 1919: Carlyle Expedition arrives in London and makes arrangements for digs in Egypt with assistance from Edward Gavigan (and maybe Zahra Shafik) (news, scuttlebutt)
+
+28th April 1919: Carlyle Expedition leaves London for Cairo. (news and from the trial in Kenya)
+
+15th May 1919: Carlyle Expedition arrives in Cairo. (news and from the trial in Kenya)
+
+20th May 1919: Carlyle Expedition dig near Giza starts (ends 26th May) (news, the Cairo Bulletin research)
+
+28th May 1919: Carlyle Expedition dig at Sakkara (Saqqara) starts (ends 5th June) (news, the Cairo Bulletin research)
+
+8th June 1919: Carlyle Expedition dig at Dahshur starts (news, the Cairo Bulletin research)
+
+10th June 1919: Carlyle breaks the seal on the Red Pyramid (Brady, Ubaid via Nuri of El Wasta)
+
+30th June 1919: Jack Brady and Warren Besart witness a blood sacrifice near the Collapsed Pyramid at Meidum (Brady, Besart). Dig at
+Dahshur ends.
+
+3rd July 1919: the Carlyle Expedition plans a "vacation" in Kenya as a relief from the dig work at Meidum near the Collapsed Pyramid (via Erica Carlyle and news reports)
+
+18th July 1919: the Expedition leaves Egypt for Kenya by ship (via Erica Carlyle and news reports)
+
+30th July 1919: the Carlyle Expedition arrives in Mombasa, Kenya. Roger is irrational and fading fast, Brady is still mulling over what to do but is planning his and Roger's exit. They head by rail to Nairobi where they stay at Hampton House and prepare to go deeper into the Kenyan wilderness (Brady to Dr. Jack)
+
+1st August 1919: the Expedition visits Endicott’s Game Lodge, returning after two days to Nairobi - at this point, Brady is committed, and knows that they will need to leave before the expedition heads to "the mountain." (Brady to Dr. Jack)
+
+3rd August 1919: the Expedition makes final preparations to depart Nairobi the following day, guided by M'Weru. That night, Brady and Carlyle secretly flee to Mombasa and depart by ship to Perth, planning to continue to Shanghai (Brady to Dr. Jack)
+
+15th September 1919: Brady and Carlyle arrive in Hong Kong (Brady)
+
+17th September 1919: Carlyle’s insanity deepens. Roger is very far gone and Brady needs to park him somewhere where he won't be found. Brady hides him in a Hong Kong sanitarium under the alias “Randolph Carter.” (Brady)
+
+15th October 1919: word reaches the outside world of the disappearance of the Carlyle Expedition (news reports)
+
+1th March 1920: Erica Carlyle arrives in Kenya to search for traces of the Carlyle Expedition (Erica Carlyle)
+
+20th May 1920: mutilated remains of the “Carlyle Expedition” are found (news reports)
+
+19th June 1920: five Nandi tribesmen executed following a short trial (Erica Carlyle and news reports)
+
+14th May 1921: Jackson Elias’ book The Black Power is published (Kensington)
+
+13th March 1923: Jack Brady meets up with "Nails" Nelson in Hong Kong. (Brady)
+
+23rd July 1924: Elias arrives in Nairobi, Kenya, after working his way across Africa in search of the Cult of the Bloody Tongue (Kensington and letters)
+
+8th August 1924: Elias writes to Jonah Kensington from Nairobi (Kensington)
+
+16th August 1924: Elias departs Kenya (for China) (Kensington)
+
+25th May 1923: Jackson Elias departs New York City, bound initially for London and Paris, to begin research on Augustus Larkin, with a view to updating his book on African death cults, The Black Power.
+
+8th August 1924: Elias writes to Jonah Kensington from Nairobi. (Kensington)
+
+16th August 1924: Elias departs Kenya for China. (Kensington, Ramsey)
+
+17th September 1924: Elias arrives in Hong Kong. (Kensington, letters)
+
+19th September 1924: Elias wires Jonah Kensington while in Hong Kong. (Kensington)
+
+4th October 1924: Elias departs Shanghai in a rush for Cairo (Kensington, letters)
+
+13th November 1924: Elias leaves Cairo for London. (Kensington)
+
+25th November 1924: Elias arrives in London. (Kensington)
+
+16th December 1924: Elias wires Jonah Kensington while in London. (Kensington)
+
+17th December 1924: Elias takes passage on a freighter for New York. (Kensington)
+
+18th December 1924: Elias wires his old friends from Peru to meet him in New York
+
+13th January 1925: Elias arrives in New York City. (Kensington)
+
+15th January 1925: the party arrives at the Hotel Chelsea Room 410 in New York to meet with Elias but arrive to find him just murdered and the murderers fleeing.
+
+14th January 1926: THE END OF THE WORLD - a total solar eclipse occurs during which will be enacted a Great Rite in three locations to create the Great Gate. Once opened, the sky is torn open, insanity grips the world leading to violence and sucide, uncountable horrors flood in through the gate, finally the Great Old Ones are freed to rule over the Earth. (Larkin to the Father, Kakakatak [explaining ancient history], visions [via the masks], the diagram in the Great Chamber in Giza, Agatha Broadmoor on the coming elipse, and the insane spirit of Jackson Elias in the seance)
 
 ## ARTIFACTS
 
@@ -2250,9 +2442,21 @@ True Magick - English, by Theophilus Wenn, 17th century. Octavo, recently reboun
 >Study: 24 weeks
 >Spells: Call for Spirit of the Air, Call Forth the One, Call Forth the Winged One, Create Charm, Speak with the Dark One
 
-SPELLS
+### AUSTRALIA - liberated from the apartment of Mortimer Wycroft
+
+Wondrous Intelligences - English, James Woodville, 17th century. Octavo, bound in fine red leather, some water damage and well thumbed.
+
+The account of a merchant living during the English Civil War and after, during the time of Oliver Cromwell. Along with the author’s tedious self-congratulations and dogged explications of his singular sexual practices, Woodville describes the Great Race of Yith.
+
+Relevance: a latter passage contains a chilling evocation of the Yithians’ war with “deadly beings who whistle down dark caverns and dwell within windowless basalt towers.” 
+
+### SPELLS
 
 Ossmus: Come Forth, Bloated Woman
+
+Eye of Light and Darkness: Ossmus and Serafina
+
+(incomplete, I've lost track)
 
 Sessions:
 
@@ -2325,5 +2529,5 @@ Sessions:
 	2026-06-05 Flying Polyps
 	2026-06-12 Blowing Up Toddy
 	2026-07-10 Meeting Kakakakatak
-	2026-07-17 Killing Robert Huston
-	
+	2026-07-17 Let's Murder Robert Huston
+	2026-07-24 Meeting Alistair Finch 
