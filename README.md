@@ -1950,7 +1950,7 @@ Jack Brady is no longer able to hide that his is sick. Brady's health takes a ca
 
 He urges the doctor to hunt down his old African contact, Bertram "Nails" Nelson, once they reach Nairobi. Nails is the best option, otherwise they'll need to consider Endicott or Hampton House for leads. He has nothing else.
 
-Consulting with the distant Kakakatak through his telepathic link, Gus asks whether the (annoyed) Kakakatak can help; he relays a highly complex surgical method to excise the growing parasite to Dr. Jack determines who pretends to understand it (or maybe he does); the delicate procedure is impossible to perform safely in a shifting cabin without sterile environment, lots of saline and so on. The group resolves to hold out until they can reach a proper hospital in Cape Town, hoping Brady makes it.
+Consulting with the distant Kakakatak through his telepathic link, Gus asks whether the (annoyed) Kakakatak can help; she relays a highly complex surgical method to excise the growing parasite to Dr. Jack determines who pretends to understand it (or maybe he does); the delicate procedure is impossible to perform safely in a shifting cabin without sterile environment, lots of saline and so on. The group resolves to hold out until they can reach a proper hospital in Cape Town, hoping Brady makes it.
 
 The dates Brady shared with Jack roughly line up with the rest of the group's knowledge about the Kenya timeline:
 
