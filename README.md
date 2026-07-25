@@ -2124,13 +2124,13 @@ As the drugs take hold and his eyes roll back, a sweating Finch fiercely clutche
 	Dr. Henry Clive - Archaeologist and leader of the Penhew/Gavigan-funded Clive Expedition in Memphis (found Nitocris, maybe), former associate of Teddy, currently in Memphis after leaving Giza after the mummy's theft
 	Martin Winfield - part of Clive expedition in Giza/Memphis, chief of staff and organizer, weasel-like
 	Johanna Specht - part of Clive expedition in Giza/Memphis, German occultist doing work looking for interesting artifacts and information for her government
-	Agatha Boradmoor - part of Clive expedition in Giza/Memphis, hired at the last minute by Gavigan (who she despises), genuine medium
-	James Gardner - part of Clive expedition in Giza/Memphis, a friendly archaeologist who theorizes (and now believes) in the existence of massive underground tunnel complexes below the Great Sphinx
+	Agatha Boradmoor - part of Clive expedition in Giza/Memphis, hired at the last minute by Gavigan (who she despises), genuine medium - deceased, killed by cultists of the Black Pharoah in the Nitocris resurrection ritual of the Great Chamber
+	James Gardner - part of Clive expedition in Giza/Memphis, a friendly archaeologist who theorizes (and now believes) in the existence of massive underground tunnel complexes below the Great Sphinx, deceased - fed to the giant leeches in the dark pool of The Great Chamber during the resurrection of Nitocris
 	(Shaykh) Youssef al-Maqqari - night keeper of Ibn Tulun (doesn't have a lot to do, not one of the Guardians), actually the Deputy Nazir of Ibn Tulun
 	Mahmoud al-Suri - day attendant of Ibn Tulun — earnest, literal-minded, easily flustered, apparent age: 27 A slim young man with tired eyes, a neatly trimmed beard, and a simple grey galabiyya. His hands are always clasped nervously. Responsible for managing the mosque during daytime.
 	Sarifa Rawash - (not encountered) recipient of money transfers from Omar al Shakti, presumed by Father Rory as the cover story name for the life that Nitocris would assume
 	Hetep — Omar al-Shakti’s pretty white long-haired cat. Actually a vicious cat-demon. The creature appears to be an ordinary white Persian. Deceased by knife and gun in Omar's home after they were teleported away from the bloodbath in the tunnels.
-	Queen Nitocris - by legend, an evil queen of ancient dynastic Egypt and bride/paramour/rival of the Black Pharoah; resurrected (briefly) by Omar al Shakti in the rites in the great chamber, stabbed/assasinated by Zahra Shafik? Dead but possessing Zahra Shafik's mutilated body in Shanghai?
+	Queen Nitocris - by legend, an evil queen of ancient dynastic Egypt and bride/paramour/rival of the Black Pharoah; resurrected (briefly) by Omar al Shakti in the rites in the great chamber, stabbed/assasinated by Zahra Shafik? Dead but possessing Zahra Shafik's mutilated body in Shanghai? Unclear
 
 ### China: CULT IN RESIDENCE: The Order of the Bloated Woman (main) - unclear, maybe Ho Fang? - unclear
 
