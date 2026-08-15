@@ -2136,6 +2136,9 @@ He recalls that Carlyle was a "jumpy fellow" who stayed locked in his room with 
 
 When questioned about local figures, Baines recognizes the name Johnstone Kenyatta, describing him as an active Kikuyu nationalist who can frequently be found at the Kikuyu Central Association offices or around Swahili Town. The group retreats to their rooms to clean the soot from their gear, with plans to investigate Kenyatta, Nails Nelson, and Taan Kaur's tea shop in the morning.
 
+### October 9th, 1925 – Over Breakfast
+
+Alaistair is going to be out of commission at the hospital for several days. 
 
 ## 1926
 
