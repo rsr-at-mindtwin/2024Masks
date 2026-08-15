@@ -1918,7 +1918,7 @@ Following their massive confrontation with Robert Huston, the group holes up in 
 
 During this extended downtime, Kakakatak also performs intricate alien brain surgery on Janice (as practice) and then Gus to install a telepathic link. To ensure she has the human physiology down perfectly, Kakakatak first uses the captured Janice Wycroft as a practice subject - not exactly lobotomizing her, rendering her completely quiet, and obedient. Realizing a bit later that they need someone who is "innocent" and thus unaware of Mythos lore - unlikely to find someone in the Great Sandy Desert except through chance luck which is in short supply, the ask whether she can do a second psychosurgery on Janice to remove all of her memories of the Cthulhu Mythos,  effectively creating the "innocent" they need. Dr. Jack Moody eagerly observes the bizarre procedure, proudly acting as though he understands every layer of the non-human methodology. Though the surgery on Gus leaves the mechanic with a lingering, scratchy telepathic frequency in the back of his skull and weeks long recovery period, Kakakatak deems the experiment a success.
 
-With Janice successfully reverted to a state of absolute innocence, the chooses to risk locking down the Purple Temple. On the afternoon of September 1st, beneath the rising full moon, Ossmus and Serafina guide the group through the fifteen-hour ritual of the Eye of Light and Darkness inside the Purple Temple. Drawing the necessary blood from the mind-wiped Janice to fill the sigil's pupil, the group watches as the eye begins to emanate a dim, invulnerable violet glow. Upon completion, the pulsing, lava-lamp-like purple sphere in the center of the temple stepwise diminishes, successfully neutralizing the site's capability for dark summonings. By the time they leave is it greatly diminished and still fading.
+With Janice successfully reverted to a state of absolute innocence, the group chooses to risk locking down the Purple Temple with her acting as the blood source with "no knowledge of the Cthulhu mythos." On the afternoon of September 1st, beneath the rising full moon, Ossmus and Serafina guide the group through the fifteen-hour ritual of the Eye of Light and Darkness inside the Purple Temple. Drawing the necessary blood from the mind-wiped Janice to fill the sigil's pupil, the group watches as the eye begins to emanate a dim, invulnerable violet glow. Upon completion, the pulsing, lava-lamp-like purple sphere in the center of the temple stepwise diminishes, successfully neutralizing the site's capability for dark summonings. By the time they leave is it greatly diminished and still fading.
 
 They are out of time and leave the next day.
 
@@ -2000,8 +2000,75 @@ As the drugs take hold and his eyes roll back, a sweating Finch fiercely clutche
 
 ### 24th of September 1925 - on the Indian Ocean (9/14 days into the voyage to Cape Town) - in the cabin with Alistair (9:00 PM)
  
+The group gathers in their cabin around the heavily sedated Major Alastair ("Alec") Finch. Jack Brady rests in the bunk nearby, visibly emaciated, trembling, and wheezing in extreme ill health. While Dr. Jack Moody prepares to bring Finch out of his drug-induced stupor, Ossmus Fest and Serafina slip down the narrow hallway to search Finch’s cabin using the key lifted from his pocket.
 
-1926
+Inside Finch's quarters, a search reveals his official credentials identifying him as Major Alastair Finch of the retired Royal Engineers, authorized by the Colonial Office for railway and agricultural machinery inspections in Malaysia. Hidden inside a false bottom in his steamer trunk, Serafina and Ossmus uncover a spare 50-round box of ammunition for his Savage automatic pistol, 150 British pounds, a handful of East African shillings, (what is later revealed to be) a military cipher substitution ledger, and a detailed surveillance notebook tracking the group's movements from London to Cairo, Shanghai, and Melbourne. Tucked alongside a creased 1924 photograph of Monty Brackreid in Cairo is a cryptic notation referencing a follow-up with the "Far East section Singapore". On the nightstand rests a heavy silver sovereign coin—well-handled from habitual knuckle-rolling. Ossmus and Serafina pocket the cash, notes, cipher book, and the silver coin before returning to the main cabin.
+
+Back in the cabin, Brady waves Dr. Jack over to his bunk. Wheezing with a wet rattle in his chest, Brady whispers gravely:
+
+"Look at me, doc. I'm sick as fuck. I can feel this thing growing in me. It's chewing on me. I'm not stupid. I'm probably not going to make it to Kenya. If I drop dead on that operating table in Durban, you listen to me. You've got to go up that mountain. You've got to save Hypatia wherever she is. She's just a spoiled rich kid. She got in way over her head and that black witch... she was doing something unholy to her. Rogers is as good as gone—I couldn't save Roger. Maybe you can save Hypatia from that monster. When you get to Nairobi, you need to find Nails Nelson. He'll give you the scoop. He knows every dive and he has a smattering of every language prostitutes speak. And he'll tell you what's what for a bottle of gin, but you must not rely on him. The second lead starts flying or things get bad, he will take off and steal your boots while you're looking the other way. Get what you need from him. Keep your hand on your wallet and get to the mountain. Got it?"
+
+Brady is pretty sure he's going to die. 
+
+Dr. Jack revives Finch with smelling salts. Awakening tied securely to a chair, Finch struggles, blinking bloodshot eyes in terror. Shuddering, he stares at the golden Peruvian mask and exclaims, "That bloody gold glass... that thing is a telescope to hell! What was that?" He describes a cosmic vision of the sky torn open by hooks, screaming brass horns, mountains of rotting flesh falling from the tear, and London collapsing into black mud while maddened citizens tear off their own faces.
+
+Serafina and Gus Smorrich explain that they are hunting the cults responsible for bringing about this very end of the world. When Finch demands to know the fate of Monty Brackreid, Gus recounts the horrific confrontation at Ho Fang's mansion in Shanghai, explaining how Monty was raked by the venomous claws of the undying Zahra/Nitocris and turned instantly to dust. Hearing this, Brady summons Finch over, looking him in the eye. When Finch asks if Brady's companion Roger Carlyle suffered the same madness, there is a bit of a group effort in instant lie creation where they insinuate that the artifact caused Roger’s condition. Serafina tries to explain there are many other forces at work leading to the end of the world but he's not hearing it.
+
+Finch remains skeptical of the supernatural threat until Brady lets out a raspy laugh and suggests demonstrating the stolen Yithian "model B." Taking Finch's silver coin as collateral, Brady suggests Gus do the deed. There's some back and forth but they decide to do it.
+
+At 11:00 PM, on the pitch-black upper deck beneath heavy sea spray, Gus points a Yithian Model B over the railing into the empty Indian Ocean and pulls the rubbery triggers. A deafening thunderclap and a blinding arc of blue-white electrical lightning detonate against the water, converting a fifty-yard radius of ocean into an instantaneous wall of roaring steam and glowing plasma.
+
+Finch stands in stunned, manic awe, stammering. When he manages to get himself together, he's excited. This weapon would melt an ironclad, could change the face of the world, etc.
+
+Ossmus smooths over the startled crew with fast-talking explanations of a naval "hydroelectric experiment" as they usher the excitedly jabbering Finch back below deck.
+
+Back in the cabin, Brady flips Finch his silver coin, who expertly catches it. Amazing reaction time. Finch fully drops his facade and reveals his true backing. He works for a group that handles threats to the Crown abroad that the army can't see, and that the local police are too useless to touch. Monty was a friend of his on a personal basis, not an agent or a soldier. He was an intelligence officer running at one of their Cairo desks. When he went to Shanghai, their superiors thought he'd gone rogue or been bought out by a warlord, but Finch insists that he knew him and that he wasn't a traitor. 
+
+"I pulled string after string to follow his trail and eventually found you. I expected to find a German spy ring or some kind of Chinese triad or a Bolshevik cell using some new military hardware. I thought you lot were a crew of thieves or foreign saboteurs. But between the bloody golden mask thing that you just put on my face, the end of the world, and watching you blow a hole in the actual ocean... I am an officer of His Majesty's Secret Service and I am telling you right now, whatever file I was building on you is gone. I don't care about the laws that you've broken. I want to understand where that weapon came from, and I want to know more about this thing that killed Monty—and in particular I want to know if it's still alive."
+
+The group outlines their campaign to shut down the cult centers of power in Australia, Kenya, and Gray Dragon Island. Recognizing Sir Aubrey Penhew's assumed alias of Alfred Penhurst in Shanghai, Finch formally aligns himself with the group as an ally, offering to use his official authority to secure elite accommodations and transit.
+
+### September 26–29, 1925: Arrival at Durban (Port Natal, South Africa)
+
+Two days later, the tramp steamer enters Port Natal at Durban. True to his word, Finch uses his credentials to gain emergency surgical privileges at the Victorian-era Addington Hospital. It is an impressive facility full of the most recent medical devices and clearly top tier care.
+
+Dr. Jack Moody leads the delicate operation with Gus assisting. Utilizing the telepathic instructions previously provided by Kakakatak, which is apparently actually did understand, Dr. Jack successfully excises the parasitic juvenile sand-bat creature from Brady’s torso. The writhing, wingless slug-like entity is dropped into a jar of formaldehyde, where it expires. Brady survives the procedure but is left bedridden and requires at least two weeks of strict convalescence before he can safely travel.
+
+Rather than waiting in South Africa, the group decides to press forward immediately to Kenya. Finch arranges for Brady to be looked after and given passage to Mombasa once recovered.
+
+Before departing, the group coordinates logistics. Using their knowledge of ancient Classical Chinese, Ossmus and Serafina draft an encoded telegram to Mu Hsien in Shanghai. Upon receiving a confirmed safe delivery address, the group ships nine of their eighteen Model B lightning weapons back to China for safekeeping, retaining the remaining nine for their upcoming trek. Dr. Jack spends an afternoon performing a scientific dissection on the preserved juvenile sand-bat specimen, gaining unsettling insight into its biology before the group boards a Baffrey Line steamer bound for Kenya on September 29.
+
+Inventory: -9 fully charged model Bs
+
+### October 7, 1925: Arrival in Mombasa, Kenya
+
+On October 7, the steamer arrives in the bustling port of Mombasa. As the group disembarks at the harbor, Serafina spots a familiar figure in the crowd: the young Indian man in sharp, expensive clothing whom she had previously and entirely by chance spotted on the docks of Durban, catching her eye for some reason. The moment eye contact is made, the youth vanishes into the bustling crowd of Kenyans and non-Kenyans swarming the port.
+
+While Finch books first-class tickets for the Ugandan Railway train to Nairobi, the group splits up in Mombasa. Serafina and Dr. Jack navigate Old Town and the local bazaars to procure daggers and replenish medical supplies, with Dr. Jack purchasing a massive double-barrel .450 elephant rifle.
+
+Meanwhile, Ossmus, Gus, and Lia Birmingham hike to the Kilindini Harbor district to investigate the export warehouse of Ahja Singh, who they were aware of as part of the shipping ring. Inside the small, nondescript office, they meet Opinder Singh, a clerk managing affairs while Ahja is away in India. Ossmus weaves an elaborate cover story regarding a damaged shipment under invoice "32129". Flustered, Opinder admits to handling regular shipments of "cultural art" dispatched to the Penhew Foundation in London, Silas N'Kwane/Emerson Imports in New York, Ho Fang in Shanghai, Omar al-Shakti in Egypt, and Randolph Shipping in Australia.
+
+While Opinder takes Gus and Lia into the adjoining warehouse to inspect crates—passing four formidable hirelings—Ossmus picks the lock of the office’s cheap iron safe. Inside, Ossmus finds invoices, British and Egyptian currency, Indian rupees, a desiccant white powder, and Ahja Singh's private Hindustani ledger. Ossmus pockets the cash, powder, and ledger, relocks the safe, and seamlessly regroups with the party.
+
+### October 7–8, 1925: The Uganda Railway to Nairobi
+
+The group reunites at the Mombasa railway station, boarding the Ugandan Railway train bound for Nairobi. As the train begins its slow 18-hour climb inland, Serafina spots the same young Indian observer standing near the platform, watching their departure intently.
+
+Reviewing the stolen Mombasa ledger in their private first-class compartment, the group discovers dozens of recurring shipments of "cultural art" recorded as bricks and casks of tea consigned to a Taan Kaur in Nairobi, dating consistently back to 1917.
+
+The train traverses the gentle plains, climbing 3,800 feet into the cooler highlands as herds of giraffes, rhinos, and elephants graze near baobab trees. By late afternoon on October 8, the snow-capped peak of Mount Kilimanjaro looms in the distance, and the train enters the approach toward the Aberdare Forest.
+
+Roughly two hours outside Nairobi, there is a commotion further up the train. Almost immediately, a sudden wave of blistering heat washes against the exterior of the first-class coach. Dr. Jack and Serafina peer through the window to witness two serpentine, flaming entities hovering outside: one glowing burning blue, the other deep crimson.
+
+Terrified screams erupt from the forward passenger cars as the heat intensifies. Serafina immediately recognizes the creatures as Fire Vampires, supernatural plasma entities that attack by touch, ignite any and all flammable material, and drain magical energy through opposed force of will.
+
+"Fire vampires!" Serafina screams. "We need to hit them with water or a fire extinguisher or try to smother them! They will kill us if they touch us!"
+
+Realizing the creatures are closing in on their compartment window to incinerate the car, Gus and Lia recall the locations of fire sand-buckets in the hallway and metal water pitchers in the lavatories as the wooden walls begin to scorch and buckle.
+
+### October 8th, 1925 on The Uganda Railway to Nairobi, First Class, On Fire (roughly 10am)
+
+## 1926
 
 	January 14th - THE END OF THE WORLD (per Larkin: "This world ends" just before he died)
 
@@ -2180,6 +2247,9 @@ As the drugs take hold and his eyes roll back, a sweating Finch fiercely clutche
 	Alistair "Alec" Finch - early 40s - some sort of intelligence handler for Monty, claims to live in London and be British but with an American accent, met on the ship from Melbourne to Capetown, hunting the group he thinks killed or covered up Monty's death
 	Bertram "Nails" Nelson - [ not yet met, multiple connecting threads from handouts, brady ]
 	Johnstone Kenyatta - [ not yet met, connections from Elias ]
+	Ahja Singh - Importer/Exporter in Mombasa, claimed to not be in Kenya (in India, on busines)
+	Opinder Singh - a clerk in Ahja Singh's import/export business, taking care of the business while Ahja is away
+	Taan Kaur - [ not yet met, recipient of shipments of "tea" ]
 
 ## THE ASSEMBLED TIMELINE
 
@@ -2531,3 +2601,4 @@ Sessions:
 	2026-07-10 Meeting Kakakakatak
 	2026-07-17 Let's Murder Robert Huston
 	2026-07-24 Meeting Alistair Finch 
+	2026-08-07 Fire Vampires on a Train
