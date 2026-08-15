@@ -16,7 +16,7 @@ Current
 
 Gus Smorrich - a mechanic/all around kind of guy who they met in Peru and who has been tagging along since; somewhat middle aged
 
-Serafina Casartelli - a young woman (now in her late 20s) who comes form an italian circus family; her expertise is throwing knives, joined in Peru
+Serafina Casartelli - a young woman (now in her late 20s) who comes form an italian circus family; her expertise is throwing knives, joined in Peru (alias Maude Thistledown)
 
 Lia Amalia Birmingham - a one eyed 40-something woman of suspicious background who joined up with the rest in Peru on Larkin's expedition
 
@@ -2060,13 +2060,82 @@ The train traverses the gentle plains, climbing 3,800 feet into the cooler highl
 
 Roughly two hours outside Nairobi, there is a commotion further up the train. Almost immediately, a sudden wave of blistering heat washes against the exterior of the first-class coach. Dr. Jack and Serafina peer through the window to witness two serpentine, flaming entities hovering outside: one glowing burning blue, the other deep crimson.
 
-Terrified screams erupt from the forward passenger cars as the heat intensifies. Serafina immediately recognizes the creatures as Fire Vampires, supernatural plasma entities that attack by touch, ignite any and all flammable material, and drain magical energy through opposed force of will.
+Terrified screams erupt from the forward passenger cars as the heat intensifies. Lia immediately recognizes the creatures as Fire Vampires, supernatural plasma entities that attack by touch, ignite any and all flammable material, and drain magical energy through opposed force of will.
 
-"Fire vampires!" Serafina screams. "We need to hit them with water or a fire extinguisher or try to smother them! They will kill us if they touch us!"
+"Fire vampires!" Lia screams. "We need to hit them with water or a fire extinguisher or try to smother them! They will kill us if they touch us!"
 
 Realizing the creatures are closing in on their compartment window to incinerate the car, Gus and Lia recall the locations of fire sand-buckets in the hallway and metal water pitchers in the lavatories as the wooden walls begin to scorch and buckle.
 
 ### October 8th, 1925 on The Uganda Railway to Nairobi, First Class, On Fire (roughly 10am)
+
+Two hours outside of Nairobi aboard the Uganda Railway, with the first-class coach under sudden, ferocious attack by two Fire Vampires. One is burning a fierce blue, the other a deep crimson. Recognizing the entities from their Mythos lore, Serafina and Lia immediately shout warnings that mundane weapons will not harm them, that they ignite everything they touch and drain magical essence, and that water and sand are the only practical means of smothering the beasts. Serafina dashes toward the dining car to secure pitchers of water from the tables, while Gus heads down the aisle to the lavatory to grab the large wash pitcher.
+
+Lia and Ossmus rush to the hallway ashtrays to gather buckets of sand. Outside the shattered compartment window, the Fire Vampires release a hissing, rushing sound. A jet of flame erupts into the cabin, instantly igniting the cushions, woodwork, and loose belongings. As smoke billows into the hallway, Alastair Finch draws his pistol and retreats to cover. He heard them, but in the heat of the moment his instincts are taking over.
+
+Ossmus tries throwing sand but misses all but a bit. Serafina reaches the dining car, retrieves a pitcher of water, and begins soaking blankets. Gus does likewise. Lia scoops up sand and hurls a targeted handful through the doorway at the crimson entity; the sand strikes true, noticeably diminishing the beast's glow. Alistair grabs the bucket from Ossmus and tosses the sand expertly onto the crimson orb, extinguishing it. Meanwhile, Dr. Jack Moody hears strange, rhythmic chanting echoing from the distance and realizes the summoner must be atop the train. Handing his spare blankets to Serafina, Dr. Jack climbs up the exterior handholds onto the roof of the train to investigate.
+
+In the car, Gus enshrouds the blue entity with a wet blanket, nearly extinguishing it, but not quite. Alastair Finch, nearby, mistakenly assumes this is an attempt to smother it (which it is) and attempts to finish the with his wool jacket. Still clinging to life, the creature lashes out and sets his clothing ablaze, inflicting severe burns. 
+
+Seeing the danger, Gus rushes forward with a soaked blanket, deftly wrapping and extinguishing the flames engulfing Finch. Serafina follows up with a second wet blanket, hurling it cleanly onto the blue entity; with a violent hiss and a burst of scalding steam, the second fire vampire completely evaporates.
+
+The train suddenly screeches and jolts violently, throwing everyone forward as the emergency brakes engage.
+
+As Ossmus uses his fast-talking skills to bellow down the corridor and keep panicking passengers from flooding the burning hallway, Dr. Jack spots the summoner at the far front of the train above the tender car: an apparently elderly Indian woman. As Dr. Jack scrambles across the swaying roof, the woman nimbly leaps a staggering fourteen feet down from the train to the ground and ducks into a grove of trees. Dr. Jack and a pursuing Serafina climb down to track her.
+
+Dr. Jack attempts to cast a debilitating spell, but the sorceress effortlessly shrugs it off. Whirling on her heels, she attempts to magically compel Serafina to attack Dr. Jack, shouting: "Attack the man!". Serafina strains her willpower and successfully resists the mental command. Dr. Jack levels his revolver, firing two shots past a herd of grazing wildlife; the second bullet strikes her upper torso, dropping her instantly.
+
+As the dying figure hits the dirt, the sorcery unravels. The form shifts and alters, revealing not an elderly woman, but the youthful corpse of a young Indian man, perhaps twenty five years old, maybe younger. Hearing the gunshots, railroad workers and conductors come sprinting forward. Dr. Jack quickly explains in distractingly fluent Swahili that the man was an assailant who had attacked an innocent woman who fled into the bush, completely disarming the shocked workers with his language skills. Meanwhile, across the tracks, a car full of Indian passengers stares out the train windows, having quietly witnessed the entire bizarre sequence.
+
+The group gathers their gear and secures private access to the dining car for the final stretch into the capital, giving first aid and treatment to the badly burned Finch. Reflecting on the attack, Finch expresses deep guilt, admitting to Serafina that while pursuing them from Shanghai to Australia he had asked far too many reckless questions, undoubtedly alerting the cult's network to their arrival.
+
+### October 8th, 1925 – Arrival in Nairobi
+
+The train pulls into Nairobi Station at midday. The group takes in the bustling colonial city, observing the stark segregation dividing the town into European, Asian, and African sectors. 
+
+The group splits up to handle immediate logistics:
+
+Lia and Gus escort the heavily bandaged Alastair Finch to the Highlands Breeze Hospital, where Finch is admitted for several days of critical burn recovery. Lia agrees to remain at the hospital to watch over him and maintain security.
+
+Ossmus, Serafina, and Dr. Jack visit the Bank of England and General Post Office. They wire Carlton Ramsey and Willa Sligh in New York for emergency expense funds, and send a cautionary telegraph to Jack Brady in South Africa warning of train attacks. They are somewhat cryptic in the telegraphs.
+
+After learning about local lodging options from hospital staff, the group chooses Hampton House Hotel, an expansive but not exclusive, two-story establishment run by a borderline alcoholic named Reggie Baines. Entering the hotel lobby, they are warmly greeted by Baines, a portly, jovial host who proudly describes his lavish Colonial Kenyan breakfasts. They eventually arrive at taking on three upper-floor rooms for a total of twenty pounds for the week, which they pay in advance using the money stolen from Finch.
+
+He regales them with the included breakfast from the hotel's restaurant, a lavish, multi-course affair designed to transplant Edwardian English comfort straight onto the equator.
+
+	The Spread: 
+
+	The Fruits of the Colony: Slices of fresh, cold papaya served with wedges of sharp lime, sweet tree-ripened mangoes, pineapples from coastal estates, and small, unique creamy wild bananas.
+
+	Porridge & Grains: Thick, steaming Scottish oat porridge served with heavy unpasteurized cream and dark cane brown sugar, alongside toasted white toast racks, fresh butter churned on nearby Rift Valley farms, and bitter Seville orange marmalade.
+
+	The Main Hot Table (Silver Chafing Dishes):
+
+	Kedgeree: The staple Anglo-Indian breakfast dish of flaked smoked fish, spiced rice, hard-boiled eggs, and fresh cream seasoned with mild curry powder.
+
+	Thick-cut back bacon, fried eggs, grilled farm sausages, and deviled kidneys tossed in spiced butter and mustard.
+
+	Sautéed liver or tender cuts of grilled wild game (often gazelle or venison). 
+
+	Beef steaks made to order.
+
+	Beverages:
+
+	Strong, black tea grown on the Kericho foothills, brewed dark and taken with hot milk.
+
+	Freshly roasted Kenyan Arabica coffee, rich, fragrant, and heavily aromatic.
+
+	Freshly squeezed tropical juices (orange, passionfruit, or guava).
+
+Examining the framed photographs behind the front desk, Gus spots an unmistakable portrait of the Carlyle Expedition principals posing outside the hotel in 1919 with Baines, including Roger Carlyle, Sir Aubrey Penhew, Hypatia Masters, Robert Huston, and Jack Brady.
+
+Baines notices their interest and takes the picture down, reminiscing about the ill-fated travelers:
+
+"It's a little macabre to keep that up, isn't it? I should probably take it down... The fatalities were only the members of the expedition. It seemed quite well targeted if you ask me."
+
+He recalls that Carlyle was a "jumpy fellow" who stayed locked in his room with Brady, Masters was constantly sickly in the mornings, and Sir Aubrey Penhew was an energetic "true gentleman" who kept "queer companies," frequently entertaining a local Indian tea-shop proprietor in the private lounge to arrange shipments of rare goods as well as other locals. Baines also notes that before heading into the backcountry, the Carlyle party spent a few days on holiday testing their rifles at a hunting lodge run by Colonel Henry Endicott.
+
+When questioned about local figures, Baines recognizes the name Johnstone Kenyatta, describing him as an active Kikuyu nationalist who can frequently be found at the Kikuyu Central Association offices or around Swahili Town. The group retreats to their rooms to clean the soot from their gear, with plans to investigate Kenyatta, Nails Nelson, and Taan Kaur's tea shop in the morning.
+
 
 ## 1926
 
@@ -2250,6 +2319,7 @@ Realizing the creatures are closing in on their compartment window to incinerate
 	Ahja Singh - Importer/Exporter in Mombasa, claimed to not be in Kenya (in India, on busines)
 	Opinder Singh - a clerk in Ahja Singh's import/export business, taking care of the business while Ahja is away
 	Taan Kaur - [ not yet met, recipient of shipments of "tea" ]
+	Reggie Baines - owner operator of the Hampton House Hotel in Nairobi
 
 ## THE ASSEMBLED TIMELINE
 
@@ -2290,11 +2360,11 @@ Dahshur ends.
 
 18th July 1919: the Expedition leaves Egypt for Kenya by ship (via Erica Carlyle and news reports)
 
-30th July 1919: the Carlyle Expedition arrives in Mombasa, Kenya. Roger is irrational and fading fast, Brady is still mulling over what to do but is planning his and Roger's exit. They head by rail to Nairobi where they stay at Hampton House and prepare to go deeper into the Kenyan wilderness (Brady to Dr. Jack)
+30th July 1919: the Carlyle Expedition arrives in Mombasa, Kenya. Roger is irrational and fading fast, Brady is still mulling over what to do but is planning his and Roger's exit. They head by rail to Nairobi where they stay at the Hampton House Hotel and prepare to go deeper into the Kenyan wilderness (Brady to Dr. Jack). Several photos are taken of the expedition members with the hotel owner, Reggie Baines (Reggie Baines). They meet with a number of the locals.
 
 1st August 1919: the Expedition visits Endicott’s Game Lodge, returning after two days to Nairobi - at this point, Brady is committed, and knows that they will need to leave before the expedition heads to "the mountain." (Brady to Dr. Jack)
 
-3rd August 1919: the Expedition makes final preparations to depart Nairobi the following day, guided by M'Weru. That night, Brady and Carlyle secretly flee to Mombasa and depart by ship to Perth, planning to continue to Shanghai (Brady to Dr. Jack)
+3rd August 1919: the Expedition makes final preparations to depart Nairobi the following day, guided by M'Weru. That night, Brady and Carlyle secretly flee to Mombasa and depart by ship to Perth, planning to continue to Shanghai (Brady to Dr. Jack). The expedition stays a few more days and then departs (Reggie Baines).
 
 15th September 1919: Brady and Carlyle arrive in Hong Kong (Brady)
 
