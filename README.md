@@ -2136,9 +2136,125 @@ He recalls that Carlyle was a "jumpy fellow" who stayed locked in his room with 
 
 When questioned about local figures, Baines recognizes the name Johnstone Kenyatta, describing him as an active Kikuyu nationalist who can frequently be found at the Kikuyu Central Association offices or around Swahili Town. The group retreats to their rooms to clean the soot from their gear, with plans to investigate Kenyatta, Nails Nelson, and Taan Kaur's tea shop in the morning.
 
-### October 9th, 1925 – Over Breakfast
+### October 9th, 1925 – Morning - Over Breakfast
 
-Alaistair is going to be out of commission at the hospital for several days. 
+Over the usual lavish colonial breakfast at Hampton House, the group takes stock of their situation. Alastair Finch: bedridden at Highlands Breeze Hospital. Jack Brady:  recuperating in South Africa. 
+
+They are on their own in Nairobi. Serafina wonders whether they can teach the Eye of Light and Darkness ritual/spell and ancient Chinese, or maybe phonetically, but realizes no. They're just going to have to not die.
+
+Dr. Jack Moody wants to remain focused on finding Brady's old acquaintance, Bertram "Nails" Nelson, while the others ponder alternatives: Johnstone Kenyatta, Taan Kaur’s tea shop, and the local press. Reggie Baines stumbles down to the dining room nursing a terrible hangover. When pressed about where ex-military types and working-class drinkers congregate, Reggie groans about the altitude and suggests the Loyal Defender Pub, an enlisted men’s watering hole located south of the railway station in the industrial district. He warns that he doesn't know Nelson personally, but offers to put out some discreet feelers for a scruffy soldier-of-fortune type.
+
+The group acquires copies of the local newspapers (East African Standard, Nairobi Star, Mombasa Times, "The Reconciler" in Kikiyu etc.). The single-page Nairobi Star features typical local news, but nothing overtly referencing the cult or occult disappearances. It's the only decent one.
+
+They decide the first order of business, given it's a little early for a bar crawl, is Johnstone Kenyatta and set out on foot toward the edge of Swahili Town. Serafina spots a young Indian man discreetly trailing them from a distance, ducking out of sight whenever they look back.
+
+They locate the KCA offices: an unpretentious, single-story storefront of wood and mud brick with a corrugated tin roof and a crooked hand-painted sign. Two alert Kikuyu youths in clean cotton shirts stand guard by the screen door. Dr. Jack attempts to grease the wheels in Swahili, but the guards switch to English, skeptical of foreigners showing up unannounced. Gus steps in, explaining that they are friends of the late Jackson Elias investigating the sinister forces behind his murder. The guards have no idea who that is. However, with some strong persuasion, a voice calls out from within in flawless English: "Peace, brothers, let me hear them."
+
+Inside, they meet Johnstone Kenyatta, an educated and sharply observant man holding a cup of tea. He leads them into a private back room to speak. Gus lays out their harrowing pursuit from Peru and New York to the Carlyle Expedition and Elias's murder. Kenyatta listens carefully, explaining, "My grandfather was a great morogi... a diviner. I have tried to leave that world behind and enter yours, but I am curious."
+
+He confesses that when Elias came to him in 1924 asking about the Carlyle massacre, he told Elias about the Cult of the Bloody Tongue and directed him to Lieutenant Mark Selkirk. However, Kenyatta withheld his deepest contact: "I did not send Jackson Elias to him, because to me Elias seemed doomed. And I didn't want to burden my friend with such a difficult gift. But I perceive something in you... Perhaps your destinies are unfinished."
+
+Kenyatta offers to introduce them to an ancient witch doctor named Old Bundari. He instructs the group that at noon, a messenger will wait outside their hotel. "You must follow him at a distance. He will make sure that you are not left behind. And if he stops and waits, then you must also stop and wait. The door he enters will have yellow paint. That door you will also enter swiftly and without hesitation."
+
+With roughly two hours to kill before noon, they do some discreet reconnaissance of Taan Kaur’s tea shop on Biashara Street in the Indian Quarter. The storefront is a clapboard building with a tin roof, bustling with local customers purchasing loose tea in paper sachets. Behind the building, they find a wide access road suitable for lorries, featuring two rear delivery doors and a small window, with no chimney smoke evident.
+
+Dr. Jack slips inside to pose as an ordinary customer. The shop is manned by Taan Kaur herself: a plump, middle-aged Indian woman wearing gold and silver rings and a fixed, polite smile. She charges Dr. Jack a modest sum for a personal parcel of tea. When Jack mentions he is staying at the New Stanley and will soon move on to Cape Town, Taan Kaur remarks that she finds Cape Town disagreeable and prefers London or returning to India, adding that she travels to the continent at least once a year to manage her export ventures. Dr. Jack notices a framed clipping from the Nairobi Star celebrating the shop, but detects no overt occult paraphernalia on the shelves.
+
+Returning to Hampton House, the group inspects the mysterious white powder recovered from Ahja Singh's safe in Mombasa, discovering it is simply common sugar used as a storage desiccant. Examining the red pouch taken from the dying sorcerer on the railway, they find a curious, ash-covered mixture of loose tea leaves, wood ash, and dried cloves—vaguely reminiscent of the dark powders once encountered in Zahra Shafik’s London flat. There's no insight as to what it actually could be.
+
+At five minutes to noon, Dr. Jack and Lia spot a remarkably tall Black man in a clean white shirt and trousers, standing barefoot near the hotel entrance. Catching their eye, the runner turns and walks toward Swahili Town.
+
+The group tails him at a distance into the deepest, poorest quarter of the settlement, surrounded by thatched mud hovels. The runner stops before a weathered doorway painted bright yellow and steps inside. Following closely, the group enters a dilapidated shed to find a high-wheeled, yellow Rolls-Royce roadster. The driver silently motions them in, floors the accelerator, and hurtles down rough dirt tracks away from Nairobi, kicking up a rooster-tail of dust.
+
+An hour later, the car halts on the outskirts of a remote, traditional village. A delicate-looking young apprentice named Okomu approaches the vehicle. When Ossmus steps out and tries to charm the apprentice with street-magician sleight of hand, Okomu is unimpressed and turns away in disgust, snapping: "You are unworthy."
+
+To prove their sincerity, Okomu turns to Gus and demands: "Cut your palm." Gus obliges, lightly nicking the edge of his hand with a blade to let fresh blood flow. After inspecting the blood and passing a Luck roll, Okomu nods and grants them entry, though he bars Ossmus from entering the sacred space. Resigned, Ossmus retreats toward the perimeter to kill time while the others are led away.
+
+Okomu escorts Gus, Serafina, Lia, and Dr. Jack into a large dwelling shaped like a snail shell or coil. Its narrow, winding entryway curls around the perimeter of the structure, its whitewashed walls lined with tribal masks, charms, and intricate warding symbols etched into the mud and thatch. In the center sits an ancient, frail black man, bare-chested and adorned with piercings, feathers, and bone rings. He sits motionless in a trance so profound he appears dead.
+
+Okomu begins gently massaging the old man’s limbs, explaining that Bundari’s spirit is actively traveling across planes and that his physical shell must be guarded and tended until his consciousness settles back into this realm. He warns the group to sit in absolute silence.
+
+Meanwhile, an intensely bored Ossmus sneaks down the curving outer hallway of the hut, successfully using stealth to peek into the central chamber without disturbing the meditation. For over two hours, the party sits quietly, sharing a light meal of unshelled peanuts, baked plantains, and milk provided by Okomu.
+
+At long last, the withered form of Old Bundari stiffens and swells with life. Opening his rheumy eyes, he regards each visitor in turn, speaking through Okomu:
+
+To Gus: *"You nearly died in the smoke of the pyramid."*
+
+To Lia: *"You were in a hut with a knife and going to die."*
+
+To Dr. Jack: *"The girl will never be healthy. She will never be sane."*
+
+To Serafina: *"You ran when the wrapped woman killed your friends."*
+
+They grok that this is his proving he is the real deal. 
+
+Settling back, Bundari warns them: "The Bloody Tongue is arrogant. People across the land disappear into the mountains, stolen by the cult for blood and sacrifice... Many of us must pray continuously to N’gai, the Lord of Kere-Nyaga, to stave off this evil." 
+
+He grants each of the four two direct questions.
+
+Serafina’s First Question: Where must the ritual be cast to stop the darkness?
+
+Bundari reveals that the Eye of Light and Darkness must be raised at three critical nexuses: the Mountain of the Black Wind in Kenya at an ancient sacrificial site, the Purple Temple under the Australian desert, and Gray Dragon Island in China.
+
+Dr. Jack’s First Question: Where is the Mountain of the Black Wind and how do they reach it?
+
+Bundari explains his spirit once traveled eastward to confer with the ancient mystic Hsan, author of the Seven Cryptical Books (of Madame Lin's interest). He provides general descriptions of the terrain, while Okomu adds that a man named Sam Mariga in Nairobi's Swahili Town can guide them directly to the peaks.
+
+Gus’s First Question: How can they survive when they return to China?
+
+Bundari answers gravely: "First you must have the leadership that you are lacking. You speak of a return before you survived what waits for you in this earth. The bloated horror of that Eastern city does not hunt with spear or panga... There is one who calls himself the Pale Viper who went there from these lands and does not walk alone. He has bound the rot of the deep sea to his will. You cannot survive there with fire or lead, for every stone you cast upon their water returns as a wave to drown you. To walk through that city and live, you must become like the wind unseen, carrying nothing that hungers, leaving no face upon their mirrors. But hear this: you cannot chain the beast in the East while the cradle in the mountain rocks. If the Great Sign, the Eye of Light and Darkness, is not raised here upon the Mountain of the Black Wind to blind the Bloody Tongue, all of your journeys to the East will be walking to an open grave."
+
+Lia’s First Question: How can they thwart the Cult of the Bloody Tongue?
+
+Bundari relates the nature of the horror: "The God has no face, only a blood-red tongue that runs down from where the top of its head should be. The mere sight of this hideous God drives men mad. The God's high priestess is called M'Weru. She lives in the mountain. It was she who prophesied the coming of a child of the God, a part-human monster who is soon to soak the land with blood."
+
+Dr. Jack’s Second Question: Where is Hypatia Masters?
+
+Bundari confirms the awful truth: "They carried away the members of the expedition and brought them to the Mountain of the Black Wind, a terrible place shunned by everyone. And the woman is still there now, with child."
+
+Lia’s Second Question: Where do they find the leadership they lack?
+
+Bundari indicates they must secure Jack Brady before he succumbs to his afflictions.
+
+Gus’s Second Question: What was the machinery being manufactured at Henson's in England?
+
+Bundari explains that deep in Gray Dragon Island, the cultists are assembling a monstrous mechanical apparatus and an aerial vehicle based on the technology stolen from the Great Race's underground city, designed to tear open the sky during the coming solar eclipse.
+
+Serafina’s Second Question: Is there an unknown ally who can aid them?
+
+Bundari muses that there is one powerful figure who despises the notion of world destruction: an ancient woman who lives only for dominion, who knows that if the world ends, her reign ends with it—implicitly pointing them toward Queen Nitocris.
+
+Exhausted by the communion, Bundari presents the group with two sacred gifts to aid their survival:
+
+1. Bundari's Fly Whisk: An ornate ebony-handled whisk carved with Kikuyu glyphs. Bundari explains that evil spirits often take the form of flies; the fetish serves to detect hidden evil, grants a bonus die on opposed Power tests, and assists in uncovering concealed unholy passages.
+
+2. "Who" the not-Chameleon: A small wooden cage housing a grotesque, three-horned reptilian creature. Its jaw opens along a bizarre vertical axis, and its forelimbs bifurcate at the elbows into dual paws. Bundari instructs them to feed her living flies daily, and under no circumstances release her until they reach the Mountain of the Black Wind when they are in desperate need.
+
+Outside the hut, Serafina takes custody of the fly whisk while Lia takes charge of the chameleon cage. Remarkably, a 15-foot aura surrounds the group, causing all insects and mosquitoes to instantly scatter from their vicinity. Okomu warns them sternly that Who must never go hungry.
+
+The yellow roadster returns them to the outskirts of Nairobi, taking them past Charles Street where Sam Mariga lives in a modest house distinguished by vibrant, immaculate floral gardens. Knowing they must plan carefully, they return to Hampton House to secure the strange lizard in their quarters before venturing out for the evening.
+
+At 5:00 PM, the group heads to the industrial district south of the railway station to track down Bertram "Nails" Nelson at the Loyal Defender Pub. The establishment is packed with rowdy, red-faced veterans of the King’s African Rifles and unkempt mercenaries nursing pints of stale ale.
+
+When Ossmus bellows a loud inquiry for Nails Nelson, the bartender glares coldly, but Dr. Jack spots their man slumping in the darkest corner by the latrines: a scruffy, hollow-cheeked figure with greasy gray stubble, sporting a filthy shirt and a weathered scowl.
+
+The group approaches his wobbly table. Nelson greets them with cynical suspicion: "The barman's got a fresh bottle of London Dry Gin under the plank. Set me up with a proper double and maybe the grease in my ears will clear up. It's dry work sitting in this hell hole watching the empire rot."
+
+After Dr. Jack buys a bottle of gin, Ossmus drops the magic phrase: "Brass Brady sends his regards."
+
+Nelson sits up, taking three deep pulls from the bottle. He admits he last saw Brady in Hong Kong years ago, but shrugs off why he hasn't sent word: "I don't have any words to tell him... Look around you. This place is falling apart. There's nothing for a man like me to do."
+
+When the group explains that the Carlyle Expedition members were not slaughtered in 1919 and that they recently encountered Robert Huston alive in Australia, Nelson is stunned. He pulls up his trouser leg to reveal a deep bullet scar on his calf: "I tailed that whole bloody caravan north of Nairobi, skirting the Aberdare forest... Sir Aubrey leading from the front like he owned the continent, and that dumb photographer girl looking half-dead in her saddle. They headed straight for Mount Satima. I followed them as far as the foothills and then turned back."
+
+Nelson explains that he grew suspicious of Colonel Henry Endicott’s game lodge, but Endicott’s thugs shot him and ran him off when he started poking around. He remains baffled as to how anyone could have left Mount Satima alive without being spotted, though he recalls hearing distant, unnatural drumming and chanting in the foothills. He describes Endicott as a bitter, grieving man who lost his wife and son, warning that something is profoundly "off" about the Colonel. Maybe he helped smuggle them out somehow.
+
+When the group reveals they intend to conduct a late-night burglary of Taan Kaur’s tea shop to intercept cult shipments, Nelson’s ears perk up. Sifting his options, he asks what his cut of the plunder will be. Serafina reads his hesitation and lays it on the line, reminding him of his debt to Jack Brady and warning him that they are not people to cross. Winning him over, Nelson agrees to back their play: "You can't blame a man for sifting his options... No, I'll help you guys out if that's what you need."
+
+The group agrees to rendezvous with Nails Nelson later that night, finalizing their plans for an infiltration of Taan Kaur’s shop under the cover of darkness.
+
+### October 9th, 1925 – 9PM+
+
+
 
 ## 1926
 
@@ -2675,3 +2791,5 @@ Sessions:
 	2026-07-17 Let's Murder Robert Huston
 	2026-07-24 Meeting Alistair Finch 
 	2026-08-07 Fire Vampires on a Train
+	2026-08-14 Nairobi At Last
+	2026-09-04 Fly Whips and Chameleons
