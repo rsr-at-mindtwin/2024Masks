@@ -2252,8 +2252,68 @@ When the group reveals they intend to conduct a late-night burglary of Taan Kaur
 
 The group agrees to rendezvous with Nails Nelson later that night, finalizing their plans for an infiltration of Taan Kaur’s shop under the cover of darkness.
 
-### October 9th, 1925 – 9PM+
 
+### Friday, October 9, 1925 – The Burglary of Taan Kaur’s Shop
+
+Back at the Hampton House Hotel around nine in the evening, the group prepares for the late-night infiltration of Taan Kaur’s tea shop in the Indian Quarter. After debating what weapons to carry, Ossmus advises a quiet approach, leaving heavy rifles and shotguns behind in favor of concealed handguns, daggers, and clubs. Gus carries the Black Pharaoh club, Lia takes the venomous Sand Bat club, and Serafina brings Old Bundari’s carved fly whisk. They leave "Who," the three-horned chameleon creature, securely caged in their rooms. Having agreed to rendezvous with Bertram "Nails" Nelson around ten o'clock, the group sets out into the cool, thin night air of Nairobi, which smells faintly of imported eucalyptus trees and lingering wood smoke.
+
+Reaching the dark commercial district, they find Taan Kaur’s establishment shuttered, silent, and without smoke rising from the stack. Down the road, a clumsy crunch of boot heels cuts through the gravel. Nails Nelson stumbles toward them out of the shadows, waving his arms and smelling heavily of liquor. He wipes his wet mouth on his dirty sleeve, brandishes a rusted crowbar, and grins crookedly: "You lot took your sweet, bloody time. I've been staking out this place in the ditch across the way since around six p.m... well, maybe six-thirty. Ended up blowing the dust off two whole pints just keeping the chill out of my shins. Good news for us though, mind—the old bird packed it in early, seven sharp. Out she waddles through the front, all wrapped up in a shawl, and trotted off down the road. She padlocked the house tight behind her... empty as a church on Monday."
+
+Seeing that Nelson is heavily intoxicated, Dr. Jack Moody administers a dose of medicinal cocaine to sober him up, taking a small bump himself. The narcotic hits immediately; Nelson’s bloodshot eyes widen, his posture stiffens, and he becomes intensely alert and jittery.
+
+The group circles around to the back alley to force an entrance. Finding the padlocks stubborn, Dr. Jack and Gus pry at the rear access door until the fittings give way with a scrape. Serafina waves the fly whisk in the opening, but detects nothing. Slipping inside with flashlights, the group enters a back storeroom piled high with wooden crates, tea chests, stacked paper-wrapped bricks of tea, and barrels. The air is thick with aromas of dried tea, mint, and pungent spices. Examining the scraped floorboards, Gus and Dr. Jack notice distinct dragging marks leading up to an empty barrel. Shoving the barrel aside, they reveal a sturdy wooden trapdoor set flush into the dirt floor. When Serafina passes Bundari's fly whisk over the wood, a vibrant, glowing blue outline flares around the seams of the trapdoor before slowly beginning to fade.
+
+While the others examine the trapdoor, Dr. Jack checks the adjoining room and finds Taan Kaur’s living quarters - which are surprisingly bare. The bedroom contains modest furnishings, prints depicting Guru Nanak, and several Indian wood carvings. On a side table sit framed photographs; examining them closely, Dr. Jack and Serafina immediately recognize the young Indian man depicted in one portrait as the very same youth who attacked their train with fire vampires outside Nairobi and was shot dead by Dr. Jack. Searching the unmade bed, Serafina lifts the mattress and discovers a ledger tucked neatly beneath the pillow, which she pockets.
+
+A loud crash echoes from the shopfront. Rushing to investigate, they find Nails Nelson enthusiastically battering a locked wooden cash box behind the sales counter with his crowbar. The group tells him to quiet down and carry the locked box with him. Eyeing the glowing blue seams of the trapdoor, Nelson balks nervously, muttering that he wants no part of strange voodoo. The group fastens a rope to the iron handle and pulls the trapdoor open from a safe distance, revealing a dark flight of wooden steps descending into the earth. To ensure the passage is safe, Ossmus hurls a dense brick of tea down into the gloom. When nothing detonates, he cautiously leads the descent.
+
+Halfway down the stairs, a suffocating stench of rotting flesh and death hits them. The cellar is a crude, fifteen-foot-square chamber dug out by hand, with a low six-foot ceiling shored up with rough boards and timber braces. In the center stands a thick wooden support pillar fitted with heavy iron chains and dangling handcuffs. Set into the north and south walls are crude niches containing unlit candles. Against the far eastern wall looms a grotesque four-foot-tall statue carved of coarse black stone: a deformed, four-eyed dwarf-like figure with four arms wielding Indian sabers, supported by three squirming, tentacular appendages instead of legs. Examining the base, Nelson and the others notice thick, dark layers of crusted, dried blood. Dr. Jack points his flashlight at the dirt floor, noticing numerous overlapping rectangular depressions, each approximately three feet wide by six feet long, strongly suggesting human burial trenches.
+
+In the northwest corner of the cellar sits a massive, padlocked stone cabinet. Nelson panics entirely, muttering: "This is cult shit... look at this room. This is some kind of secret torture chamber. We need to get out of here." He swings his crowbar wildly at the padlock and fails to break it. Suddenly, a terrible, nauseating buzzing frequency begins vibrating in the back of Ossmus’s skull, prompting the stage magician to bolt up the stairs in a panic. Nelson follows right behind him with his stolen cash box.
+
+Gus doesn't like to leave empty-handed. Bracing himself against the stone cabinet, Gus uses his strength to wrench the padlock apart. Carefully running his fingers along the edge of the stone door, he detects and avoids a row of sharp razor blades rigged along the seam - he learned from, Shanghai. Inside the cabinet, Gus quickly sweeps the contents: a blood-encrusted meat cleaver (which he leaves behind), a box of twelve waxy  cones, a small stoneware screw-top jar, an old leather-bound Hindi book with a note tucked inside, and a neatly folded yellow ceremonial robe. Glancing into the candle niches on the cellar walls, Gus spots unburned fragments of identical incense cones. As the psychic buzzing intensifies in his own mind and nausea sets in, Gus bundles the loot into the yellow robe and races up the stairs.
+
+Upstairs, Nails Nelson completely loses his nerve. Panicking, he kicks violently through the rear door, sending it crashing open into the alley with a deafening bang while yelling: "Let's get the hell out of here!" Ossmus uses a lighter to set a dry brick of tea ablaze and tosses it onto a stack of wooden crates before fleeing. The group bursts into the alleyway and scatters in different directions into the darkness. Sneaking along Biashara Street, Lia catches sight of a short, plump Indian woman wrapped in a shawl—Taan Kaur herself—hurrying back toward the shop in the distance. Melding into the shadows of the unlit streets, the group evades detection and makes their way back to Hampton House.
+
+### Late Night at Hampton House – Examining the Spoils
+
+Gathering behind locked doors in their hotel rooms, the group inventories the items stolen from Taan Kaur’s shop. Looking through the personal ledger found beneath her pillow, Serafina notes several shipping payments from March to May of 1925 routed through Port Said in Egypt for rail berths and motor escorts. More significantly, she uncovers repeated entries from 1919 through mid-1921 labeled "cartage and provisioning," cross-referenced with "REF: H.E. estate." The entries record recurring shipments of dry grain and casks of spirits delivered to Nairobi, concluding with an ominous final note: "account closed, ground spoiled." Cross-referencing the initials, the group realizes that "H.E." refers directly to Colonel Henry Endicott and his hunting lodge.
+
+Opening the small stoneware jar, they find dry, green flakes resembling fruit rinds. Lia and Ossmus examine the material, concluding that it is not vegetable matter at all, but rather parched, leathery skin from an unnatural creature. The yellow silk robe features an embroidered emblem matching the multi-armed, tentacled Small Crawler statue found in the cellar.
+
+The stolen book is an ancient volume bound in flaking black calfskin with the scars of a broken iron clasp, written entirely in Hindi. Tucked inside is a handwritten note, which reads:
+
+	"And then shall the gate be opened, as the sun is blotted out. Thus, the Small Crawler will awaken those who dwell beyond and bring them. The sea shall swallow them and spit them up and the leopard shall eat of the flesh in Rudraprayag in the Spring."
+
+Ossmus recognizes Rudraprayag as an ancient temple site dedicated to Shiva in northern India. The reference to the blotting of the sun lines up with the total solar eclipse predicted for January 14, 1926. The group resolves to leave the incense cone unlit for now, fearing its fumes might attract cult attention to the hotel. They set a careful watch and rest for the remainder of the night.
+
+### Saturday, October 10, 1925 – Visiting Alastair Finch
+
+The morning arrives without any news of a fire on Biashara Street, suggesting Ossmus’s tea-brick fire went out or was quickly smothered by Taan Kaur. After sending someone to catch fresh flies from the hotel trash bins to feed the caged chameleon, the group heads to the Highlands Breeze Hospital to check on Major Alastair Finch.
+
+They find Finch propped up in bed, nursing a cigarette. His left arm, shoulder, and chest remain bundled in thick bandages soaked in yellow picric acid solution, but his color has improved and his spirit is combative. He greets them warmly: "Look who survived the night." He pushes himself up to demonstrate his strength, but grimaces slightly. "Sitting in this bed, letting some colonial orderly change my dressings while Monty's killers walk this bloody country makes my stomach turn. I can shoot with my right hand and I can still walk. The problem's not really walking though—it's the scrub. If we're going to be trekking into the bush or trailing up toward this mountain that you guys keep mentioning, keeping the dressings clean is going to be bloody hell. If I get an infection in the backcountry, open burns will turn rotten in 48 hours and I'm deadweight and you're going to end up having to bury me next to Monty if you can even find him. If you've got something going on in town now, I can probably back you up."
+
+The group explains that they recovered a dangerous occult book written in Hindi and need a discreet translator. Finch notes that several of the Indian nursing staff are literate and fond of him, offering to keep the calfskin book hidden in his bedside linens and have a trusted nurse look over the text during the afternoon shift. Serafina quietly suggests that an innocent nurse might also serve as the required candidate for their warding ritual, a grim thought that the others choose not to dwell upon.
+
+### Saturday Morning, October 10, 1925 – Meeting Dr. Horace Starret
+
+Leaving the hospital, the group walks into Swahili Town to follow up on a lead from Jackson Elias’s notes: Dr. Horace Starret. They locate his mission school and hospital, a bustling compound operating like an urgent-care clinic for the local African population.
+
+Dr. Starret receives them in his office. He is sixty-one years old, mostly bald, wearing an Anglican dog collar and large spectacles that he constantly removes and polishes with a linen handkerchief. Serafina takes the lead and turns on her charm, explaining that they are following in the footsteps of their murdered friend, Jackson Elias, to understand the truth behind the Carlyle Expedition.
+
+Dr. Starret is visibly shaken by the news of Elias's fate: "Dead? Lord have mercy on his soul. I am truly grieved to hear it. Of course I remember Mr. Elias. He came to see me last year... August, I believe. A remarkably driven, energetic young man, though I must say he had an awful pall of dread hanging about him when he came to talk to me."
+
+He recounts his interactions with the Carlyle Expedition in 1919. The group came to him to purchase medical staples because the main hospital facilities were not yet fully established, and Hypatia Masters made a generous charitable donation to the mission fund. Starret's expression darkens as he recalls examining the remains recovered from the massacre site: "The corpses were, without exception, torn to shreds. The pieces were in astonishingly fresh condition after having lain on the ground for months. They should have been thoroughly rotted or devoured by animals, given the amount of time between death and discovery. An eerie conclusion, you'll agree, but it confirmed me in my faith: a brush of the Devil's hand doomed those poor men! Supernatural evil is the only conclusion."
+
+When pressed, Starret lowers his voice and reveals the core secret behind the official inquest: "I found no evidence of any Caucasians among the dead. The authorities were quite insistent, and so I left my report suitably vague on the identity of the dead. I had no interest in lying, but the report I agreed to was perhaps more vague than would have been ideal, and I communicated this to our departed friend."
+
+Starret explains that the colonial administration was determined to settle the matter quickly to placate the influential Carlyle family and maintain control over the colony. Roger Corydon, the Colonial Undersecretary for Internal Affairs, oversaw the cover-up and ensured that innocent Nandi tribesmen took the fall. Starret adds that the search party was led by Captain Montgomery and Lieutenant Mark Selkirk of the King's African Rifles. Selkirk has since died in an accidental fire, but Starret believes Captain Montgomery is still stationed at Fort Smith. He cautions that Montgomery is a rigid stickler for military protocol, though he possesses "an extreme soft spot for charming ladies."
+
+Turning to their supplies, Dr. Jack Moody asks for a detailed accounting of the medicines the Carlyle party purchased. Starret consults his memory, listing heavy quantities of laudanum, petroleum jelly, antiseptic carbolic acid, and sterile gauze. Most tellingly, he recalls dispensing bismuth subnitrate powder—which Dr. Jack knows is prescribed for severe morning sickness—and ergotamine extracts, a compound used specifically to treat labor complications and control postpartum uterine bleeding.
+
+The medical records hint that Hypatia Masters was likely pregnant when the expedition set out from Nairobi into the wilderness.
+
+### Saturday, October 10, 1925 – Lunch hour
 
 
 ## 1926
@@ -2430,14 +2490,14 @@ The group agrees to rendezvous with Nails Nelson later that night, finalizing th
 	Kakakatak - physical age 2644 years - researcher of the Great Race - a female Yithian knowledge collector (from approximately -50M years ago) that eschewed the usual Yithian psychic time travel (on this occasion) for a one-way physical ticket to late 1910s Australia to gather knowledge from the Great City on Earth as it cannot be gathered remotely. When she has finished gathering knowledge from the city's libraries, she will project forward to the distant future to rejoin peers before she is physically terminated by the events of the opening of the Great Gate a few months hence. She has knowledge of the future having projected forward previously and has historical knowledge of the Great Gate having opened and destroyed human civilization on Earth. Dislikes rubble.
 	Adam and Thomas - 30s - overseers for Robert Huston (deceased; death by lightning gun)
 
-### Kenya: CULT IN RESIDENCE: unknown if any
+### Kenya: CULT IN RESIDENCE: Whatever Tan Kaur is doing, maybe others
 	
 	Alistair "Alec" Finch - early 40s - some sort of intelligence handler for Monty, claims to live in London and be British but with an American accent, met on the ship from Melbourne to Capetown, hunting the group he thinks killed or covered up Monty's death
 	Bertram "Nails" Nelson - [ not yet met, multiple connecting threads from handouts, brady ]
 	Johnstone Kenyatta - [ not yet met, connections from Elias ]
 	Ahja Singh - Importer/Exporter in Mombasa, claimed to not be in Kenya (in India, on busines)
 	Opinder Singh - a clerk in Ahja Singh's import/export business, taking care of the business while Ahja is away
-	Taan Kaur - [ not yet met, recipient of shipments of "tea" ]
+	Taan Kaur - runs a tea shop in the indian district; the biggest importer in Nairobi - and clearly at _least_ some kind of priestess
 	Reggie Baines - owner operator of the Hampton House Hotel in Nairobi
 
 ## THE ASSEMBLED TIMELINE
@@ -2793,3 +2853,4 @@ Sessions:
 	2026-08-07 Fire Vampires on a Train
 	2026-08-14 Nairobi At Last
 	2026-09-04 Fly Whips and Chameleons
+	2026-09-25 Robbing Tan Kaur
