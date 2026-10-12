@@ -2315,6 +2315,99 @@ The medical records hint that Hypatia Masters was likely pregnant when the exped
 
 ### Saturday, October 10, 1925 – Lunch hour
 
+Leaving the clinic of Dr. Horace Starret in Swahili Town around noon, the group decides to look up Sam Mariga. From their earlier inquiries, they know he lives on Charles Street near the railway station.
+
+Walking down the dusty tracks between the sun-baked shanties and mud-brick hovels, they find Sam Mariga’s home. While the dwelling itself is a modest clapboard shack roofed with hammered-out paraffin tins, the surrounding yard is a brilliant paradise of flourishing flowerbeds and lush jacarandas. A large, powerfully built African man in work overalls and strapped leather knee pads is standing in the garden, critically inspecting a flowering tree. As the group approaches, he kneels down and begins trimming a shrub with heavy shears, well aware of their presence.
+
+Dr. Jack steps forward and greets him in flawless, formal Swahili. Sam pauses, turning to study the doctor with guarded, dark eyes before answering in rapid Swahili. He remarks that hearing such speech from a stranger is like watching a dog walk on its hind legs: fascinating and quite impressive. Sizing Dr. Jack up, Sam switches to English, noting that if they ever need to speak of matters that others should not overhear, he will remember that the doctor possesses the tongue. He then gestures toward a weathered wooden bench shaded beneath the overhanging eaves of the roof. "Sit," he says. "The street is loud, and here the flowers will help keep our counsel. What can I do for you?"
+
+The group introduces themselves as companions of the late Jackson Elias. Sam nods slowly. He remembers Elias coming to his door a year ago to ask about the discovery of the massacre site in 1919. Sam explains that he was the one who initially carried word to the district officer after visiting his cousin in the village of Ndovu in the Aberdare Forest.
+
+"What I told Elias is what I told others," Sam says evenly. "I was in Ndovu visiting my cousin. The forest people were terrified. They said there was this mountain meadow where the ground had died, where dozens of bodies lay strewn across the grass like butchered cattle. They said that the wind that came off of it smelled of rotting meat and sulfur. There were buzzards and hyenas, but they wouldn't approach the meat. And when meat sits in the sun, even the ants won't touch it. Men should run the other way."
+
+Sam explains that he walked the perimeter of the field himself before going to the authorities. By his reckoning, the mangled remains belonged to roughly twenty Kikuyu and Kamba bearers. Not a single scrap of white man's clothing or boot lay among the gore. Yet the colonial officials wanted a tidy hanging to close the books, so they rounded up five innocent Nandi men who had never set foot near Ndovu and hanged them in the yard. Sam remains visibly bitter about the injustice.
+
+When the group asks about the Mountain of the Black Wind, Sam’s face hardens and he immediately claims to know nothing of it. Both Serafina and Dr. Jack catch the lie at once. Rather than pressing him aggressively, Dr. Jack quietly mentions that Okomu and Old Bundari sent them to his door, and that Bundari revealed one of the Carlyle Expedition members is still trapped upon the mountain with child.
+
+Sam’s demeanor softens with profound reverence. "Old Bundari sits between the worlds," he murmurs. "If the old father opened his eyes and looked upon your faces, he saw something heavier than curiosity. Few strangers enter his circle. Did he give you a path or merely a warning?" Learning that Bundari bestowed sacred gifts upon them, Sam nods with newfound respect: "If you carry the grandfather's gifts, that is very surprising. You have my ear. He does not part with those to fools who intend to die quickly."
+
+Sam agrees to guide the group as far as Ndovu village and across the Nyeri corridor to the edge of the massacre site, though he makes it clear that he will not step onto that blighted earth or climb Mount Satima itself. He warns them that the colonial administration remains entirely blind, pretending there is no cult in the bush.
+
+"The Bloody Tongue is spreading like an ulcer," Sam explains grimly. "They steal children and hunters from the bush, and M'Weru has returned to Mount Satima. She sits in the high caves above the tree line. The drums can be heard for ten miles when the moon is dead. Strangers have been passing through Nairobi and heading north along the trail for weeks—Sudanese, Asians, Chinese, Europeans dressed in heavy boots. They carry no rifles. Their eyes are empty, but wild. When that child breathes, the black wind will come down from the mountain and sweep clean through this colony."
+
+As they discuss the global reach of the cult, Gus feels an uncomfortable twitch in his skull and activates his telepathic link to Kakakatak in Australia. The Yithian scholar responds with immediate, clinical irritation, informing Gus that the lobotomized assistant they left behind has died and that her research is badly stalled by rubble. When Gus asks about the "Small Crawler" referenced in the Hindi note stolen from Taan Kaur's cellar, Kakakatak explains that it is merely another avatar of Nyarlathotep worshipped by a powerful cult in India with roughly ten thousand devotees. She scoffs at Gus's inquiry regarding the creature's "breath," complaining that he should return at once to clear stone rather than doting these trivialities. After Gus placates her, she mentions having set aside several additional Model B lightning weapons should they ever return.
+
+Sam watches Gus's distant stare with quiet curiosity before laying out the logistics for the trek to Mount Satima. He explains that the overland route through the Aberdare Forest takes roughly six days on foot, cutting through dense cedar, camphor, and high montane bamboo. The mountains receive ten feet of rain each year, turning trails to freezing mud and shroud-like mist. He instructs the group to outfit themselves at Dalton and Son’s Trading Post with heavy canvas tents, wool blankets, lanterns, salt, provisions, and pangas to clear the bush.
+
+Before parting, the group inquires about Colonel Henry Endicott and the strange entries in Taan Kaur’s ledger referencing "ground spoiled." Sam's face darkens. He confirms that the Carlyle party spent several days at Endicott's game lodge southwest of Nairobi before heading into the interior. "After the whites went into his scrub, the land turned sour," Sam warns. "Men die out there on the open dirt. Endicott thinks it's a lion, but the boy who cooks for him, Silent Joe, knows that the earth there was cursed by whatever Penhew and the doctor did under the moon. If you go to Endicott, keep your eyes on the dust devils that rise after sundown."
+
+### Saturday, October 10, 1925 – 4pm - Looking for Endicott
+
+Leaving Sam's garden around four in the afternoon, the group sets out to gather provisions and tend to their responsibilities. Pausing near open refuse pits in Swahili Town, they trap a couple dozen live flies in an empty tin. Returning to Hampton House, they find Who, the three-horned chameleon, pacing restlessly in her cage. The moment the container is cracked open, the captive flies desperately crowd into the far corner, but Who’s elongated tongue snaps across the air, devouring a dozen insects in seconds.
+
+Stepping back out into the street, Serafina notices a young Kenyan youth lingering near the hotel entrance. The instant their eyes meet, the scout wheels around and bolts into the distance, confirming that eyes are watching their quarters.
+
+The group visits Dalton and Son’s Trading Post to price expedition gear. Reviewing their needs for canvas, foul-weather clothing, lanterns, rations, tools, and porters' wages for a three-week journey, they tally roughly seventy-five pounds of expenses—nearly the entirety of their remaining cash. With their bank transfers from New York still pending, they realize they cannot set off into the bush until funds arrive.
+
+They walk over to Highlands Breeze Hospital to check on Alastair Finch. The burned agent is resting comfortably, his dressings freshly changed. When asked about the stolen Hindi tome from Taan Kaur's cellar, Finch reports that he has been sweet-talking an Indian nurse on the ward into examining it. She agreed to page through the text during her evening shifts, though she warned him that the latter chapters appear to describe deeply taboo rites. Finch promises to have an overview ready within a couple of days.
+
+With twilight settling over Nairobi, the group decides to visit the offices of the Nairobi Star, located just down the street from Hampton House. Pushing through the front door, they step into a noisy workspace where typographers and press operators are busily setting lead type for the morning run.
+
+A brisk, slender woman of about fifty with her graying hair pinned in a tight bun marches over, introducing herself as Mrs. Natalie Smythe-Forbes. She asks with visible impatience what they require. When the group claims to be seeking back issues concerning Lieutenant Mark Selkirk, Mrs. Smythe-Forbes sighs, explaining that Selkirk was an unremarkable officer whose death in a common house fire was far too mundane to warrant an obituary.
+
+When the conversation shifts to Colonel Henry Endicott and the deaths at his hunting lodge, Mrs. Smythe-Forbes bristles with indignation. She marches them up to the second floor archives and points dramatically at jagged, blasted splinter holes in the floorboards. She explains that only that very morning, Colonel Endicott stormed into her office carrying an elephant gun, fired a blast straight up through the ceiling, and shouted that her slanderous reporting was destroying his livelihood.
+
+"Endicott makes no concessions for common sensibilities," she remarks sharply, retrieving a bundle of newspaper clippings. "Now he considers me some kind of implacable foe out to ruin him. Indeed, the Star is reporting the deaths near his lodge mostly for the self-interested reason that they are news, and in the altruistic hope that such reports will help stop others from being killed."
+
+Reviewing the files, the group counts twelve deaths around Endicott’s lodge since 1919: ten wealthy safari tourists—four Englishmen and six Americans—and two native servants. The bodies were found scattered across the savanna near a raised viewing platform, partially gnawed by scavengers. While Mrs. Smythe-Forbes maintains that a rogue man-eating lion is responsible, the clippings note that the local Boyoyva people shun the area due to ancient legends of an evil tribe wiped out centuries ago. The files also mention that Endicott established the lodge in 1918 alongside his wife Susan and ten-year-old son Augustus, both of whom fell ill and died within months of their arrival.
+
+Examining older 1919 clippings of the Carlyle Expedition, the group spots departure photographs showing Sir Aubrey Penhew looking remarkably vigorous and Hypatia Masters appearing bloated and indisposed. Another article recounts how the expedition spent several days resting at Endicott's lodge before heading into the wilderness.
+
+Hoping to speak with Endicott while he is still in the capital, the group asks where the Colonel stays. Mrs. Smythe-Forbes rolls her eyes and suggests checking the elite Muthaiga Club or the Norfolk Hotel, though she notes that when Endicott is deep in his cups, he is just as likely to sleep in his truck.
+
+The group hikes across town to the Norfolk Hotel. Entering the grand lobby, Gus and Lia approach the reception desk, but the clerk takes one look at their rumpled travel clothes and offers an icy, silent glare. When Gus politely asks to leave a message for Colonel Endicott, the woman coldly informs him that the hotel does not discuss its patrons with walk-ins.
+
+Seeing that direct charm is failing, Ossmus steps forward and catches the clerk’s eye, executing a gentle, hypnotic fixation. The woman blinks, her gaze glazing over. Under gentle questioning, she admits that Endicott is not currently registered. She explains that the Colonel only comes to the Norfolk when he has been barred from the Muthaiga Club for drunkenness, adding that he possesses a terrible thirst and is almost certainly drinking himself senseless at some local watering hole.
+
+Leaving the hotel, the group realizes that searching every tavern in the sprawling settlement in the dark is futile. They decide to return to Hampton House for dinner and a night's rest.
+
+Entering the lobby around nine in the evening, they find Reggie Baines leaning behind the front desk. They ask if he might know how they can find Endicott; Reggie winces and tilts his head toward the hotel saloon. "Can't you hear him?" he whispers.
+
+From the barroom comes a booming, gravelly roar: "Pure, unadulterated, treasonous balderdash! Meddlesome harpy Smythe-Forbes is out to ruin me! Systematically tearing down a gentleman's livelihood for the sake of peddling her wretched scandal sheet to bored civil servants and shopkeepers!"
+
+The group steps into the crowded saloon. Standing at the counter is Colonel Henry Endicott: a towering man well over six feet tall, with a brick-red face, a bristling white mustache, and a slouch hat cocked to one side. He reeks overpoweringly of single malt whisky and stale pipe smoke, belligerently gesturing with a massive double-barrel elephant gun tucked under his arm.
+
+Ossmus moves to his side, offering loud, enthusiastic agreement with the Colonel's grievances. Endicott turns his bloodshot eyes upon the magician, delighting in an ally.
+
+"A man-eater, she says!" Endicott barks, waving a calloused hand. "Poppycock! She prints columns whispering my land is a slaughterhouse and guests aren't safe in their beds and I'm negligent! I've fought the Boers! I've held trench lines against the Kaiser's machine guns! I've put down four tons of charging rogue bull with this very rifle!" He hoists the weapon proudly. "Mrs. Carruthers killed it with one shot! Do they think I don't know the spoor of a lion when I see it?"
+
+Endicott downs his tumbler and leans in close. "People come out here with their fancy bespoke safari jackets from Savile Row expecting to stroll through Hyde Park. You step out into the valley, you take your bloody chances! There is nothing more natural in this whole God-forsaken continent than a sudden violent end in the bush! Twelve deaths in six years, she shrieks! Ten bloody tourists, two boys who should have known better! And now Government House looks the other way, the hunting permits dry up, the club treats me like a leper! My staff, superstitious cowards to a man, pack up and bolt into the bush because of native whisperings! Only Silent Joe had the backbone to stay, and he doesn't say a bloody word from dusk to dawn!"
+
+Endicott pauses, peering down at his rifle with a drunken, theatrical grin. "Mrs. Carruthers, what is your opinion on all of this? What should be done, do you think?" He presses his ear to the cold steel, laughs, and shrugs. "Nothing. She never answers me."
+
+Ossmus seizes the opening, telling Endicott that the group represents travelers from London looking for a genuine, unvarnished safari experience, and that they would relish the chance to see his land firsthand.
+
+Endicott’s eyes light up with manic joy. "You look like sensible people! Not like those desk-bound ink slingers! You want real sport? You want the truth? Come out to the lodge! See the Mbagathi country with your own eyes! I'll give you the run of the compound, the finest Glenlivet in the colony, and a grandstand view of the game from a high platform! It's four hours in my lorry! Come out there, spend the night, bag whatever scavenger is making a nuisance of itself, and help me ram the truth down that woman's throat!"
+
+Dr. Jack grins, darts upstairs, and returns moments later carrying his heavy .450 double rifle. Endicott’s jaw drops in admiration. He strokes the blued barrels and demands to know the weapon’s name. Dr. Jack promptly christens her "Aunt Nora." Endicott roars with laughter, ordering a round of doubles to seal the bargain.
+
+"We leave now!" Endicott announces, slamming his glass onto the wood. "Brave the night and be there by dawn! What say you?"
+
+The group agrees. Rushing to their rooms, they assemble their gear in under half an hour. They pack extra ammunition, canteens, Who in her cage, Bundari's carved fly whisk, their knives, their handguns, and a single Yithian Model B lightning weapon concealed in a heavy blanket. They grab the masks so as not toi leave them behind unguarded.
+
+Outside, Endicott cranks the engine of his open-topped truck. Insisting that no lady will ever ride in the cargo bed under his watch, he ushers Serafina and Lia into the front cab beside him, while Gus, Ossmus, and Dr. Jack climb into the open back alongside the luggage and crates.
+
+With a grinding of gears, the truck roars into the darkness, leaving Nairobi behind and heading southwest into the vast, trackless savanna. The journey is punishingly rough. Endicott drives like a madman, careening over rocky gullies and through thick brush at full throttle. Whenever glowing eyes appear in the headlights — zebras, antelopes, or hyenas lingering on the track — the Colonel merely accelerates, bellowing curses into the wind. When an animal refuses to scatter, he leans Mrs. Carruthers out the side window with one hand and fires deafening charges into the night sky to blow the path clear, with Dr. Jack cheering him on from the bed.
+
+As the hours drag on, the rugged plains unfold under the brilliant starlight, bordered by the distant silhouettes of jagged mountain ridges. Passing game trails near the swollen pools of the Mbagathi-Athi River, the headlamps catch brief, magnificent glimpses of giraffes, rhinos, and distant hippopotamuses wallowing in the shallows.
+
+Just as the first pale sliver of dawn touches the horizon around five in the morning, the rattling truck finally pulls into Colonel Endicott’s compound. They pass a solitary, thatched viewing platform perched on tall wooden stilts near the riverbanks before reaching the main enclosure—a sturdy stone and timber lodge surrounded by a dense, towering fence of thorn bushes.
+
+Endicott cuts the roaring engine. Swaying on his feet as he clambers out of the cab, the Colonel slurs out a final, exhausted welcome, boasting that the savanna is theirs to hunt and that the dead tourist sites lie only a short walk from the viewing tower. He unlocks the front door of the dark lodge, distributes brass bedroom keys to the battered travelers, and promptly collapses face-first into an oversized leather armchair in the sitting room. Within seconds, a rattling snore fills the quiet house.
+
+Exhausted, bruised, and covered in road dust, the group stands alone in the dimly lit hall of the hunting lodge as dawn breaks across the African plains.
+
+### Sunday, October 11, 1925 – dawn
 
 ## 1926
 
@@ -2499,6 +2592,8 @@ The medical records hint that Hypatia Masters was likely pregnant when the exped
 	Opinder Singh - a clerk in Ahja Singh's import/export business, taking care of the business while Ahja is away
 	Taan Kaur - runs a tea shop in the indian district; the biggest importer in Nairobi - and clearly at _least_ some kind of priestess
 	Reggie Baines - owner operator of the Hampton House Hotel in Nairobi
+	Colonel Henry Endicott - 62 - KCGB, DSO, etc. (modesty forbids more); owner of the Endicott Huntil Lodge
+	Mrs. Carruthers - Endicott's massive elephant gun
 
 ## THE ASSEMBLED TIMELINE
 
@@ -2854,3 +2949,4 @@ Sessions:
 	2026-08-14 Nairobi At Last
 	2026-09-04 Fly Whips and Chameleons
 	2026-09-25 Robbing Tan Kaur
+	2026-10-09 To the Lodge
